@@ -1,0 +1,185 @@
+{
+  "people": 12865,
+  "awards": 12887,
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "age_people": 2243,
+  "age_awards": 2255,
+  "age_median": 69,
+  "gender_people": 1812,
+  "gender_sources": {
+    "wikidata": 1779,
+    "occupation": 33
+  },
+  "gender_years": {
+    "2015": {
+      "m": 169,
+      "w": 59
+    },
+    "2016": {
+      "m": 147,
+      "w": 49
+    },
+    "2017": {
+      "m": 109,
+      "w": 40
+    },
+    "2018": {
+      "m": 152,
+      "w": 50
+    },
+    "2019": {
+      "m": 112,
+      "w": 48
+    },
+    "2020": {
+      "m": 106,
+      "w": 49
+    },
+    "2021": {
+      "m": 150,
+      "w": 60
+    },
+    "2022": {
+      "m": 79,
+      "w": 37
+    },
+    "2023": {
+      "m": 59,
+      "w": 35
+    },
+    "2024": {
+      "m": 82,
+      "w": 49
+    },
+    "2025": {
+      "m": 84,
+      "w": 54
+    },
+    "2026": {
+      "m": 23,
+      "w": 22
+    }
+  },
+  "party": {
+    "SPD": 169,
+    "CDU": 180,
+    "CSU": 29,
+    "Grüne": 40,
+    "FDP": 27,
+    "ÖDP": 1,
+    "Freie Wähler": 4,
+    "Linke": 4
+  },
+  "reason_people": 5415,
+  "reason_awards": 5425,
+  "categories": {
+    "Integration & Migration": 162,
+    "Kultur & Kunst": 566,
+    "Kirche & Religion": 224,
+    "Bildung & Jugend": 243,
+    "Wissenschaft & Forschung": 336,
+    "Nicht spezifiziert": 418,
+    "Internationale Beziehungen": 193,
+    "Heimat & Brauchtum": 138,
+    "Erinnerungskultur & Versöhnung": 299,
+    "Kommunalpolitik & Verwaltung": 436,
+    "Politik (Land/Bund/EU)": 205,
+    "Sport": 290,
+    "Soziales & Wohlfahrt": 716,
+    "Sonstiges": 99,
+    "Wirtschaft & Gewerkschaft": 259,
+    "Gesundheit & Pflege": 474,
+    "Feuerwehr, Rettung & Katastrophenschutz": 186,
+    "Umwelt & Naturschutz": 181
+  },
+  "merit": {
+    "Ehrenamt": 2954,
+    "Beruf": 1407,
+    "Beides": 788,
+    "Unklar": 276
+  },
+  "official_awards": 12609,
+  "state_awards": 11488,
+  "state_people": 11471,
+  "municipality_awards": 11412,
+  "state_rates": {
+    "Schleswig-Holstein": 15.21031299782087,
+    "Berlin": 15.458738710010415,
+    "Bayern": 15.869537004370464,
+    "Niedersachsen": 22.30001005123633,
+    "Sachsen-Anhalt": 13.722104282333946,
+    "Hessen": 17.002580504111375,
+    "Rheinland-Pfalz": 7.39796568071593,
+    "Nordrhein-Westfalen": 12.589883569979603,
+    "Saarland": 29.6820742111418,
+    "Thüringen": 16.938138102604086,
+    "Baden-Württemberg": 9.785919203066111,
+    "Sachsen": 5.83543239935919,
+    "Brandenburg": 7.131971649237094,
+    "Hamburg": 12.516896472963236,
+    "Bremen": 10.609479216030216,
+    "Mecklenburg-Vorpommern": 8.766808608497833
+  },
+  "saar_sachsen": 5.086525244367717,
+  "top_districts": [
+    {
+      "name": "Weimar",
+      "total_per100k": 48.805783485343014,
+      "annual_per100k": 4.067148623778585,
+      "awards": 32
+    },
+    {
+      "name": "Lüchow-Dannenberg",
+      "total_per100k": 44.85454312443932,
+      "annual_per100k": 3.7378785937032766,
+      "awards": 21
+    },
+    {
+      "name": "Bamberg",
+      "total_per100k": 40.146079929550105,
+      "annual_per100k": 3.345506660795842,
+      "awards": 31
+    },
+    {
+      "name": "Northeim",
+      "total_per100k": 36.8908991755686,
+      "annual_per100k": 3.07424159796405,
+      "awards": 46
+    },
+    {
+      "name": "St. Wendel",
+      "total_per100k": 36.62500572265714,
+      "annual_per100k": 3.0520838102214287,
+      "awards": 32
+    }
+  ],
+  "abroad_people": 726,
+  "abroad_awards": 728,
+  "abroad_countries": 107,
+  "all_countries": 108,
+  "grade_counts": {
+    "Verdienstkreuz am Bande": 8602,
+    "Verdienstmedaille": 3269,
+    "Großkreuz": 16,
+    "Verdienstkreuz 1. Klasse": 702,
+    "Großes Verdienstkreuz": 103,
+    "unbekannt": 50,
+    "Großes Verdienstkreuz mit Stern": 72,
+    "Großes Verdienstkreuz mit Stern und Schulterband": 50,
+    "Sonderstufe des Großkreuzes": 22,
+    "Großkreuz in besonderer Ausführung": 1
+  }
+}

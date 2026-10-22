@@ -1,0 +1,12 @@
+[project]
+name = "bvk"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.2",
+    "playwright>=1.63.0",
+    "pypdf>=6.20.1",
+    "selectolax>=1.0.0",
+    "tenacity>=9.2.1",
+]

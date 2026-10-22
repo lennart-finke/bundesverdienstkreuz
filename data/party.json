@@ -1,0 +1,4041 @@
+[
+  {
+    "id": "485c5a65bcb0",
+    "name": "Angelika Graf",
+    "party": "SPD",
+    "evidence": "Wikipedia: deutsche Politikerin (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b27c6260fa2a",
+    "name": "Anke Eymer",
+    "party": "CDU",
+    "evidence": "Wikipedia: deutsche Politikerin (CDU), Bundestag 1990–2009",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "444eae1430a9",
+    "name": "Anna Eder",
+    "party": "CSU",
+    "evidence": "Wikipedia: deutsche Kommunalpolitikerin (CSU), OB Deggendorf 2000–2012",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "48a24fe8b467",
+    "name": "Arthur P. Kary",
+    "party": "SPD",
+    "evidence": "Langjähriger SPD-Ortsvereinsvorsitzender, über 20 Jahre",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "51ef71dd8211",
+    "name": "Beate Wille",
+    "party": "keine",
+    "evidence": "Ehrenamt bei den Grünen Damen, Besuchsdienst; keine Parteiangabe",
+    "note": "Grüne Damen is a volunteer organisation, not a party",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "95c39365256a",
+    "name": "Beate und Serge Klarsfeld",
+    "party": "keine",
+    "evidence": "Nur Linke-Fraktion als Vorschlagende und CDU-Kanzler als Ohrfeige-Ziel genannt",
+    "note": "Parties only in other contexts",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "05b5f12d613c",
+    "name": "Birgit Kipfer",
+    "party": "SPD",
+    "evidence": "Deutsche Politikerin (SPD), Landtag 1988–2009",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d7cc133db4ed",
+    "name": "Daniela Lesmeister",
+    "party": "CDU",
+    "evidence": "deutsche Polizistin, Verwaltungsjuristin und politische Beamtin (CDU)",
+    "note": "Party from label; no exit stated, assumed continued",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ccefbf199e50",
+    "name": "Dieter Alfons Fischer",
+    "party": "SPD",
+    "evidence": "1. Vorsitzender des SPD-Ortsvereins Holzhausen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "387018f7c99e",
+    "name": "Eckart Kuhlwein",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), ehem. Parlamentarischer Staatssekretär",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ae4b4e3a8dae",
+    "name": "Egbert Neuhaus",
+    "party": "CDU",
+    "evidence": "Wikipedia: „Er ist Mitglied der CDU.“",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d228716a2f0c",
+    "name": "Erich Leopold Pipa",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), Landrat des Main-Kinzig-Kreises",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6ad39cbb17f2",
+    "name": "Eva Schlaugat",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), ehemaliges Mitglied des Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6f59f896e5d1",
+    "name": "Franz Romer",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "442f863327f1",
+    "name": "Frieder Stöckle",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD); „Zudem war Stöckle ... für die SPD aktiv“",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "21a79285edee",
+    "name": "Fritz Buschle",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Landtag Baden-Württemberg 2006–2011",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0d59b5d90680",
+    "name": "Georg Stahl",
+    "party": "CSU",
+    "evidence": "Wikilink „Georg Stahl (CSU)“; MdL 1998–2008",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "716036783714",
+    "name": "Gerhard Stöcker",
+    "party": "SPD",
+    "evidence": "Ehrenamtlicher Beigeordneter (SPD) im Gemeindevorstand Körle",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8fbae864c631",
+    "name": "Günter Bernhard Reppien",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Gewerkschaftsfunktionär",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "66e3286f5119",
+    "name": "Günther Peter Schwarz",
+    "party": "CDU",
+    "evidence": "Jurist und Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "979a71fbcc4c",
+    "name": "Hans-Dieter Alt",
+    "party": "CDU",
+    "evidence": "Stadtverordneter der CDU-Fraktion; Schatzmeister CDU/CSU-Vereinigung Fulda",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "82ee88163347",
+    "name": "Hermann Helmut Georg Eppers",
+    "party": "CDU",
+    "evidence": "CDU-Politiker, Mitglied des Landtages Niedersachsen 1994–2008",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "32814a206f45",
+    "name": "Hildegard Klär",
+    "party": "SPD",
+    "evidence": "Ehemalige hessische Politikerin (SPD), Landtagsabgeordnete",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "24f96d8379cd",
+    "name": "Jutta Fricke",
+    "party": "keine",
+    "evidence": "Leiterin der Grünen Damen; keine Parteimitgliedschaft genannt",
+    "note": "",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fb67fcdaa6b1",
+    "name": "Karl-Heinz Wilmes",
+    "party": "SPD",
+    "evidence": "Deutscher SPD-Kommunalpolitiker",
+    "checked_by": "claude-haiku",
+    "previous_id": "0765f8c9dcc8"
+  },
+  {
+    "id": "4a0d6f22920b",
+    "name": "Klaus-Ulrich Reipert",
+    "party": "CDU",
+    "evidence": "Ehemaliger deutscher Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "21be92b6c1b2",
+    "name": "Lena Strothmann",
+    "party": "CDU",
+    "evidence": "Ehemalige deutsche Politikerin (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4b2a0b462276",
+    "name": "Mario Capezzuto",
+    "party": "SPD",
+    "evidence": "Deutscher SPD-Politiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d55f7d432f57",
+    "name": "Michael Heinisch-Kirch",
+    "party": "Grüne",
+    "evidence": "Politiker (Bündnis 90/Die Grünen); Grünen-Fraktionsvorsitzender 2006–2013",
+    "checked_by": "claude-haiku",
+    "previous_id": "1c0baef3ac50"
+  },
+  {
+    "id": "faf616951510",
+    "name": "Peter Bürgel",
+    "party": "CSU",
+    "evidence": "Politiker der CSU, Oberbürgermeister Dachau 2003–2014",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "851be3f605ff",
+    "name": "Petra Merkel",
+    "party": "SPD",
+    "evidence": "Deutsche ehemalige Politikerin (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c283860d5133",
+    "name": "Reinhard Strecker",
+    "party": "SPD",
+    "evidence": "Wikipedia: „Mitglied der SPD und des einstigen SDS“",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "74535a2d831a",
+    "name": "Richard Schröder",
+    "party": "SPD",
+    "evidence": "Photo caption: „Theologe und Politiker (SPD) (2015)“",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "be921fba8100",
+    "name": "Robert Antretter",
+    "party": "SPD",
+    "evidence": "Abgeordneter der SPD im Deutschen Bundestag 1980–1998",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "261590cd885a",
+    "name": "Rolf Teucher",
+    "party": "SPD",
+    "evidence": "Ehemaliger Kommunalpolitiker (SPD), Bürgermeister Rendsburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6aa95b986b52",
+    "name": "Stephan Patrik Garçon",
+    "party": "SPD",
+    "evidence": "Zehnjähriger SPD-Fraktionsvorsitzender im Bitburger Stadtrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1c7f50caf260",
+    "name": "Thomas Strobl",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Innenminister Baden-Württemberg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fb5d9d653323",
+    "name": "Ulrich Eckhard Kurt Robert Biel",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Mitglied des Niedersächsischen Landtags 1982–2008",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2a78471e943d",
+    "name": "Uta Zapf",
+    "party": "SPD",
+    "evidence": "Deutsche Politikerin (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "41dcca014ca5",
+    "name": "Uwe-Peter Lestin",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD)",
+    "note": "Award 2015/2016; no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bfb9ff135a6f",
+    "name": "Volker Stein",
+    "party": "FDP",
+    "evidence": "Oberst der Reserve, ... FDP-Mitglied",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3463033377d3",
+    "name": "Werner Schulz",
+    "party": "Grüne",
+    "evidence": "Politiker (Bündnis 90/Die Grünen), Mitglied des Europäischen Parlaments",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c864e9ede84d",
+    "name": "Anja Schneider",
+    "party": "CDU",
+    "evidence": "Pflege- und Hospizmanagerin, Politikerin (CDU), Landtag Sachsen-Anhalt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4fcd6f9f03dc",
+    "name": "Bernd Faulenbach",
+    "party": "SPD",
+    "evidence": "Ehrenvorsitzender der Bochumer SPD",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f56e2d4b4871",
+    "name": "Bernd Manfred Schimmler",
+    "party": "SPD",
+    "evidence": "Autor und ehemaliger deutscher Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f3b5a30cd8c2",
+    "name": "Bernd Siebert",
+    "party": "CDU",
+    "evidence": "Der Gudensberger CDU-Bundestagsabgeordnete Bernd Siebert",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "55b7216a1925",
+    "name": "Birgit Müller",
+    "party": "keine",
+    "evidence": "Auszeichnung von SPD-Senatorin überreicht; Parteizugehörigkeit nicht genannt",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4043d653934b",
+    "name": "Christa Köhler",
+    "party": "keine",
+    "evidence": "Mitglied der CDU-Fraktion des Gemeinderats 2008 bis 2014; Award 2016",
+    "note": "Left CDU before award; no new party",
+    "checked_by": "claude-haiku",
+    "previous_id": "5c5a8e726844"
+  },
+  {
+    "id": "f7ef5aaa14d8",
+    "name": "Christoph Müllerleile",
+    "party": "CDU",
+    "evidence": "Journalist und Kommunalpolitiker (CDU), Stadtverordnetenvorsteher Oberursel",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "16a6677854e2",
+    "name": "Christoph Strässer",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Mitglied des Bundestages; SPD-Arbeitsgruppe Sprecher",
+    "note": "FDP only in Wikipedia intro, undated; SPD at award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "42cd28c1373b",
+    "name": "Dieter Orzessek",
+    "party": "keine",
+    "evidence": "Haseloff (CDU) überreichte Auszeichnung; Orzessek ohne Parteibezug",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "abae30e81819",
+    "name": "Doris Barnett",
+    "party": "SPD",
+    "evidence": "Weitere Mitglieder der SPD-Bundestagsfraktion, darunter Doris Barnett",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f75eb23d8e06",
+    "name": "Eberhard Werner Irlinger",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD, später parteilos), Landrat 2002–2014",
+    "note": "Later parteilos, exit date not in text; SPD assumed at 2016 award. Uncertain",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9a2845f31ecf",
+    "name": "Elisabeth Kain",
+    "party": "keine",
+    "evidence": "Landrat Bayerstorfer (CSU) überreichte Medaille; Kain ohne Parteibezug",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2885b1953fda",
+    "name": "Georg Nüßlein",
+    "party": "CSU",
+    "evidence": "Politiker (parteilos, bis März 2021 CSU); award Dezember 2016",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ae9538912d49",
+    "name": "Georg Stolle",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Bürgermeister der Stadt Bensheim 1972–2002",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "18a561430c0f",
+    "name": "Gerd Hugo Schulte",
+    "party": "CDU",
+    "evidence": "CDU-Politiker, Ratsherr; prägte die Gelsenkirchener CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "43808bc05ac8",
+    "name": "Gerd Höfer",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "86da950d6634",
+    "name": "Gerold Reichenbach",
+    "party": "SPD",
+    "evidence": "Mitglied der SPD-Bundestagsfraktion, Politiker (SPD) 2002–2017",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d8699054fd36",
+    "name": "Gertrud Winzer",
+    "party": "CDU",
+    "evidence": "Kommunal- und Landespolitikerin (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "864c4c8ed4dc",
+    "name": "Gitta Connemann",
+    "party": "CDU",
+    "evidence": "Deutsche Politikerin (CDU) und Juristin, Mitglied des Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d26cad30e891",
+    "name": "Günter Scharhag",
+    "party": "SPD",
+    "evidence": "Ratsmitglied (SPD), Ehrenvorsitzender des SSC Landau",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "47d557670f1d",
+    "name": "Hans-Peter Friedrich",
+    "party": "CSU",
+    "evidence": "Politiker (CSU), Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ebb71a505c0b",
+    "name": "Hansfried Nickel",
+    "party": "keine",
+    "evidence": "Innenstaatssekretär Eck (CSU) überreichte Auszeichnung; Nickel ohne Parteibezug",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku",
+    "previous_id": "ede108c65cb7"
+  },
+  {
+    "id": "6f82ebfaae02",
+    "name": "Hermann Steinmaßl",
+    "party": "CSU",
+    "evidence": "Politiker (CSU); Mitglied des Bayerischen Landtags 1998-2002",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ed1ed5c5c46f",
+    "name": "Horst Johann Klee",
+    "party": "CDU",
+    "evidence": "hessischer Politiker (CDU), Abgeordneter im Hessischen Landtag 1993-2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "92c5b696805d",
+    "name": "Johannes Schulte-Kellinghaus",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU); CDU-Ortsverband Schultendorf",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7aa57fcbe183",
+    "name": "Jonas Alexander Kaufmann",
+    "party": "keine",
+    "evidence": "Ministerpräsident Seehofer (CSU) verlieh Auszeichnung; Kaufmann ohne Parteibezug",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9a204a01843b",
+    "name": "Karin Burmeister",
+    "party": "Grüne",
+    "evidence": "Kommunalpolitikerin (Grüne)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "11ff28a73a49",
+    "name": "Karin Evers-Meyer",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD); Mitglied der SPD-Bundestagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f8c294fa2252",
+    "name": "Kurt Bodewig",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD), ehemaliger Bundesminister für Verkehr",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "103299f98f0e",
+    "name": "Marga Elser",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), ehemalige Bundestagsabgeordnete; SPD-Arbeit",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "be6670cf5cf8",
+    "name": "Marion Viereck",
+    "party": "FDP",
+    "evidence": "ehrenamtlich in zahlreichen kommunalen Gremien, für die FDP",
+    "note": "Activity 'für die FDP' in municipal bodies counted as membership",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fa5e3acf8fa3",
+    "name": "Martin Schulz",
+    "party": "SPD",
+    "evidence": "Politiker (SPD); gehörte 1999-2018 dem Bundesvorstand der SPD an",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "482b967b73a2",
+    "name": "Martin Wiebel",
+    "party": "keine",
+    "evidence": "Berliner Bürgermeister Müller (SPD) überreichte Auszeichnung; Wiebel ohne Parteibezug",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5a654c87a15f",
+    "name": "Michaela Noll",
+    "party": "CDU",
+    "evidence": "Rechtsanwältin und Politikerin (CDU), Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d2007a3419c6",
+    "name": "Ottokar Wilhelm Hahn",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), ehemaliger Minister des Saarlandes; SPD-Politiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "59e511c37941",
+    "name": "Renate Gertrud Holznagel",
+    "party": "CDU",
+    "evidence": "deutsche Politikerin (CDU), Landtagsabgeordnete Mecklenburg-Vorpommern 1991-2011",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3f28d33b0768",
+    "name": "Roswitha Annemarie Bendl",
+    "party": "ÖDP",
+    "evidence": "politische Arbeit in der ÖDP auf Bundes- und Kommunalebene; Urgestein der bayerischen ÖDP",
+    "note": "ÖDP not in list; CSU only presenter",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b2204f918557",
+    "name": "Rudolf Böhmler",
+    "party": "CDU",
+    "evidence": "deutscher Jurist und Politiker (CDU); Mitglied im Vorstand der Bundesbank 2007-2015",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9e5882fc2d92",
+    "name": "Siegfried Böhringer",
+    "party": "SPD",
+    "evidence": "Altbürgermeister der Marktgemeinde Regenstauf, Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "544c4f0c054e",
+    "name": "Siegmund Ehrmann",
+    "party": "SPD",
+    "evidence": "Mitglied der SPD-Bundestagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3846fdd1056f",
+    "name": "Simon Wittmann",
+    "party": "CSU",
+    "evidence": "Politiker (CSU), ehemaliger Bundestagsabgeordneter und Landrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "eba86a876e73",
+    "name": "Stephan Grigat",
+    "party": "CDU",
+    "evidence": "Als CDU-Mitglied engagiert er sich in der Kommunalpolitik",
+    "note": "Verdienstmedaille 2016; membership stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "520b9a5aec56",
+    "name": "Ulla Feldhaus",
+    "party": "SPD",
+    "evidence": "Lehrerin; Kommunalpolitikerin (SPD), ehrenamtliche Bürgermeisterin von Solingen",
+    "checked_by": "claude-haiku",
+    "previous_id": "a238e44a593b"
+  },
+  {
+    "id": "77f25741b648",
+    "name": "Ulrich Gerstner",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD), ehemaliger Landrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9a87143a9707",
+    "name": "Ulrike Hövelmann",
+    "party": "SPD",
+    "evidence": "bremische Politikerin (SPD), Abgeordnete der Bremischen Bürgerschaft",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5935a8224930",
+    "name": "Ursula Ernst",
+    "party": "CDU",
+    "evidence": "Deutsche Kommunalpolitikerin (CDU) und niedersächsische Landtagsabgeordnete",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b5d6f94ed62d",
+    "name": "Werner Heimann",
+    "party": "SPD",
+    "evidence": "Zudem engagiert er sich ... in der SPD und im Verein NaturFreunde",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fe42da371d4f",
+    "name": "Wilhelm Hogrefe",
+    "party": "CDU",
+    "evidence": "deutscher Kommunalpolitiker (CDU), Mitglied des Niedersächsischen Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "afdff87d5de7",
+    "name": "Wolfgang Heinrich Rauls",
+    "party": "FDP",
+    "evidence": "Politiker (NDPD, FDP); letzter NDPD-Vorsitzender 1990, Umweltminister 1990–1994",
+    "note": "NDPD merged into FDP 1990; FDP at 2016 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "dcea0292c892",
+    "name": "Wolfgang Peter Templin",
+    "party": "Grüne",
+    "evidence": "Mitbegründer von Bündnis 90",
+    "note": "Bündnis 90 counts as Grüne; no exit stated, assumed continued",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "74c2c1a7f69b",
+    "name": "Albrecht Weinberg",
+    "party": "keine",
+    "evidence": "Holocaust-Zeitzeuge; Parteien nur im Kontext eines Bundestagsvotums 2025",
+    "note": "Parties only in 2025 context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "19ffc7a781c5",
+    "name": "Angelika Niebler",
+    "party": "CSU",
+    "evidence": "Politikerin (CSU); stellvertretende Parteivorsitzende der CSU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e09c580219a3",
+    "name": "Brunhilde Müller",
+    "party": "FDP",
+    "evidence": "Deutsche Politikerin (FDP/DPS)",
+    "note": "DPS not in list; FDP taken",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bf9e8c7c7109",
+    "name": "Constanze Krehl",
+    "party": "keine",
+    "evidence": "SPD-Vorsitzender Dulig gratuliert Krehl; eigene Parteizugehörigkeit nicht genannt",
+    "note": "Congratulating party chair only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "096a7e138808",
+    "name": "Eckhard Naumann",
+    "party": "SPD",
+    "evidence": "Deutscher Lokalpolitiker der SPD, ehemaliger Oberbürgermeister",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "29a967cc7922",
+    "name": "Eva-Maria Quistorp",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen); Gründungsmitglied ... von DIE GRÜNEN",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ed509313c0ce",
+    "name": "Evelyne Gebhardt",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), Mitglied des Europaparlaments; SPD-Fraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f815cd0e8026",
+    "name": "Frank-Walter Steinmeier",
+    "party": "SPD",
+    "evidence": "Politiker (SPD, seit 2017 ruhend)",
+    "note": "Membership suspended since 2017, not left; award 19.03.2017 at taking office",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b62d413219b4",
+    "name": "Friedhelm Julius Beucher",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), ehemaliges Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "afa0c47ef33c",
+    "name": "Fritz Wilhelm Bockey",
+    "party": "CDU",
+    "evidence": "ehemaliger Polizeibeamter, Kommunalpolitiker (CDU); Vorstand der CDU Elbmarsch",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2bcbb509f8cf",
+    "name": "Gerhard Sonnet",
+    "party": "Freie Wähler",
+    "evidence": "15 Jahre Fraktionsvorsitzender der Fraktionsgemeinschaft Freie Wähler, Unabhängige Bürger, LBBH",
+    "note": "Faction chair of FW-led group",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6e2ba6671101",
+    "name": "Guiseppe Saitta",
+    "party": "CDU",
+    "evidence": "Gastronom, Ratsmitglied der Stadt Düsseldorf (CDU)",
+    "checked_by": "claude-haiku",
+    "previous_id": "b70e8a26b87e"
+  },
+  {
+    "id": "898016b037f4",
+    "name": "Günter Kuhl",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Gasthof-Betreiber, Hauptschöffe",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8fb301f37afb",
+    "name": "Hans Peter Lindlar",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), ehem. Regierungspräsident Köln, Landtagsabgeordneter NRW",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "57a24cd709b2",
+    "name": "Hansjörg Seeh",
+    "party": "SPD",
+    "evidence": "deutscher Kommunalpolitiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d444532d11b9",
+    "name": "Hedwig Maria Petrasch",
+    "party": "Grüne",
+    "evidence": "Gründungsmitglied des Ortsverbandes Marktoberdorf der Grünen (1987)",
+    "note": "Verdienstmedaille 2017",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c99d4737c90c",
+    "name": "Heidrun Meißner",
+    "party": "SPD",
+    "evidence": "deutsche Politikerin (SPD), ehemaliges Mitglied im Berliner Abgeordnetenhaus",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a86ddc789a4e",
+    "name": "Helmut M. Jahn",
+    "party": "CDU",
+    "evidence": "deutscher Politiker (CDU); Landrat des Hohenlohekreises",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "16d64860facd",
+    "name": "Herlich Marie Todsen-Reese",
+    "party": "CDU",
+    "evidence": "deutsche Politikerin (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1e01c28b72fd",
+    "name": "Hermann Thölstedt",
+    "party": "CDU",
+    "evidence": "Der ehrenamtliche Delmenhorster Bürgermeister Hermann Thölstedt (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "080407b971aa",
+    "name": "Ilse Mäurer",
+    "party": "keine",
+    "evidence": "Ehrenamtliche Grüne Dame bei Krankenhaushilfe",
+    "note": "Volunteer title, not party",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1e98f314ddb9",
+    "name": "Inge Gräßle",
+    "party": "CDU",
+    "evidence": "CDU-Europaabgeordnete, Landesvorsitzende der Frauenunion Baden-Württemberg",
+    "checked_by": "claude-haiku",
+    "previous_id": "1cc0d86126db",
+    "merged_annotations": [
+      {
+        "id": "1e98f314ddb9",
+        "name": "Inge Gräßle",
+        "party": "CDU",
+        "evidence": "CDU-Europaabgeordnete, Landesvorsitzende der Frauenunion Baden-Württemberg",
+        "checked_by": "claude-haiku",
+        "previous_id": "1cc0d86126db"
+      },
+      {
+        "id": "1e98f314ddb9",
+        "name": "Ingeborg Gräßle",
+        "party": "CDU",
+        "evidence": "deutsche Politikerin (CDU), Europaabgeordnete",
+        "checked_by": "claude-haiku"
+      }
+    ]
+  },
+  {
+    "id": "7676a0342c42",
+    "name": "Josef Leinen",
+    "party": "SPD",
+    "evidence": "Politiker, Europaabgeordneter (SPD); SPD-Abgeordneter im EP",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0df7f705ee6b",
+    "name": "Jürgen Creutzmann",
+    "party": "FDP",
+    "evidence": "Schatzmeister des FDP-Landesverbandes Rheinland-Pfalz",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8e6feea04e76",
+    "name": "Karl-Friedrich Dünnemann",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Landwirt, ehemaliger Bürgermeister der Gemeinde Wetschen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9df6b2048f07",
+    "name": "Klaus Dieter Breitschwert",
+    "party": "CSU",
+    "evidence": "Bayerischer Politiker (CSU), Mitglied des Bayerischen Landtags 1992-2013",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9471f1df1c92",
+    "name": "Monika Barz",
+    "party": "Grüne",
+    "evidence": "Engagement 'bei den Grünen' unter ihren Aktivitäten genannt",
+    "note": "Party listed among engagements; membership assumed",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3b4c14f474e3",
+    "name": "Rainer Wilhelm Lux",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3884458f2c98",
+    "name": "Reimer Böge",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Mitglied des Europäischen Parlaments; CDU-Europaabgeordneter",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "335c042812da",
+    "name": "Richard Zäh",
+    "party": "CSU",
+    "evidence": "Wikipedia: deutscher Kommunalpolitiker (CSU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c9b48f8183a6",
+    "name": "Rosemarie Ahlswede",
+    "party": "keine",
+    "evidence": "SPD-Fraktion im Kreistag nur 1989 bis 1994 genannt",
+    "note": "Membership ended 1994, before 2017 award; no new party",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6ccee5c09fad",
+    "name": "Sabine Victor",
+    "party": "keine",
+    "evidence": "Organisatorin DRK-Weihnachtsmarkt; Grüne Dame im St. Joseph-Stift",
+    "note": "Volunteer title",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "24f2731fb334",
+    "name": "Seppel (Josef Anton) Götze",
+    "party": "SPD",
+    "evidence": "ehemaliger Ratsmitglied und Fraktionsvorsitzender der SPD",
+    "note": "Former role; no explicit party exit, SPD assumed. Uncertain",
+    "checked_by": "claude-haiku",
+    "previous_id": "e255e7978fcf"
+  },
+  {
+    "id": "198af7ebebd6",
+    "name": "Werner Schröter",
+    "party": "SPD",
+    "evidence": "ehemaliger deutscher Ringer und Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a6248de2573c",
+    "name": "Werner Vehling",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), Bürgermeister Hespe 1974-2017",
+    "checked_by": "claude-haiku",
+    "previous_id": "28a74b5bc6d0"
+  },
+  {
+    "id": "b4480d07b040",
+    "name": "Adelbert Hugger",
+    "party": "CDU",
+    "evidence": "Langjähriger Stadtrat (CDU), langjähriger Fraktionsvorsitzender der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ac4138ffc025",
+    "name": "Andreas Schwab",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Bezirksvorsitzender der CDU Südbaden",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "380fb31d61b2",
+    "name": "Ariane Müller-Reßing",
+    "party": "keine",
+    "evidence": "Ehrenamtliche Flüchtlingshilfe; CDU-Bezirksgruppe nur Bürgerpreis 2013",
+    "note": "Prize from party group, no membership",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5a7b65c09d6e",
+    "name": "Bernd Abeln",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), CDU-Kreistagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "078536c80878",
+    "name": "Christiane Wirries",
+    "party": "CDU",
+    "evidence": "ehemalige Kommunalpolitikerin (CDU)",
+    "note": "Former CDU politician; exit not stated, assumed continued. Uncertain",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6e0a858855cc",
+    "name": "Clemens Lindemann",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Landrat des Saarpfalz-Kreises 1985-2015",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "08a8d2db880c",
+    "name": "Dieter Wilhelmi",
+    "party": "SPD",
+    "evidence": "Politiker und Gewerkschaftsfunktionär (SPD), Bremische Bürgerschaft",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fef6dcc3023f",
+    "name": "Ekkehard Palandt",
+    "party": "CDU",
+    "evidence": "Ehrenamtlicher Bürgermeister Hildesheim, Kommunalpolitiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ad085853dcb1",
+    "name": "Elke Jesinghausen",
+    "party": "CDU",
+    "evidence": "über 20-jähriges kommunalpolitisches Engagement in der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a8922022cf92",
+    "name": "Erardo Cristoforo Rautenberg",
+    "party": "SPD",
+    "evidence": "Er war Mitglied der SPD (Wikipedia-Artikel)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d2d85068cc8d",
+    "name": "Erhard Josef Schäfer",
+    "party": "CDU",
+    "evidence": "CDU-Kommunalpolitiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a8f704e60c59",
+    "name": "Erwin Sellering",
+    "party": "SPD",
+    "evidence": "Jurist und Politiker (SPD), Ministerpräsident M-V 2008-2017",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "197d02c52c13",
+    "name": "Gunter Feuerbach",
+    "party": "CDU",
+    "evidence": "Kreistagsfraktionsvorsitzender der CDU Schaumburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b3ae45c31558",
+    "name": "Hans-Dieter Hucke",
+    "party": "CDU",
+    "evidence": "Betriebswirt im Ruhestand, Kommunalpolitiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "59f98a60a75e",
+    "name": "Hans-Karl Schurer",
+    "party": "CDU",
+    "evidence": "Langjähriger CDU-Vorsitzender, Gemeinderat und stellvertretender Bürgermeister",
+    "note": "Award 2018, exact date unknown",
+    "checked_by": "claude-haiku",
+    "previous_id": "951be1ff1f3c"
+  },
+  {
+    "id": "229b8adbfcc5",
+    "name": "Hartmut Ziebs",
+    "party": "CDU",
+    "evidence": "Feuerwehrmann und Kommunalpolitiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "52125d10f5a1",
+    "name": "Heinz-Hermann Schnabel",
+    "party": "CDU",
+    "evidence": "stellvertretender Fraktionsvorsitzender der CDU-Landtagsfraktion RLP",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c9e32ab56d3a",
+    "name": "Herbert Reul",
+    "party": "CDU",
+    "evidence": "deutscher Politiker der CDU, MdEP 2004-2017",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3dc0d0c02ac8",
+    "name": "Hermann Hill",
+    "party": "CDU",
+    "evidence": "Jurist, Hochschullehrer und Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c03ca2cc592c",
+    "name": "Joachim Wundrak",
+    "party": "keine",
+    "evidence": "AfD-Politiker erst ab 2021; Award 2018 als Generalleutnant",
+    "note": "Joined AfD after award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "97a1d97020b6",
+    "name": "Karl-Rudolf Fischer",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD), Landtagsabgeordneter Schleswig-Holstein",
+    "checked_by": "claude-haiku",
+    "previous_id": "16a0567b3b31"
+  },
+  {
+    "id": "4b3c293e6c89",
+    "name": "Klaus Beck",
+    "party": "keine",
+    "evidence": "SPD-Ministerpräsidentin Dreyer verlieh Auszeichnung; Beck DGB-Gewerkschafter",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8e46d52ce12f",
+    "name": "Martin Böttger",
+    "party": "keine",
+    "evidence": "Mitgründer des Neuen Forums (Bürgerbewegung); Fraktionsname ohne Parteimitgliedschaft",
+    "note": "Civic movement; no party membership stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "634227fcb121",
+    "name": "Michael Cramer",
+    "party": "Grüne",
+    "evidence": "Politiker (Bündnis 90/Die Grünen), Mitglied des Europäischen Parlaments",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ac8345c918b2",
+    "name": "Michael Naumann",
+    "party": "SPD",
+    "evidence": "Journalist, Publizist, Verleger und Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "dd5a73ca0e3f",
+    "name": "Mirjam Pressler",
+    "party": "keine",
+    "evidence": "Steinmeier (SPD) als Bundespräsident überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8f3185a5dcd1",
+    "name": "Monika Griefahn",
+    "party": "SPD",
+    "evidence": "deutsche Politikerin (SPD) und Umweltaktivistin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "000c02edda35",
+    "name": "Peter Liese",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Europaabgeordneter",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "be40d4c419fb",
+    "name": "Regina Maria Seeringer",
+    "party": "CDU",
+    "evidence": "deutsche Politikerin (CDU)",
+    "checked_by": "claude-haiku",
+    "previous_id": "7369f3d030a0"
+  },
+  {
+    "id": "9d5ee9b69490",
+    "name": "Rolf Wernstedt",
+    "party": "SPD",
+    "evidence": "deutscher SPD-Politiker, Kultusminister und Landtagspräsident",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7b7b36241217",
+    "name": "Rudolf Seiters",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Bundesminister a.D.",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5f6af6605b1f",
+    "name": "Stanislaw Tillich",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), langjähriger CDU-Politiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "aa40823164ff",
+    "name": "Ulrich Zeitel",
+    "party": "CDU",
+    "evidence": "Mitglied des Präsidiums und Landesvorstandes der CDU Baden-Württemberg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fed115d16fce",
+    "name": "Ursel Stief",
+    "party": "SPD",
+    "evidence": "fast 60 Jahre SPD-Mitgliedschaft",
+    "checked_by": "claude-haiku",
+    "previous_id": "fad70f6b3f92"
+  },
+  {
+    "id": "156fee9a937b",
+    "name": "Volker Bouffier",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Ministerpräsident des Landes Hessen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "037400fa010b",
+    "name": "Volker Liedtke",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD), Landrat Schwandorf 1996-2014",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7ced85823346",
+    "name": "Volker Liepelt",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Abgeordnetenhaus Berlin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4870f8fcdce8",
+    "name": "Werner Wilhelm",
+    "party": "keine",
+    "evidence": "Geschäftsführer der CDU-Kreistagsfraktion",
+    "note": "Faction staff without membership stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "aedd765c66f7",
+    "name": "Bernd-Dieter Röhrscheid",
+    "party": "SPD",
+    "evidence": "Fraktionsvorsitzender der Willicher SPD",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4d3f8abdc3bd",
+    "name": "Carlo Jordan",
+    "party": "Grüne",
+    "evidence": "1989 Mitgründer der Grünen Partei in der DDR; Bündnis 90/Die Grünen 1994-1995",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a7ea6435c5a4",
+    "name": "Dagmar Pöhland",
+    "party": "keine",
+    "evidence": "Hubertus Heil (SPD) als Bundesminister verlieh Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ded915d78eb5",
+    "name": "Daniela Ludwig",
+    "party": "CSU",
+    "evidence": "Deutsche Politikerin (CSU), Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "88b01e79919d",
+    "name": "Elfriede Roth",
+    "party": "Grüne",
+    "evidence": "Ehrenvorsitzende des Kreisverbandes der Grünen Oberallgäu",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f26d666066a4",
+    "name": "Frank Horst Hämmerle",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Landrat Konstanz 1997-2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "45f941fbf3ef",
+    "name": "Franz Thönnes",
+    "party": "SPD",
+    "evidence": "Ehemaliger SPD-Bundestagsabgeordneter, Parl. Staatssekretär",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c33b7f3df9f6",
+    "name": "Gunter Kaufmann",
+    "party": "SPD",
+    "evidence": "Der ehemalige SPD-Stadtrat Gunter Kaufmann erhält die Auszeichnung",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2c019b22ba0b",
+    "name": "Hans-Jörg Dannenberg",
+    "party": "CDU",
+    "evidence": "Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "61794c258c00",
+    "name": "Hans-Peter Kistenberger",
+    "party": "CDU",
+    "evidence": "CDU-Kommunalpolitiker; engagiert sich kommunalpolitisch für die CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9ac2ce61959d",
+    "name": "Harald Denecken",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "86b143a36916",
+    "name": "Harald Terpe",
+    "party": "Grüne",
+    "evidence": "Pathologe und Politiker (Bündnis 90/Die Grünen), Landtag M-V",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e2d7533a01e5",
+    "name": "Heiner Grub",
+    "party": "SPD",
+    "evidence": "Mitglied des Tübinger Kreistags für die SPD",
+    "note": "Past tense; no exit stated, SPD assumed at 2019 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1bf951b5eca8",
+    "name": "Heinrich Aller",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Ehrenvorsitzender des SPD-Unterbezirks Region Hannover",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "65340afe37e6",
+    "name": "Hermann Otto Solms",
+    "party": "FDP",
+    "evidence": "Deutscher Politiker (FDP), Schatzmeister seiner Partei",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3328928a6ee7",
+    "name": "Hildegard Müller",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Managerin, Präsidentin des VDA",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ca387b5f2bb1",
+    "name": "Ingeborg Brigitte Nünke",
+    "party": "keine",
+    "evidence": "Kerstin Schreyer (CSU) überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ec0246b3800c",
+    "name": "Ioanna Zacharaki",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), ehrenamtliche Bürgermeisterin Solingen; Award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6cdece7db515",
+    "name": "Josef Kau",
+    "party": "keine",
+    "evidence": "FDP Euskirchen gratuliert Kau",
+    "note": "Congratulating party only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5b72a5291523",
+    "name": "Jürgen Lüth",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU, bis 1990 DBD); award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4772454dba9c",
+    "name": "Karl Dörr",
+    "party": "SPD",
+    "evidence": "ehemaliger Politiker (SPD), Hessischer Landtag; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "14b23e81ac31",
+    "name": "Leonhard Kuckart",
+    "party": "CDU",
+    "evidence": "Landtagsabgeordneter (CDU), Vize Senioren-Union; award 2019-01-16",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "726a23cb5d25",
+    "name": "Lothar Mark",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Bundestag 1998–2009; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "88c3eb6280be",
+    "name": "Lutz Johannsen",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Hamburgische Bürgerschaft 1997–2008; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "45d1ce402f9f",
+    "name": "Manfred Helmut Müller",
+    "party": "SPD",
+    "evidence": "langjähriges Mitglied der Siegener SPD-Fraktion; award 2019-07-17",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c198e390332b",
+    "name": "Margareta Elisabeth Böckh",
+    "party": "CSU",
+    "evidence": "Kommunalpolitikerin der CSU, stellv. Fraktionsvorsitzende CSU Memminger Stadtrat; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "84ab7dfcf26d",
+    "name": "Martin Kayenburg",
+    "party": "CDU",
+    "evidence": "Steinburger CDU-Landtagsabgeordneter und Landtagspräsident; award 2019-03-26",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "30e6f1ff6004",
+    "name": "Norbert Hasselmann",
+    "party": "Grüne",
+    "evidence": "Langjähriges Mitglied der Grünen, 20 Jahre Göttinger Kreistag; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cb2d300fce74",
+    "name": "Petra Roth",
+    "party": "CDU",
+    "evidence": "zeitweise CDU-Fraktions- bzw. Parteivorsitzende in Frankfurt; award 2019",
+    "checked_by": "claude-haiku",
+    "previous_id": "b81cc821979f"
+  },
+  {
+    "id": "6329c8bb5fb1",
+    "name": "Raimonds Vējonis",
+    "party": "keine",
+    "evidence": "Präsident Lettlands 2015–2019; zuvor Vorsitzender der Grünen Partei",
+    "note": "Manually excluded from party analysis: only German parties are counted; Latvian Greens are a foreign party.",
+    "checked_by": "manual"
+  },
+  {
+    "id": "1c59b891d5a1",
+    "name": "Rainer Eppelmann",
+    "party": "CDU",
+    "evidence": "Politiker (DA, CDU)",
+    "note": "DA merged into CDU 1990; CDU is the later party",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1b9b752d5f70",
+    "name": "Reinhard Schwarz",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU); award 2019",
+    "checked_by": "claude-haiku",
+    "previous_id": "7dc2129d7185"
+  },
+  {
+    "id": "324b13010ac7",
+    "name": "Utta Schüder",
+    "party": "Grüne",
+    "evidence": "Grünen-Ratsfrau; award 2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "20d870f88dc8",
+    "name": "Wolfgang Grupp",
+    "party": "keine",
+    "evidence": "Kretschmann (Grüne) als Ministerpräsident überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "25a2261e3f34",
+    "name": "Alfons Adam",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD); award 2020-06-05",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "49cfc1562fa1",
+    "name": "Andreas Dresen",
+    "party": "keine",
+    "evidence": "Woidke (SPD) überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "230b6435dcab",
+    "name": "Anneliese Hensel",
+    "party": "CDU",
+    "evidence": "CDU-Stadtverordnete und Vorsitzende der Frauen Union; award 2020",
+    "checked_by": "claude-haiku",
+    "previous_id": "482e0aafae07"
+  },
+  {
+    "id": "fcca2b788d79",
+    "name": "Arif Izgi",
+    "party": "SPD",
+    "evidence": "SPD-Politiker im Stadtrat; Verdienstmedaille für Wuppertaler SPD-Politiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fee8389f8330",
+    "name": "Aydan Özoğuz",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), Bundestagsabgeordnete; award 2020-01-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1aca32fdf50d",
+    "name": "Benno Wolfgang Schmidt",
+    "party": "keine",
+    "evidence": "Ministerpräsident Haseloff (CDU) händigte Auszeichnung aus",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ef23ae4e94e5",
+    "name": "Bernhard Brinkmann",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Bundestag 1998–2013; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "df2b3dd34ae9",
+    "name": "Dagmar Ziegler",
+    "party": "SPD",
+    "evidence": "Deutsche Politikerin (SPD), Bundestag 2009–2021; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f1656b092326",
+    "name": "Detlef Parr",
+    "party": "FDP",
+    "evidence": "Politiker (FDP); Verdienst als Politiker der FDP; award 2020-08-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d3d98b3dc384",
+    "name": "Edmund Geisen",
+    "party": "FDP",
+    "evidence": "deutscher Politiker (FDP); award 2020-01-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "64e4404997e2",
+    "name": "Elke Kiltz",
+    "party": "Grüne",
+    "evidence": "rheinland-pfälzische Politikerin (Bündnis 90/Die Grünen); award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b8ecf628a46b",
+    "name": "Friedrich Brakemeier",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), Bürgermeister Detmold 1989–2004; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fe55307f073f",
+    "name": "Georgia Manfredi",
+    "party": "Linke",
+    "evidence": "Ehrenamtliche Politikerin (Die Linke); award 2020-10-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0588b7ea16ff",
+    "name": "Gerhard Schick",
+    "party": "Grüne",
+    "evidence": "Ehemaliger Politiker (Bündnis 90/Die Grünen), Bundestag 2005 bis 2018",
+    "note": "Former MdB; no party exit stated, assumed continued",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9008e2667262",
+    "name": "Gert Matthias Weisskirchen",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Bundestag 1976–2009; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "960339908a11",
+    "name": "Hanskarl Rauterberg",
+    "party": "CDU",
+    "evidence": "ehrenamtlicher CDU-Ortsbürgermeister; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8db64936f8e5",
+    "name": "Heinz Hilgers",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Dormagen Bürgermeister; award 2020",
+    "checked_by": "claude-haiku",
+    "previous_id": "1518077dee2f"
+  },
+  {
+    "id": "4e1f455bcf4f",
+    "name": "Herbert Mettler",
+    "party": "SPD",
+    "evidence": "Fraktionsvorsitzender der SPD im Rat Duisburg; OB übergab Award an Mettler (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "241e623181c9",
+    "name": "Horst Massmann",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD) in Bremen-Osterholz; award 2021-04-21",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ab758d386f79",
+    "name": "Ingrid Klopp",
+    "party": "CDU",
+    "evidence": "Deutsche Kommunalpolitikerin der CDU, Landtag 2003–2017; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3ac3fc23fefd",
+    "name": "Jens Koeppen",
+    "party": "CDU",
+    "evidence": "Direkt gewählter CDU Bundestagsabgeordneter; award 2020-12-14",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8798fb21dc7e",
+    "name": "Josef Göppel",
+    "party": "CSU",
+    "evidence": "Deutscher Politiker der CSU, Bundestag 2002–2017; award 2020-01-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a3a9fc7f5bbb",
+    "name": "Juliane Vees",
+    "party": "CDU",
+    "evidence": "Kommunalpolitik für die CDU im Wahlkreis Freudenstadt; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "becb4a744fd5",
+    "name": "Karamba Diaby",
+    "party": "SPD",
+    "evidence": "ehemaliger deutscher Politiker (SPD), Bundestag 2013–2025",
+    "note": "Two awards; SPD at first award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6f526e0622e9",
+    "name": "Klaus Pavel",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Landrat Ostalbkreis 1996–2020; award 2020-07-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cc4f23872b7d",
+    "name": "Lothar Binding",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Bundestag 1998–2021; award 2020-12-14",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "62840ae8009e",
+    "name": "Marina Weisband",
+    "party": "Grüne",
+    "evidence": "ukrainisch-deutsche Politikerin (Bündnis 90/Die Grünen)",
+    "note": "Piratenpartei board 2011–2012 earlier; Grüne at 2020 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "63acfe7e328c",
+    "name": "Mechthild Heil",
+    "party": "CDU",
+    "evidence": "Die CDU-Bundestagsabgeordnete Mechthild Heil; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "36ca601a1c79",
+    "name": "Michael Steindorfner",
+    "party": "CDU",
+    "evidence": "deutscher Richter und politischer Beamter (CDU); award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d365ece6ad62",
+    "name": "Otto Fricke",
+    "party": "FDP",
+    "evidence": "Politiker (FDP), Bundestag 2002–2013 und 2017–2025; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6a4d5043a8ca",
+    "name": "Patricia Lips",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Bundestagsabgeordnete; award 2020-12-14",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7bcb911fcda7",
+    "name": "Peter Paul Paziorek",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Bundestagsabgeordneter Warendorf; award 2020-07-06",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "528293b33654",
+    "name": "Rainer Krukenmeier",
+    "party": "CDU",
+    "evidence": "jahrzehntelanges Engagement, insbesondere CDU-Ortsarbeit in Steinhorst; award 2020",
+    "checked_by": "claude-haiku",
+    "previous_id": "89a34a801bd4"
+  },
+  {
+    "id": "ca6cf68b9240",
+    "name": "Reiner Schwarz",
+    "party": "SPD",
+    "evidence": "Bezirksbürgermeister, Feuerwehrmann und Politiker (SPD); award 2020-01-28",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "46edd3fb60fd",
+    "name": "Sibylle Maria Mösse-Hagen",
+    "party": "SPD",
+    "evidence": "Vorsitzende des SPD-Ortsvereins Heilbronn; Führungsrollen in der Heilbronner SPD; award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "99765fde0570",
+    "name": "Stephan Pusch",
+    "party": "CDU",
+    "evidence": "Der Heinsberger Landrat Stephan Pusch (CDU); award 2020-10-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "362d56dcc83c",
+    "name": "Ursula Seiler-Albring",
+    "party": "FDP",
+    "evidence": "Deutsche Politikerin (FDP), Staatsministerin im Auswärtigen Amt; award 2020-01-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1fb57378ffc3",
+    "name": "Ute Wedemeier",
+    "party": "SPD",
+    "evidence": "deutsche Sozialpolitikerin (SPD); award 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5fa4bf1cb2b8",
+    "name": "Uwe Schneidewind",
+    "party": "Grüne",
+    "evidence": "Politiker (Bündnis 90/Die Grünen), später Oberbürgermeister von Wuppertal",
+    "note": "OB term began after award; Grüne at award assumed",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c95c50fb4c41",
+    "name": "Uwe Schummer",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Bundestag 2002–2021; award 2020-12-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "46ec1e0f6cce",
+    "name": "Volker Okun",
+    "party": "CDU",
+    "evidence": "deutscher Politiker (CDU), Mitglied der Hamburgischen Bürgerschaft; award 2020-01-01",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1eaf158ab6ad",
+    "name": "Volker Stephan",
+    "party": "SPD",
+    "evidence": "Veterinärmediziner und Politiker (SPD); award 2020-10-02",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "151a4a6752a7",
+    "name": "Walburga „Wally“ Feiden",
+    "party": "SPD",
+    "evidence": "Deutsche Politikerin (SPD), Bürgermeisterin Bad Honnef 2004–2014; award 2020",
+    "checked_by": "claude-haiku",
+    "previous_id": "d964f2fdfb5c"
+  },
+  {
+    "id": "780d6a28b35a",
+    "name": "Wolfgang Hamberger",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Oberbürgermeister Fulda 1970–1998; Großes Verdienstkreuz 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "41ae3b9a81a4",
+    "name": "Wolfgang Hey",
+    "party": "SPD",
+    "evidence": "ehemaliger deutscher Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4cdc1410de79",
+    "name": "Barbara Anne Hendricks",
+    "party": "SPD",
+    "evidence": "Kreis Klever SPD-Bundestagsabgeordnete Barbara Hendricks",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "085b33bfb612",
+    "name": "Barbara Lochbihler",
+    "party": "Grüne",
+    "evidence": "Deutsche Politikerin (Bündnis 90/Die Grünen)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7bda07589b33",
+    "name": "Brunhilde Theresia Irber",
+    "party": "SPD",
+    "evidence": "deutsche Politikerin (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0dd039acd307",
+    "name": "Christian Ehler",
+    "party": "CDU",
+    "evidence": "CDU-Europaabgeordneter für Brandenburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "255be122c128",
+    "name": "Christian Rehse",
+    "party": "FDP",
+    "evidence": "FDP-Ratsmitglied, Vorsitzender der FDP-Ratsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6b70dffccf76",
+    "name": "Claus Gerd Spandau",
+    "party": "CDU",
+    "evidence": "CDU-Politiker, Kreistagsmitglied und Fraktionsvorsitzender",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2fc87950e294",
+    "name": "Eberhard Manzke",
+    "party": "CDU",
+    "evidence": "Ratsmitglied der Hansestadt Lüneburg (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bdfceba6ccdd",
+    "name": "Eberhard von Hagen",
+    "party": "keine",
+    "evidence": "Grünen-Landrätin Wemheuer überreichte Medaille",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1e6ec7d6d3ad",
+    "name": "Egon Erhard Fritz",
+    "party": "SPD",
+    "evidence": "SPD-Politiker, ehemaliger Stadtverordnetenvorsteher in Gießen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "91f713664512",
+    "name": "Egon Vaupel",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), ehemaliger Oberbürgermeister Marburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3cd2d0cb7d17",
+    "name": "Ernes Kalač",
+    "party": "SPD",
+    "evidence": "Kalač ist Mitglied der SPD.",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "da159fa7b2f3",
+    "name": "Ewa Maria Klamt",
+    "party": "CDU",
+    "evidence": "Deutsche Politikerin (CDU), ehemaliges MdEP und MdB",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f7bc975b1b84",
+    "name": "Gerhard Noeske",
+    "party": "CDU",
+    "evidence": "seit 1997 für die CDU im Kreistag",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f19e9e71414c",
+    "name": "Günter Neugebauer",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD), Mitglied des Landtages S-H",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2730bafd70f2",
+    "name": "Hans Misselwitz",
+    "party": "SPD",
+    "evidence": "SPD-Politiker Hans Misselwitz",
+    "checked_by": "claude-haiku",
+    "previous_id": "54ca3d184e99",
+    "merged_annotations": [
+      {
+        "id": "2730bafd70f2",
+        "name": "Hans Misselwitz",
+        "party": "SPD",
+        "evidence": "SPD-Politiker Hans Misselwitz",
+        "checked_by": "claude-haiku",
+        "previous_id": "54ca3d184e99"
+      },
+      {
+        "id": "2730bafd70f2",
+        "name": "Hans-Jürgen Gerhard Misselwitz",
+        "party": "SPD",
+        "evidence": "Politiker (SPD) und Bürgerrechtler",
+        "checked_by": "claude-haiku"
+      }
+    ]
+  },
+  {
+    "id": "95546eb5b969",
+    "name": "Hans-Jürgen Herbst",
+    "party": "SPD",
+    "evidence": "Fraktionsgeschäftsführer der SPD-Kreistagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e2194c2cc29e",
+    "name": "Hartmut Frerichs",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD-Ratsherr)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6d53bfa910c8",
+    "name": "Heinz Eugen Bierbaum",
+    "party": "CDU",
+    "evidence": "langjähriger CDU-Stadtrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "692a1f2fef5b",
+    "name": "Helga Trüpel",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen), ehemaliges MdEP",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8b0df05f1bbf",
+    "name": "Herbert Willi Wagner",
+    "party": "CDU",
+    "evidence": "ehemaliger Politiker (CDU), Oberbürgermeister Dresden",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "815c015a3ec7",
+    "name": "Hilko Gerdes",
+    "party": "CDU",
+    "evidence": "CDU-Politiker, Kreistagsmitglied Landkreis Aurich",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "01aa737281b4",
+    "name": "Horst-Willi Kiel",
+    "party": "SPD",
+    "evidence": "Mitglied im Rat der Stadt Siegen für die SPD-Fraktion",
+    "checked_by": "claude-haiku",
+    "previous_id": "494900d4b984"
+  },
+  {
+    "id": "496a03750902",
+    "name": "Jacky Kampe",
+    "party": "keine",
+    "evidence": "CDU-Landrat Coenen übergab Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "02008f4dda82",
+    "name": "Jürgen Otto Hartmann",
+    "party": "CDU",
+    "evidence": "Verwaltungsjurist und Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2937d9173017",
+    "name": "Karl Martin Friedrich Graß",
+    "party": "CDU",
+    "evidence": "Er war Bundestagsabgeordneter der CDU",
+    "note": "Occupation also says CSU-Ehrenvorsitzender; CDU stated explicitly",
+    "checked_by": "claude-haiku",
+    "merged_annotations": [
+      {
+        "id": "2937d9173017",
+        "name": "Karl Martin Friedrich Graß",
+        "party": "CDU",
+        "evidence": "Er war Bundestagsabgeordneter der CDU",
+        "note": "Occupation also says CSU-Ehrenvorsitzender; CDU stated explicitly",
+        "checked_by": "claude-haiku"
+      },
+      {
+        "id": "2937d9173017",
+        "name": "Karl-Martin Friedrich Graß",
+        "party": "CDU",
+        "evidence": "Historiker und CDU-Politiker",
+        "checked_by": "claude-haiku",
+        "previous_id": "16d4937e43a3"
+      }
+    ]
+  },
+  {
+    "id": "87e4069229d6",
+    "name": "Luigi Toscano",
+    "party": "keine",
+    "evidence": "CDU/CSU-Antrag mit AfD-Stimmen; Rückgabe der Medaille",
+    "note": "Parties only in context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7472d9e2e5a1",
+    "name": "Markus Pieper",
+    "party": "CDU",
+    "evidence": "Europaabgeordneter der CDU für NRW (2004–2024)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "58959b772b9a",
+    "name": "Maryam Javaherian",
+    "party": "CDU",
+    "evidence": "Stadtverordnete (CDU) in Königstein im Taunus",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "883cd9f8101e",
+    "name": "Michael-Ezzo Solf",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Mitglied des Landtages NRW",
+    "checked_by": "claude-haiku",
+    "previous_id": "0ac890da95c5"
+  },
+  {
+    "id": "4e6e04edc8df",
+    "name": "Norbert Günter Schüler",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Mainzer Bürgermeister",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d73558c371cb",
+    "name": "Peter Simon",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), ehemaliges MdEP 2009–2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0580fec1652d",
+    "name": "Petra Morawe",
+    "party": "Grüne",
+    "evidence": "ehemalige Sprecherin von Bündnis 90",
+    "note": "Bündnis 90 = Grüne; former role, exit not stated. Uncertain",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fcc98814796f",
+    "name": "Rebecca Harms",
+    "party": "Grüne",
+    "evidence": "ehemalige Politikerin (Bündnis 90/Die Grünen), Vorsitzende Grüne/EFA",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a99f5ae5bacf",
+    "name": "Richard Wilke",
+    "party": "CDU",
+    "evidence": "deutscher Politiker (CDU), Landrat Landkreis Stade",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7a2428839970",
+    "name": "Roland Schäfer",
+    "party": "SPD",
+    "evidence": "Verwaltungsjurist und Kommunalpolitiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b604b7bea209",
+    "name": "Rüdiger Zakrzewski",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b65b98b36876",
+    "name": "Theo Abenstein",
+    "party": "CSU",
+    "evidence": "CSU-Kommunalpolitiker; 21 Jahre Fraktions-Sprecher der CSU",
+    "checked_by": "claude-haiku",
+    "previous_id": "5efba91eed32"
+  },
+  {
+    "id": "949f3153e66b",
+    "name": "Ulrich Lenz",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU); über 40 Jahre für die CDU im Kreistag",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8963cc46d765",
+    "name": "Uwe Brandl",
+    "party": "CSU",
+    "evidence": "Politiker (CSU), Bürgermeister von Abensberg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f8afff53a861",
+    "name": "Werner Kuhn",
+    "party": "FDP",
+    "evidence": "Kaiserslauterer FDP-Politiker Werner Kuhn",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "89eb9f0e7e32",
+    "name": "Wilm Ossenberg Franzes",
+    "party": "keine",
+    "evidence": "SPD-Landrat Schade überreichte Verdienstkreuz",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku",
+    "previous_id": "758f7ad42453"
+  },
+  {
+    "id": "9ab2ba95773c",
+    "name": "Wolfgang Fiedler",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Mitglied des Thüringer Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "baae4900eeb1",
+    "name": "Yasemin Karakaşoğlu",
+    "party": "keine",
+    "evidence": "Im Kompetenzteam des SPD-Kanzlerkandidaten berufen; Parteimitgliedschaft nicht genannt",
+    "note": "Campaign team only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d012806a2287",
+    "name": "Bernd Heidenreich",
+    "party": "CDU",
+    "evidence": "Germanist und Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8fc76a506231",
+    "name": "Christa Gisela Lörcher",
+    "party": "SPD",
+    "evidence": "Ehemalige deutsche Politikerin (SPD), ehemaliges MdB",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c1a2dd238587",
+    "name": "Christa Plate",
+    "party": "CDU",
+    "evidence": "Sie saß über 20 Jahre für die CDU im Wildeshauser Stadtrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e315d458cafa",
+    "name": "Dieter Weber",
+    "party": "keine",
+    "evidence": "CSU-Kultusminister Piazolo überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c92ade0c5ac4",
+    "name": "Dietmar Herbert Meeser",
+    "party": "CDU",
+    "evidence": "Engagement ... in der CDU und im Kreistag",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "81be83a426d4",
+    "name": "Eberhard Emil Friedrich",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU); 31 Jahre Fraktionsvorsitzender der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "99398ff1d82f",
+    "name": "Elfriede Schwitters",
+    "party": "FDP",
+    "evidence": "ehemalige FDP-Ratsfrau und Kreistagsabgeordnete",
+    "note": "Former FDP councillor; exit not stated, assumed continued",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "336e06d3c3ff",
+    "name": "Frank Feid",
+    "party": "keine",
+    "evidence": "SPD-Innenminister Jost überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "91083ce620e5",
+    "name": "Frank Sürmann",
+    "party": "FDP",
+    "evidence": "hessischer Politiker (FDP), Abgeordneter des Hessischen Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4a56f4681cbb",
+    "name": "Franz Xaver Meyer",
+    "party": "CSU",
+    "evidence": "Politiker (CSU), ehemaliger Landrat des Landkreises Passau",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5ebafe1f0787",
+    "name": "Franz-Georg Rips",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), Bürgermeister Erftstadt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a5a1154a2844",
+    "name": "Fritz Niedergesäß",
+    "party": "CDU",
+    "evidence": "Politiker (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "594f8c67ab4a",
+    "name": "Gerhard Otto Rübenkönig",
+    "party": "SPD",
+    "evidence": "Ehemaliger Politiker (SPD), MdB 1994–2005",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "926fb27e2474",
+    "name": "Gisela Bobach",
+    "party": "keine",
+    "evidence": "Ehrenamtlich bei den Grünen Damen und Herren",
+    "note": "Volunteer organisation",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9c40cc0c00a5",
+    "name": "Hannelore Hammerschmidt",
+    "party": "keine",
+    "evidence": "Ehrenamt bei Volkssolidarität und Grünen Damen",
+    "note": "Volunteer, no party",
+    "checked_by": "claude-haiku",
+    "previous_id": "5b4b8b3232b1"
+  },
+  {
+    "id": "ed657d6399b6",
+    "name": "Hans Grillmeier",
+    "party": "CSU",
+    "evidence": "Stadtrat in Waldsassen von 1987 bis 2020, in der CSU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9b537ff69427",
+    "name": "Heikedine Körting",
+    "party": "keine",
+    "evidence": "CDU-Ministerpräsident Günther händigte Auszeichnung aus",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cb7e76b8cf89",
+    "name": "Heribert Scharrenbroich",
+    "party": "CDU",
+    "evidence": "deutscher Politiker (CDU), ehemaliger Bundestagsabgeordneter und Staatssekretär",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "994c11a45762",
+    "name": "Horst Götze",
+    "party": "SPD",
+    "evidence": "Ratsherr der Stadt Emden (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "df8d95ead493",
+    "name": "Horst Loos",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), ehemaliger Ratsherr Sassenburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "88fdc7c323ba",
+    "name": "Jörg Kurt Wulf",
+    "party": "keine",
+    "evidence": "CDU-Landrat Weckler überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku",
+    "previous_id": "f66c232ba73f"
+  },
+  {
+    "id": "05e0af19cb37",
+    "name": "Jürgen Bischof",
+    "party": "keine",
+    "evidence": "SPD-Ministerpräsident Woidke überreichte Auszeichnung",
+    "note": "Presenter only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "267e6ec10cad",
+    "name": "Karl-Heinz Schmidt",
+    "party": "keine",
+    "evidence": "SPD-Landrat Stolz und parteiloser Bürgermeister überreichten Auszeichnung",
+    "note": "Presenters only",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3611294c9753",
+    "name": "Klaus Karl Kaster",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), ehemaliger Stadtdirektor von Lippstadt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a9f346a9876d",
+    "name": "Lutz Alefsen",
+    "party": "CDU",
+    "evidence": "engagiert sich in der Gemeinde Wardenburg in der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0adc135b12f8",
+    "name": "Marieluise Beck",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen), Bundestagsmitglied bis 2017",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "07ff1a9782d1",
+    "name": "Meinhard Albert Otto Gehse",
+    "party": "FDP",
+    "evidence": "Kommunalpolitiker (FDP), Ratsmitglied der Samtgemeinde Hankensbüttel",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cbd82e344744",
+    "name": "Peter Winter",
+    "party": "CSU",
+    "evidence": "Bayerischer Politiker (CSU), Abgeordneter des Bayerischen Landtags 2003 bis 2018",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9195e6ca2b1c",
+    "name": "Reinhold Balthasar Auer",
+    "party": "Freie Wähler",
+    "evidence": "Kommunalpolitik (Freie Wähler, Gemeinderat Neuhausen)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e9419b9fbc01",
+    "name": "Ria Liedtke",
+    "party": "SPD",
+    "evidence": "Mitglied des Berner Gemeinderats (SPD)",
+    "note": "Verdienstmedaille 2022; membership stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "48a701275fb7",
+    "name": "Roland Robert Katzy",
+    "party": "SPD",
+    "evidence": "SPD-Politiker, Ehrenmitglied der SPD Kleve, 50-jährige SPD-Mitgliedschaft",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ec813157e0ab",
+    "name": "Rolf Wittich",
+    "party": "SPD",
+    "evidence": "SPD-Ortsbürgermeister von Bakede",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b27d47595a82",
+    "name": "Siegbert Ortmann",
+    "party": "CDU",
+    "evidence": "hessischer Politiker (CDU), Abgeordneter des Hessischen Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3e3665969766",
+    "name": "Tilo Braune",
+    "party": "SPD",
+    "evidence": "deutscher Politiker der SPD, Staatssekretär a. D.",
+    "note": "Award date 2022 vs 2023 in text; party same",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b814ac728e1d",
+    "name": "Volker Kauder",
+    "party": "CDU",
+    "evidence": "Ehemaliger deutscher Politiker (CDU), Vorsitzender der CDU/CSU-Bundestagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b56e91027b3f",
+    "name": "Werner Albert Hesse",
+    "party": "SPD",
+    "evidence": "Vorsitzender der SPD-Fraktion in Stadtallendorf und im Kreistag Marburg-Biedenkopf",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "00f86a34025f",
+    "name": "Werner Pfisterer",
+    "party": "CDU",
+    "evidence": "deutscher Politiker der CDU, Landtagsabgeordneter 1996 bis 2011",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9c5078b401ee",
+    "name": "Wolfgang Alfons Rieck",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), ehemaliger Abgeordneter im Landtag von Sachsen-Anhalt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "179fd69bee12",
+    "name": "Wolfgang Pfau",
+    "party": "CDU",
+    "evidence": "Gemeinderatsmitglied (CDU-Fraktion)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "abb119295c58",
+    "name": "Angela Merkel",
+    "party": "CDU",
+    "evidence": "ehemalige deutsche Politikerin (CDU), ehemalige Bundeskanzlerin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9f8280e1da4d",
+    "name": "Ann Kathrin Linsenhoff",
+    "party": "CDU",
+    "evidence": "Stifterin, Sport-Funktionärin, Politikerin (CDU), ehemalige Dressurreiterin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1ed4ffb8ae4a",
+    "name": "Annegret Kramp-Karrenbauer",
+    "party": "CDU",
+    "evidence": "Deutsche Politikerin (CDU), CDU-Bundesvorsitzende",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c245413d129d",
+    "name": "Annemarie Frieda Jonas",
+    "party": "CDU",
+    "evidence": "in der Stadtverordnetenversammlung in Rodgau für die CDU aktiv",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d5d2bf5512be",
+    "name": "Bodo Ramelow",
+    "party": "Linke",
+    "evidence": "Deutscher Politiker (Die Linke), Ministerpräsident Thüringen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "65d2907036aa",
+    "name": "Brigitte Hauser",
+    "party": "SPD",
+    "evidence": "saß 35 Jahre für die SPD im Gemeinderat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5b47301b48ae",
+    "name": "Bärbel Bas",
+    "party": "SPD",
+    "evidence": "deutsche Politikerin (SPD), Bundesministerin für Arbeit und Soziales",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "860f05394e74",
+    "name": "Christa Helga Steiger",
+    "party": "SPD",
+    "evidence": "Behindertenbeauftragte der SPD-Fraktion, MdL a. D.",
+    "note": "Faction role in SPD-Fraktion; SPD assumed",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "14da4580fa22",
+    "name": "Cihan Çelik",
+    "party": "keine",
+    "evidence": "Diana Stolz (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7aeabcfdf3fd",
+    "name": "Dietmar Stoller",
+    "party": "keine",
+    "evidence": "Klaus Holetschek (CSU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "eb6465310dcf",
+    "name": "Dietmar Woidke",
+    "party": "SPD",
+    "evidence": "Dietmar Woidke (SPD/Brandenburg); deutscher Politiker der SPD",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5eb7ffd8633a",
+    "name": "Erika Maria Krüger",
+    "party": "keine",
+    "evidence": "Michael Kretschmer (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a565cbef9670",
+    "name": "Gabriele Groneberg",
+    "party": "SPD",
+    "evidence": "SPD-Politikerin, langjährige Abgeordnete im Bundestag",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "42bd8d27b1a6",
+    "name": "Gerda Hasselfeldt",
+    "party": "CSU",
+    "evidence": "Gerda Hasselfeldt, Politikerin (CSU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ea0d7100d508",
+    "name": "Gerhart Rudolf Baum",
+    "party": "FDP",
+    "evidence": "Gerhart Baum, Politiker (FDP) (2023); no exit stated.",
+    "note": "Rule 1: membership continued to 2023 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8d43ff992b02",
+    "name": "Gesa Retzlaff",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0663807b8d07",
+    "name": "Hans-Dieter Fischer",
+    "party": "CDU",
+    "evidence": "deutscher Politiker und ehemaliger Landtagsabgeordneter (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9d4a83aae41a",
+    "name": "Hilde Ursula Schramm",
+    "party": "Grüne",
+    "evidence": "Ehemalige Politikerin (AL/Grüne); Abgeordnetenhaus Berlin 1985-91; no exit from party stated.",
+    "note": "AL is Berlin predecessor of Grüne; Rule 1 applied to former politician",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2dc0dfeb3fd0",
+    "name": "Hildegard Theres Kronawitter",
+    "party": "SPD",
+    "evidence": "Als Abgeordnete der SPD gehörte Kronawitter von 1998 bis 2008 dem Landtag an",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4890906121c2",
+    "name": "Horst Seehofer",
+    "party": "CSU",
+    "evidence": "der ehemalige bayerische Ministerpräsident Horst Seehofer (CSU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0b57aa46bab3",
+    "name": "Jochen Sandig",
+    "party": "keine",
+    "evidence": "Franziska Giffey (SPD) only named as the presenting mayor.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e8a4a9031fe4",
+    "name": "Klaus Didschies",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Ortsbürgermeister von Klein Hehlen 1997 bis 2021",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c051cc3deabd",
+    "name": "Lutz Werner Trümper",
+    "party": "SPD",
+    "evidence": "Mitglied der SPD bis zu seinem wiederholten Austritt im Januar 2025.",
+    "note": "Member at 2023 award; exit came later",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1fcd3c3a3cf4",
+    "name": "Malu Dreyer",
+    "party": "SPD",
+    "evidence": "Malu Dreyer (SPD/Rheinland-Pfalz)",
+    "checked_by": "claude-haiku",
+    "previous_id": "c29c5469a5dd",
+    "merged_annotations": [
+      {
+        "id": "1fcd3c3a3cf4",
+        "name": "Malu Dreyer",
+        "party": "SPD",
+        "evidence": "Malu Dreyer (SPD/Rheinland-Pfalz)",
+        "checked_by": "claude-haiku",
+        "previous_id": "c29c5469a5dd"
+      },
+      {
+        "id": "1fcd3c3a3cf4",
+        "name": "Marie-Luise (Malu) Dreyer",
+        "party": "SPD",
+        "evidence": "ehemalige Politikerin (SPD), Funktionen in der SPD, kommissarische SPD-Bundesvorsitzende",
+        "checked_by": "claude-haiku",
+        "previous_id": "f95a27f8b1b0"
+      }
+    ]
+  },
+  {
+    "id": "618504fea393",
+    "name": "Michael Prinz zu Salm-Salm",
+    "party": "CDU",
+    "evidence": "Politiker (CDU) und Unternehmer im Finanzbereich",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6cd0814b1c47",
+    "name": "Peter M. Huber",
+    "party": "CDU",
+    "evidence": "Ehemaliger Politiker (CSU/CDU); Thüringen Innenminister ab 2009 (Kabinett Lieberknecht).",
+    "note": "CSU/CDU ambiguous; CDU chosen from Thuringian cabinet; no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "59e56f742e63",
+    "name": "Recai Aytas",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD) und seit Juni 2023 Mitglied der Bremischen Bürgerschaft",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a48d931c682b",
+    "name": "Reiner Haseloff",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), Ministerpräsident von Sachsen-Anhalt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "262b4e6ae7fa",
+    "name": "Robert Alexander Sader",
+    "party": "keine",
+    "evidence": "Kai Klose (Die Grünen) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ed864912b985",
+    "name": "Roland Alfred Fleck",
+    "party": "CSU",
+    "evidence": "CSU-Stadtrat und Wirtschaftsreferent der Stadt Nürnberg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1712d19bb335",
+    "name": "Rolf Schnellecke",
+    "party": "CDU",
+    "evidence": "Unternehmer und Politiker (CDU), ehemals Oberbürgermeister Wolfsburg",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3739f35118f4",
+    "name": "Ruth Tischer",
+    "party": "SPD",
+    "evidence": "Engagement in der SPD, Ortsbürgermeisterin von Landwehrhagen seit 1992",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0ddabb6558b1",
+    "name": "Stephan Weil",
+    "party": "SPD",
+    "evidence": "Ministerpräsident (SPD, Niedersachsen)",
+    "checked_by": "claude-haiku",
+    "merged_annotations": [
+      {
+        "id": "0ddabb6558b1",
+        "name": "Stephan Weil",
+        "party": "SPD",
+        "evidence": "Ministerpräsident (SPD, Niedersachsen)",
+        "checked_by": "claude-haiku"
+      },
+      {
+        "id": "0ddabb6558b1",
+        "name": "Stephan-Peter Weil",
+        "party": "SPD",
+        "evidence": "Deutscher Politiker (SPD), ehemaliger Ministerpräsident Niedersachsen",
+        "checked_by": "claude-haiku",
+        "previous_id": "533c7fdf7c14"
+      }
+    ]
+  },
+  {
+    "id": "2202889b1472",
+    "name": "Susanne Asche",
+    "party": "CDU",
+    "evidence": "Essener CDU-Politikerin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8a17e6c13288",
+    "name": "Torsten Schubert",
+    "party": "CDU",
+    "evidence": "über 30-jähriges ehrenamtliches Wirken für die CDU im Stadtrat von Oschersleben",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a45d2b44c0fc",
+    "name": "Udo Bolte",
+    "party": "SPD",
+    "evidence": "Der SPD-Politiker wurde ... ausgezeichnet",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bbc63429b8f1",
+    "name": "Ulla Brede-Hoffmann",
+    "party": "SPD",
+    "evidence": "Langjährige Mainzer SPD-Landtagsabgeordnete",
+    "checked_by": "claude-haiku",
+    "previous_id": "35d92a6c8ec5"
+  },
+  {
+    "id": "e85214803f36",
+    "name": "Ursula Bolte",
+    "party": "SPD",
+    "evidence": "ehemalige Landtagsabgeordnete und Landrätin (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1787b73d4515",
+    "name": "Winfried Kretschmann",
+    "party": "Grüne",
+    "evidence": "Politiker (Bündnis 90/Die Grünen), Ministerpräsident",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7a7256ff195e",
+    "name": "Winfried Willems",
+    "party": "CDU",
+    "evidence": "Als CDU-Mitglied war er von 2002 bis 2011 Staatssekretär.",
+    "note": "Rule 1: CDU membership shown, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "443fc0c313e1",
+    "name": "Wolfgang Drusell",
+    "party": "CDU",
+    "evidence": "CDU-Ratsmitglied der Hansestadt Stade (1972–1986 und 2011–2021).",
+    "note": "Rule 1: council seat ended 2021, no party exit stated",
+    "checked_by": "claude-haiku",
+    "previous_id": "cd9ca9a30dff"
+  },
+  {
+    "id": "25e55214a463",
+    "name": "Alexander Dobrindt",
+    "party": "CSU",
+    "evidence": "Politiker (CSU), Mitglied des Deutschen Bundestags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "39e422a0f387",
+    "name": "Andreas Suermann",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD); vertritt die SPD im Kreistag",
+    "checked_by": "claude-haiku",
+    "previous_id": "084ece214f61"
+  },
+  {
+    "id": "35a27c56116b",
+    "name": "Angelika Jahns",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Mitglied des Niedersächsischen Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b27159f3915b",
+    "name": "Anne Beckmann",
+    "party": "SPD",
+    "evidence": "Stellvertretende Bürgermeisterin Spenge, Ratsfrau (SPD).",
+    "note": "award date unknown (2024-08-19 given)",
+    "checked_by": "claude-haiku",
+    "previous_id": "e1e8af4d04a5"
+  },
+  {
+    "id": "30cc194fd82a",
+    "name": "Antje Feldtmann-Korn",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "886e9e615bc1",
+    "name": "Barbara Greis",
+    "party": "Grüne",
+    "evidence": "Politikerin (Grüne), ehemals wissenschaftliche Mitarbeiterin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "44c1e7d73428",
+    "name": "Bijan Djir-Sarai",
+    "party": "FDP",
+    "evidence": "Deutscher Politiker (FDP); Generalsekretär der FDP bis November 2024.",
+    "note": "Rule 1: party office/membership continued through 2024 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "680cfa1c19d6",
+    "name": "Bodo Becker",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), 42 Jahre im Oytener Gemeinderat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8744673e3c60",
+    "name": "Caren Marks",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), Diplom-Geografin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d29125b9e1c5",
+    "name": "Carsten Drebenstedt",
+    "party": "keine",
+    "evidence": "Michael Kretschmer (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9a00a168b2ce",
+    "name": "Christa Vossschulte",
+    "party": "CDU",
+    "evidence": "CDU-Politikerin, Mitglied des Landtags Baden-Württemberg (1989–2011)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b1273430484f",
+    "name": "Christel Erika Happach-Kasan",
+    "party": "FDP",
+    "evidence": "Politikerin (FDP)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fe76a47f15bd",
+    "name": "Christian Burgdorff",
+    "party": "SPD",
+    "evidence": "SPD-Ratsmitglied 1996–2006.",
+    "note": "Rule 1: SPD council membership, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b0ca640d8a5b",
+    "name": "Christian Lange",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Jurist; Mitglied des Bundestages 1998–2021",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e16cc93d62db",
+    "name": "Christine Aschenberg-Dugnus",
+    "party": "FDP",
+    "evidence": "Politikerin (FDP), Mitglied des Deutschen Bundestags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cee3164c2f25",
+    "name": "Claudia Kott",
+    "party": "CDU",
+    "evidence": "in der Frauen Union der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f201a72c97bf",
+    "name": "Claus Niedermaier",
+    "party": "keine",
+    "evidence": "Hubertus Heil (SPD) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "917660b8644e",
+    "name": "Dagmar Therese Greiß",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ac5ff3e5fedc",
+    "name": "Daniel Trepsdorf",
+    "party": "Linke",
+    "evidence": "deutscher Politiker (Die Linke), Abgeordneter im Landtag MV",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7c39ef0d4c77",
+    "name": "Dieter Burgard",
+    "party": "SPD",
+    "evidence": "Wikipedia category Politiker (SPD) (2024); Beauftragter der Ministerpräsidentin 2018-2022.",
+    "note": "Party from category label; no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8bc953289b65",
+    "name": "Dieter Möhrmann",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7e570eb2bf82",
+    "name": "Elisabeth Maria Trüdinger",
+    "party": "CSU",
+    "evidence": "zuletzt CSU-Fraktionsvorsitzende, 18 Jahre Stadträtin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bfa22bdabc38",
+    "name": "Elisabeth Wilhelmine Heyers",
+    "party": "CDU",
+    "evidence": "im CDU-Stadtverband Neuss, im Neusser Stadtrat",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6e602dfee85a",
+    "name": "Elisabeth Winkelmeier-Becker",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Mitglied des Deutschen Bundestages",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ce5e851d5f3d",
+    "name": "Ernst Dieter Rossmann",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD) und Diplom-Psychologe",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e0b85d69c921",
+    "name": "Felicitas Reusch",
+    "party": "keine",
+    "evidence": "Astrid Wallmann (CDU) only named as the awarding Landtag president.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "67d9e73f94c5",
+    "name": "Frank Schäffler",
+    "party": "FDP",
+    "evidence": "Der FDP-Bundestagsabgeordnete Frank Schäffler",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a3cdec702cfb",
+    "name": "Frauke Alwine Margarethe Tengler",
+    "party": "CDU",
+    "evidence": "Deutsche Politikerin (CDU)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7f3b5a48c337",
+    "name": "Friedhelm Fragemann",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), ehemaliger Bürgermeister Dorsten",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "45f1b438f5ca",
+    "name": "Friedrich Ostendorff",
+    "party": "Grüne",
+    "evidence": "Deutscher Politiker (Bündnis 90/Die Grünen) und Biobauer",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ae995aaf2dd2",
+    "name": "Fritz Hugo Hünefeldt",
+    "party": "FDP",
+    "evidence": "Mitglied des Stadtrates von Tambach-Dietharz (FDP)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "32b03e036265",
+    "name": "Fritz Möstl",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD) und Verbandsfunktionär",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4d16c673fdd1",
+    "name": "Gisela Anna Erler",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen), ehemalige Staatsrätin BW",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0c525597ed1a",
+    "name": "Gisela Wicke",
+    "party": "Grüne",
+    "evidence": "Biologin, Naturschützerin und Politikerin (Bündnis 90/Die Grünen)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "62ae3819281c",
+    "name": "Gunda Friederike Röstel",
+    "party": "Grüne",
+    "evidence": "Ehemalige Sprecherin des Bundesvorstandes von Bündnis 90/Die Grünen (1996–2000).",
+    "note": "Rule 1: former party office holder, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "59556ae03119",
+    "name": "Gustav Herzog",
+    "party": "SPD",
+    "evidence": "Der langjährige SPD-Politiker Gustav Herzog",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "1ccbaef66d82",
+    "name": "Günter Krings",
+    "party": "CDU",
+    "evidence": "deutscher Politiker (CDU) und Jurist",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "39b75ce54b58",
+    "name": "Hans Georg Rebhan",
+    "party": "CSU",
+    "evidence": "CSU-Politiker; Wirken bei der Jungen Union, der CSU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fccd056a9bfe",
+    "name": "Hans Grünhagen",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), langjähriges Ratsmitglied Lengede",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c968084c6301",
+    "name": "Heidemarie Elisabeth Sponsel",
+    "party": "SPD",
+    "evidence": "SPD-Fraktionsvorsitzende und Zweite Bürgermeisterin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "534057c813be",
+    "name": "Heiner Schönecke",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), ehemaliges Mitglied des Landtags",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "07f5849e5107",
+    "name": "Heinrich Jöckel",
+    "party": "CDU",
+    "evidence": "1999–2015 CDU-Fraktionsvorsitzender; 30 Jahre Stadtrat.",
+    "note": "Rule 1: CDU faction chair, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "27f31470b584",
+    "name": "Hermann Kuhn",
+    "party": "Grüne",
+    "evidence": "Ehemaliger Abgeordneter der Bremischen Bürgerschaft (Bündnis 90/Die Grünen).",
+    "note": "Rule 1: former Grüne MP, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6b8f577282ef",
+    "name": "Holger Siegfried Frischhut",
+    "party": "CSU",
+    "evidence": "Vorsitzender der CSU-Fraktion in Straubing",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9eff54fc0ab4",
+    "name": "Ingrid Noll",
+    "party": "keine",
+    "evidence": "Petra Olschowski (Grüne) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e75f3d656ea8",
+    "name": "Iris Ripsam",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Mitglied des Deutschen Bundestages und Stuttgarter Gemeinderates",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bd22748f112d",
+    "name": "Irmgard von Styp-Rekowski",
+    "party": "CDU",
+    "evidence": "Ratsmitglied (1984–2020, CDU).",
+    "note": "Rule 1: CDU council member, no party exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "43ce06cc417f",
+    "name": "Jacques Voigtländer",
+    "party": "SPD",
+    "evidence": "deutscher Politiker (SPD); Landtagsabgeordneter 1994–2008",
+    "checked_by": "claude-haiku",
+    "merged_annotations": [
+      {
+        "id": "43ce06cc417f",
+        "name": "Jacques Voigtländer",
+        "party": "SPD",
+        "evidence": "deutscher Politiker (SPD); Landtagsabgeordneter 1994–2008",
+        "checked_by": "claude-haiku"
+      },
+      {
+        "id": "43ce06cc417f",
+        "name": "Jaques Voigtländer",
+        "party": "SPD",
+        "evidence": "Ehemaliger Landtagsabgeordneter; SPD-Fraktionsvorsitzender im Uelzener Kreistag.",
+        "note": "award date unknown (2024)",
+        "checked_by": "claude-haiku",
+        "previous_id": "8ba3b9c2fbd2"
+      }
+    ]
+  },
+  {
+    "id": "f20731e20066",
+    "name": "Kerstin Tack",
+    "party": "SPD",
+    "evidence": "Ehemalige Bundestagsabgeordnete (SPD), Sprecherin der SPD-Bundestagsfraktion",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "15e3663abfe4",
+    "name": "Klaus Kümmerer",
+    "party": "keine",
+    "evidence": "Grüne refers to green chemistry research topics, not a party.",
+    "note": "Grüne is a research topic label",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fbf4150a2777",
+    "name": "Kurt von Nolting",
+    "party": "CDU",
+    "evidence": "Ehemaliger CDU-Fraktionssprecher in der Bezirksvertretung.",
+    "note": "Rule 1: CDU faction spokesman, no exit stated; award date unknown (2024-06-11)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b0164b772dde",
+    "name": "Manfred Hofweber",
+    "party": "SPD",
+    "evidence": "Über 40 Jahre im Vorstand des SPD-Ortsvereins aktiv.",
+    "note": "Rule 1: SPD local board role, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "da689fa30467",
+    "name": "Maria Flachsbarth",
+    "party": "CDU",
+    "evidence": "Politikerin (CDU), Tierärztin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a8e739f64f7d",
+    "name": "Martin Patzelt",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), ehem. Oberbürgermeister Frankfurt (Oder)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "090d1fd0ab1a",
+    "name": "Matthias Gründling",
+    "party": "keine",
+    "evidence": "Manuela Schwesig (SPD) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "57102087764c",
+    "name": "Michael Rieger",
+    "party": "SPD",
+    "evidence": "Fraktionsvorsitzender der SPD 1996–2014; Dritter Bürgermeister 2014–2020.",
+    "note": "Rule 1: SPD faction chair, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5aeebadaa3e1",
+    "name": "Monika Lazar",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen); Bundestag 2004–2021",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "dd319bd0c0ce",
+    "name": "Monika von Rantzau",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context; first award 2024-02-20",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ee537622e0ba",
+    "name": "Pia Elfriede Beckmann",
+    "party": "CSU",
+    "evidence": "ehemalige deutsche Kommunalpolitikerin (CSU), Oberbürgermeisterin Würzburg 2002–2008",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "102dd54ec7fb",
+    "name": "Rainer Robra",
+    "party": "CDU",
+    "evidence": "Jurist und Politiker (CDU), Staatsminister Sachsen-Anhalt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a537db37f11a",
+    "name": "Rita Föhse",
+    "party": "keine",
+    "evidence": "No party mentioned; only social volunteering described.",
+    "note": "",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bb98c8fb07ed",
+    "name": "Rita Mosel",
+    "party": "CDU",
+    "evidence": "CDU-Kommunalpolitikerin",
+    "checked_by": "claude-haiku",
+    "previous_id": "3f0bbe19b558"
+  },
+  {
+    "id": "b41990ff3920",
+    "name": "Sylvia Kotting-Uhl",
+    "party": "Grüne",
+    "evidence": "Politikerin (Bündnis 90/Die Grünen); Bundestag 2005–2021, Fraktionssprecherin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6d8761aa00d1",
+    "name": "Veit Erwald Wolpert",
+    "party": "FDP",
+    "evidence": "deutscher Politiker (FDP); FDP-Fraktionsvorsitzender Sachsen-Anhalt, FDP-Landesvorsitzender ab 2011",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "4fada67ff4db",
+    "name": "Wolf-Dieter Fochler",
+    "party": "SPD",
+    "evidence": "Wolf-Dieter Fochler (SPD) received the award (party snippet)",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b9c9c675dbc1",
+    "name": "Wolfgang Greilich",
+    "party": "FDP",
+    "evidence": "Rechtsanwalt, Notar und Politiker (FDP); FDP-Abgeordneter im Hessischen Landtag 2008–2019",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ad283ef492a4",
+    "name": "Achim Hütten",
+    "party": "SPD",
+    "evidence": "Politiker (SPD), Oberbürgermeister Andernach 1994–2023",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0d8ada043674",
+    "name": "Albert Jürgen Zitt",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), Mitglied zahlreicher Vereine",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c886128a7985",
+    "name": "Alexander Van der Bellen",
+    "party": "keine",
+    "evidence": "Politiker (parteilos, bis 2016 Die Grünen).",
+    "note": "Rule 2: left Grüne 2016, joined no party before 2025 award",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "215462da8a4e",
+    "name": "Andreas Westerfellhaus",
+    "party": "CDU",
+    "evidence": "Deutscher politischer Beamter (CDU), Staatssekretär im Gesundheitsministerium",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cb5622ff0758",
+    "name": "Angelika Sabine Cords",
+    "party": "keine",
+    "evidence": "Grüne Dame is a hospital volunteer group, not a party.",
+    "note": "Grüne is a volunteer group label",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "09d55a393cec",
+    "name": "Angelika Sautter",
+    "party": "keine",
+    "evidence": "Grüne Damen und Herren volunteer service; no party membership mentioned.",
+    "note": "Grüne is a volunteer group label",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "160c7f8efec5",
+    "name": "Anni Willms",
+    "party": "CDU",
+    "evidence": "Kommunalpolitikerin (CDU); Arbeit in der CDU und CDA",
+    "checked_by": "claude-haiku",
+    "previous_id": "60926b75136d"
+  },
+  {
+    "id": "012e2f174065",
+    "name": "Barbara Charlotte Menzebach",
+    "party": "CDU",
+    "evidence": "CDU-Ratsmitglied; Vorsitzende der CDU-Ortsunion Löttringhausen; bis 2014.",
+    "note": "Rule 1: CDU council and local party chair, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "49811314ca88",
+    "name": "Behrouz Asadi",
+    "party": "keine",
+    "evidence": "SPD only named for the two SPD chairs who commented on the award.",
+    "note": "party only in other context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "95766745fc9a",
+    "name": "Bernd Fabritius",
+    "party": "CSU",
+    "evidence": "MdB (CSU), Bundesaussiedlerbeauftragter",
+    "checked_by": "claude-haiku",
+    "previous_id": "8d8ef12a832e",
+    "merged_annotations": [
+      {
+        "id": "95766745fc9a",
+        "name": "Bernd Fabritius",
+        "party": "CSU",
+        "evidence": "MdB (CSU), Bundesaussiedlerbeauftragter",
+        "checked_by": "claude-haiku",
+        "previous_id": "8d8ef12a832e"
+      },
+      {
+        "id": "95766745fc9a",
+        "name": "Bernd-Bernhard Fabritius",
+        "party": "CSU",
+        "evidence": "'Politiker (CSU)', Bundestag 2013–2017 and 2021",
+        "checked_by": "claude-haiku"
+      }
+    ]
+  },
+  {
+    "id": "c036455eb357",
+    "name": "Christa Maria Tretschok",
+    "party": "keine",
+    "evidence": "CSU only in photo caption naming a minister, not Tretschok.",
+    "note": "party only in other context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b25241dc5ceb",
+    "name": "Christian Alois Gehwolf",
+    "party": "keine",
+    "evidence": "CSU only in photo caption naming a minister, not Gehwolf.",
+    "note": "party only in other context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c17ef48fbc37",
+    "name": "Christiane Brigitte Scheurer",
+    "party": "keine",
+    "evidence": "Michael Kretschmer (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c9f56cb1026b",
+    "name": "Christine Strobl",
+    "party": "SPD",
+    "evidence": "Politikerin (SPD), Dritte Bürgermeisterin München 2006–2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b4a29ebd1c99",
+    "name": "Dieter Wanglin",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), Ratsmitglied Gemeinde Schwülper",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "91e92d99e9db",
+    "name": "Dorothea Dannehl",
+    "party": "CDU",
+    "evidence": "Jahrzehntelanges Engagement in der Frauen Union der CDU.",
+    "note": "Frauen Union is CDU's women's organisation; membership implied",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6253c2526bd4",
+    "name": "Frauke Weiß",
+    "party": "CDU",
+    "evidence": "Deutsche Politikerin (CDU), Mitglied des Landtages Sachsen-Anhalt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0bfb62eeeaa0",
+    "name": "Friedrich-Karl Schmidt",
+    "party": "CDU",
+    "evidence": "ehrenamtlich u.a. bei CDU (listed among volunteer roles)",
+    "checked_by": "claude-haiku",
+    "previous_id": "254a3dfd169f"
+  },
+  {
+    "id": "b14348243a7e",
+    "name": "Fritz Hoffmann",
+    "party": "CDU",
+    "evidence": "CDU-Ratsmitglied, Fraktionsvorsitzender in Erndtebrück",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bd7c00aee30c",
+    "name": "Georg Wilhelm Schirmbeck",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU); CDU-Politiker",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "62fd546c40f2",
+    "name": "Hans Schrepfer",
+    "party": "keine",
+    "evidence": "Markus Söder (CSU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7b5534b8cc86",
+    "name": "Hans-Heinrich Ehlen",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker (CDU), Niedersächsischer Minister 2003–2010",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "381922f942ac",
+    "name": "Harald Hans Pohlmann",
+    "party": "CDU",
+    "evidence": "Deutscher Politiker der CDU; Mitglied CDU-Stadtverband Lemgo seit fast 35 Jahren",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9bd97b043757",
+    "name": "Heiko Frost",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6c4c31365a14",
+    "name": "Heiko Lietz",
+    "party": "Grüne",
+    "evidence": "Landessprecher von Bündnis 90/Die Grünen in MV 1993–1994.",
+    "note": "Neues Forum 1990-91 is civic movement; last party role Grüne",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "08e493b38f66",
+    "name": "Heinz Breitenbach",
+    "party": "Freie Wähler",
+    "evidence": "Kommunalpolitiker (Freie Wähler), Vorsitzender der Freien Wähler Main-Kinzig",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ab5115f39053",
+    "name": "Heinz Heinrich Möller",
+    "party": "SPD",
+    "evidence": "Kommunalpolitiker (SPD), mehr als 15 Jahre SPD-Fraktionsvorsitzender",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9aebf619a809",
+    "name": "Helga Renate Oehne",
+    "party": "CDU",
+    "evidence": "Geschäftsführerin des CDU-Stadtverbands Kelsterbach",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ca66b05696e6",
+    "name": "Hendrik Streeck",
+    "party": "CDU",
+    "evidence": "Deutscher Virologe und Politiker (CDU).",
+    "note": "Rule 1: current CDU politician",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a3d8c47c4f8e",
+    "name": "Irmgard Jasker",
+    "party": "keine",
+    "evidence": "Daniel Günther (CDU) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "15ba165253e3",
+    "name": "Jens Frahm",
+    "party": "keine",
+    "evidence": "Stephan Weil (SPD) only named as the presenting minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b42058be505b",
+    "name": "Josef Theodor Heyes",
+    "party": "CDU",
+    "evidence": "Politiker (CDU), ehemaliger Bürgermeister der Stadt Willich",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9b37a7ab27f3",
+    "name": "Karin Maria Wagner",
+    "party": "Grüne",
+    "evidence": "Fraktionsvorsitzende der Rodgauer Grünen; Kreistagsfraktion gratuliert Mitstreiterin",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "dd7670f13727",
+    "name": "Katharina Eva Rolfink",
+    "party": "CDU",
+    "evidence": "Kommunalpolitikerin (CDU), langjähriges Kreistagsmitglied",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ef24a38b831b",
+    "name": "Klaus Haertel",
+    "party": "SPD",
+    "evidence": "SPD-Politiker; 36 Jahre Mitglied im Rat der Stadt",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "75e186ec9653",
+    "name": "Manfred Schilder",
+    "party": "CSU",
+    "evidence": "Er gehört der CSU an; Oberbürgermeister Memmingen 2017–2023",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e6ba63818097",
+    "name": "Margarete Gertrud Schäpers",
+    "party": "SPD",
+    "evidence": "Kommunalpolitikerin (SPD), ehrenamtlich aktiv seit 1997",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "077713e6e643",
+    "name": "Maria Bruns",
+    "party": "CDU",
+    "evidence": "CDU-Politikerin; langjährige Fraktionsvorsitzende der CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3e27c9ddc4de",
+    "name": "Maria Böhmer",
+    "party": "CDU",
+    "evidence": "deutsche Politikerin (CDU), Staatsministerin im Kabinett Merkel III",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5a864cd80213",
+    "name": "Maria Johanna Bauken",
+    "party": "CDU",
+    "evidence": "Ehrenamtlich bei der CDU Haaren (Ems) listed among her engagements.",
+    "note": "Local CDU volunteer role; membership implied",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7819c38f2e73",
+    "name": "Marie-Luise Wolff",
+    "party": "keine",
+    "evidence": "Vorstandsvorsitzende der Wirtschaftsvereinigung der Grünen e.V.; no party membership stated.",
+    "note": "Party-affiliated association, not membership",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "3814455c626e",
+    "name": "Mehdi Jafari Gorzini",
+    "party": "SPD",
+    "evidence": "selbst Mitglied der Mainzer SPD",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0db361798fbd",
+    "name": "Michael Georg Heidinger",
+    "party": "SPD",
+    "evidence": "Deutscher Politiker (SPD), Bürgermeister Dinslaken 2009–2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "e99951e7f9af",
+    "name": "Michael Harald Brack",
+    "party": "Grüne",
+    "evidence": "Bundesverdienstkreuz für Grünen-Mitglied Michael Brack",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "7bf6dcf683f1",
+    "name": "Oliver Liersch",
+    "party": "FDP",
+    "evidence": "Politiker (FDP), Staatssekretär Niedersachsen 2009–2013",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f3842238ce0e",
+    "name": "Patrik Arnold Hauns",
+    "party": "CDU",
+    "evidence": "parteipolitisches Engagement in Junge Union und CDU",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "346b8398edf5",
+    "name": "Paul Kaspar Renz",
+    "party": "CDU",
+    "evidence": "Vorsitzender der CDU-Kreistagsfraktion; Stadtrat Rheinfelden",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ada77df2c16d",
+    "name": "Paul Wilhelm Heidrich",
+    "party": "CDU",
+    "evidence": "Kommunalpolitiker (CDU), ehemaliges Mitglied Landschaftsversammlung Rheinland",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "755bfac5a86c",
+    "name": "Peter Manfred Möller",
+    "party": "keine",
+    "evidence": "Frank-Walter Steinmeier (SPD) only named as the awarding president.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "2dfa87d4db48",
+    "name": "Robert Werner",
+    "party": "keine",
+    "evidence": "CDU Landrat and SPD Bundespräsident only named as award givers.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d218064f4017",
+    "name": "Sabine Petra Heckel",
+    "party": "keine",
+    "evidence": "Michael Kretzschmer (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6f5d9b25c1cd",
+    "name": "Siegfried Helias",
+    "party": "CDU",
+    "evidence": "Wikipedia: 'deutscher Politiker (CDU)', Abgeordneter in Berlin and Bundestag",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bc2f9b67a552",
+    "name": "Sigmar Gabriel",
+    "party": "SPD",
+    "evidence": "Ehemaliger Vizekanzler und SPD-Chef.",
+    "note": "Rule 1: former SPD chair, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "34997c0a8a15",
+    "name": "Susanne Vazzoler",
+    "party": "keine",
+    "evidence": "Only a photo caption naming a CSU minister next to her.",
+    "note": "party only in other context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "86a1c26b7baf",
+    "name": "Thorsten Bock",
+    "party": "keine",
+    "evidence": "Bennet Gielen (CDU) only quoted as reporting the award.",
+    "note": "party only in other context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "c98df01e199b",
+    "name": "Uwe Schwarz",
+    "party": "SPD",
+    "evidence": "'Deutscher Politiker (SPD)', Niedersächsischer Landtag 1986–2022",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f5a5420da7cd",
+    "name": "Walter Paßgang",
+    "party": "CDU",
+    "evidence": "CDU-Fraktionsgeschäftsführer (1990–2010); Kreisvorsitzender Oberhausener CDU (1995–2003).",
+    "note": "Rule 1: CDU roles, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d244d90591e2",
+    "name": "Wilfrid Adam",
+    "party": "SPD",
+    "evidence": "'Politiker (SPD)', Abgeordneter der SPD im Landtag 1986–2003",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "715f1e2534b6",
+    "name": "Wolfgang Methling",
+    "party": "Linke",
+    "evidence": "Ehemaliger Politiker (PDS, Die Linke).",
+    "note": "Rule 1: PDS/Linke politician, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a8ea41ada413",
+    "name": "Alwin Hensel",
+    "party": "keine",
+    "evidence": "Michael Kretschmer (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "fdab412c0d58",
+    "name": "Angela Ethel Heimbach",
+    "party": "keine",
+    "evidence": "Sven Schulze (CDU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "971545a20105",
+    "name": "Arndt Holger Kemesies",
+    "party": "SPD",
+    "evidence": "Article: 'Der SPD-Fraktionschef im Stadtrat' is the awardee",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "56dd4bef6304",
+    "name": "Bernd Salzberger",
+    "party": "keine",
+    "evidence": "Albert Füracker (CSU) only named as the awarding minister.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a3494423654e",
+    "name": "Carina Barbara Gödecke",
+    "party": "SPD",
+    "evidence": "Wikipedia: 'deutsche Politikerin (SPD)', Landtag NRW 1995–2022",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d24c57bdc71a",
+    "name": "Erich Helmut Kupfer",
+    "party": "CSU",
+    "evidence": "Schriftführer des CSU-Ortsverbands.",
+    "note": "Rule 1: local CSU office, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "796d71025a5d",
+    "name": "Eva Maria Helene Lohse",
+    "party": "CDU",
+    "evidence": "'Juristin und Politikerin (CDU)', former Oberbürgermeisterin Ludwigshafen",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "af426cecd633",
+    "name": "Eva-Maria Wybrands",
+    "party": "CDU",
+    "evidence": "Wikipedia: 'deutsche Politikerin (CDU)'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ab18e1a908cd",
+    "name": "Gerd Ludwig Will",
+    "party": "SPD",
+    "evidence": "'SPD-Politiker'; Wikipedia: 'deutscher Politiker (SPD)'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "bf8693cc378a",
+    "name": "Gertraude Kruse",
+    "party": "SPD",
+    "evidence": "'deutsche Politikerin (SPD)', former Landrätin and Landtag member",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "ee82b65074bf",
+    "name": "Giselher Klinger",
+    "party": "CDU",
+    "evidence": "14 Jahre als CDU-Ratsherr; Bürgermeister 2001–2006.",
+    "note": "Rule 1: CDU council member, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "db8e335d1e66",
+    "name": "Günter Zeuner",
+    "party": "Freie Wähler",
+    "evidence": "'Kommunalpolitiker (Freie Wähler)', Fraktionsvorsitzender der FW",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "67be7fa3164b",
+    "name": "Hans Duncker",
+    "party": "SPD",
+    "evidence": "'engagiert sich seit vielen Jahren politisch für die SPD'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "0189f76a59e6",
+    "name": "Hans Harer",
+    "party": "Grüne",
+    "evidence": "'Kommunalpolitiker (Grüne)'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6184d7d23e45",
+    "name": "Hans Hinrich Neve",
+    "party": "CDU",
+    "evidence": "'Politiker (CDU)', Landtag Schleswig-Holstein 2009–2022",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "98b89bc3b168",
+    "name": "Hansjörg Friedrich Schweikhart",
+    "party": "CDU",
+    "evidence": "'Kommunalpolitiker (CDU Solingen)', Bezirksbürgermeister since 2020",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6fae45de05b6",
+    "name": "Heinz Maurus",
+    "party": "CDU",
+    "evidence": "'Deutscher Politiker (CDU)', Landtagsabgeordneter 1996–2005, Kreispräsident",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b579d13cdde2",
+    "name": "Ina Albowitz",
+    "party": "FDP",
+    "evidence": "Wikipedia: 'deutsche Politikerin (FDP)', FDP-Bundestagsfraktion Geschäftsführerin 1992–1998",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "776003aa763c",
+    "name": "Ingeborg Smith",
+    "party": "keine",
+    "evidence": "Grünen Damen is a senior-help volunteer group, not a party.",
+    "note": "Grüne is a volunteer group label",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "466548225628",
+    "name": "Jörg Fritz Kallenbach",
+    "party": "CDU",
+    "evidence": "Wikipedia: 'deutscher Politiker (Ost-CDU bis 1990, CDU)'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "8502f0f97b70",
+    "name": "Jürgen Glander",
+    "party": "SPD",
+    "evidence": "'Langjähriger SPD-Kommunalpolitiker' in Hann. Münden",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "43ddbc7056ed",
+    "name": "Jürgen Luttmann",
+    "party": "keine",
+    "evidence": "Landrat Peter Bohlmann (SPD) only named as the awarding official.",
+    "note": "party only in presenter context",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "cd889414b2b0",
+    "name": "Jürgen Nimptsch",
+    "party": "SPD",
+    "evidence": "'deutscher Politiker (SPD)', Oberbürgermeister von Bonn 2009–2015",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "6343a66edf43",
+    "name": "Klaus Jürgen Reese",
+    "party": "SPD",
+    "evidence": "'Vorsitzender der SPD-Fraktion im Rat der Stadt Wuppertal'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9c0f1412703c",
+    "name": "Klaus Peter Langner",
+    "party": "SPD",
+    "evidence": "'SPD-Stadtverordneter'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "f5e0b4fad1d6",
+    "name": "Margarete Roderig",
+    "party": "CDU",
+    "evidence": "'Politikerin (CDU)'; Wikipedia: 'deutsche Politikerin der CDU'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9f2a64ccbfc1",
+    "name": "Ralf Fücks",
+    "party": "Grüne",
+    "evidence": "Politiker (KBW, Bündnis 90/Die Grünen); Bremer Senator 1991–1995.",
+    "note": "Rule 1: Grüne politician at 2026 award; KBW was earlier",
+    "checked_by": "claude-haiku",
+    "superseded_annotations": [
+      {
+        "id": "d3e8697d07d2",
+        "name": "Ralph Fücks",
+        "party": "keine",
+        "evidence": "Früherer Vorstand der Grünen-nahen Heinrich-Böll-Stiftung.",
+        "note": "Party foundation only",
+        "checked_by": "claude-haiku",
+        "superseded_because": "Same person as the list entry Ralf Fücks (press spelling \"Ralph\"); that annotation cites his Bündnis 90/Die Grünen membership."
+      }
+    ]
+  },
+  {
+    "id": "7cf16edc7f49",
+    "name": "Regina Dinther van",
+    "party": "CDU",
+    "evidence": "'Politikerin (CDU)'; Präsidentin des 14. Landtags NRW",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "57ab1a21cdff",
+    "name": "Renate Rastätter",
+    "party": "Grüne",
+    "evidence": "'Landtagsabgeordnete Renate Rastätter von Bündnis 90/Die Grünen'",
+    "checked_by": "claude-haiku",
+    "previous_id": "691720b33549"
+  },
+  {
+    "id": "17496137fa16",
+    "name": "Rita Grießhaber",
+    "party": "Grüne",
+    "evidence": "Wikipedia: 'deutsche Politikerin (Bündnis 90/Die Grünen)', former MdB",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "256648d1820b",
+    "name": "Robert Laube",
+    "party": "Grüne",
+    "evidence": "'engagiert sich kommunalpolitisch bei den Grünen in Hattingen'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "53a7f82a7aa6",
+    "name": "Ronald Mormann",
+    "party": "SPD",
+    "evidence": "'Deutscher Politiker (SPD)', Landtag Sachsen-Anhalt 2011–2021",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "d43f7ebc3586",
+    "name": "Ruprecht Polenz",
+    "party": "CDU",
+    "evidence": "Politiker (CDU) (2026); no exit from CDU stated.",
+    "note": "Rule 1: 'früherer' CDU-Politiker but no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "030055ababb8",
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "party": "FDP",
+    "evidence": "Frühere Bundesjustizministerin Sabine Leutheusser-Schnarrenberger (FDP).",
+    "note": "Rule 1: FDP politician, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "b331330a3d92",
+    "name": "Suzanne Madeleine Oetker von Franquet",
+    "party": "FDP",
+    "evidence": "Engaged for about 40 years 'insbesondere in der FDP Düsseldorf'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "db18c8c7c1f1",
+    "name": "Thomas Alfred Härtel",
+    "party": "SPD",
+    "evidence": "'Deutscher politischer Beamter (SPD) im Ruhestand'; Wikipedia: 'Politiker (SPD)'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9f206a487fa4",
+    "name": "Thomas Beyer",
+    "party": "SPD",
+    "evidence": "'deutscher Politiker (SPD)', Bürgermeister der Hansestadt Wismar 2010–2026",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "5a413926f71d",
+    "name": "Ulla Martha Hornemann",
+    "party": "SPD",
+    "evidence": "'SPD-Politikerin, Ratsfrau'; 'Die Weseler SPD-Politikerin Ulla Hornemann'",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "a3230447f631",
+    "name": "Ulrich Josef Bösl",
+    "party": "CDU",
+    "evidence": "CDU-Orts- und Fraktionsvorsitzender; Ratsmitglied.",
+    "note": "Rule 1: CDU local and faction roles, no exit stated",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "9364bd3b199e",
+    "name": "Veronika Sieglinde Netzhammer",
+    "party": "CDU",
+    "evidence": "'Politikerin (CDU)', Landtag Baden-Württemberg 1996–2011",
+    "checked_by": "claude-haiku"
+  },
+  {
+    "id": "223b9d617124",
+    "name": "Wolfgang Vöpel",
+    "party": "SPD",
+    "evidence": "'Kommunalpolitiker (SPD)', ehrenamtlicher Bürgermeister von Herscheid 1994–1999",
+    "checked_by": "claude-haiku"
+  }
+]

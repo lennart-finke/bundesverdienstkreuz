@@ -1,0 +1,59 @@
+[
+  {
+    "url": "https://www.fnp.de/boulevard/vicky-leandros-bundesverdienstkreuz-geehrt-10892480.html",
+    "action": "drop",
+    "reason": "Republished dpa report of the December 2015 handover in Kiel (Vicky Leandros, 63, by Ministerpräsident Albig) under a 2018 page date; the same report is attached via ga.de, bild.de and welt.de."
+  },
+  {
+    "url": "https://lokaleblicke.com/burkhard-landers-erhaelt-bundesverdienstkreuz/",
+    "action": "undate",
+    "reason": "\"am 12. Dezember\" was resolved to 2023-12-12; the official announcement is dated 2026-01-12 and de.wikipedia gives 2026."
+  },
+  {
+    "url": "https://www.schwaebische.de/regional/tuttlingen/tuttlingen/bundesverdienstkreuz-fuer-evelyn-gebhardt-496789",
+    "action": "drop",
+    "reason": "Excluded on review: the article calls the award of 14 March 2017 \"Großes Bundesverdienstkreuz\"; the June 2017 list announces Evelyne Gebhardt (Künzelsau) with the Verdienstkreuz 1. Klasse, which remains."
+  },
+  {
+    "url": "https://de.readkong.com/page/jahresbilanz-lra-aichach-friedberg-2017-landratsamt-4404002",
+    "name": "Hans Rabl",
+    "action": "drop",
+    "reason": "The Landratsamt's Jahresbilanz 2019 reports that Hans Rabl, 'Träger der Verdienstmedaille des Verdienstordens', died on 7 September 2019; 2019 is the year of his death, not of the award, which no list since 2015 contains. Matthias Stegmeir's 2019 Verdienstmedaille on the same page remains."
+  },
+  {
+    "urls": ["https://de.wikipedia.org/wiki/Wikipedia%3AWikiProjekt_Bundesverdienstkreuz/2017/Januar",
+             "https://www.bundesanzeiger.de/pub/publication/TiTMfV5brABI1zIjSKy/content/TiTMfV5brABI1zIjSKy/BAnz AT 19.01.2017 B1.pdf"],
+    "name": "Aloysius Lögering",
+    "action": "drop",
+    "reason": "Superseded entry: the January 2017 notice and its WikiProjekt copy list Aloysius Lögering (Osnabrück) with the Verdienstmedaille, the BPR January page as archived in September 2017 lists him under Verdienstkreuz am Bande, and the March 2017 lists (BPR, Bundesanzeiger, WikiProjekt) announce him again with the Verdienstkreuz am Bande. One award, corrected; not two grades in one month."
+  },
+  {
+    "urls": ["https://www.bundespraesident.de/SharedDocs/Berichte/Bekanntgabe-Ordensverleihung/240508-Verleihungen.html",
+             "https://www.bundesanzeiger.de/pub/publication/xODF99XWOcaD2W9J0Un/content/xODF99XWOcaD2W9J0Un/BAnz AT 07.06.2024 B1.pdf",
+             "https://de.wikipedia.org/wiki/Wikipedia%3AWikiProjekt_Bundesverdienstkreuz/2024/Mai"],
+    "name": "Ruth Weiss",
+    "action": "fix",
+    "set": {"qid": "Q104793"},
+    "reason": "The writer Ruth Weiss (Q104793) was listed with the Verdienstkreuz 1. Klasse in March 2015 while living in Lüdinghausen and with the Großes Verdienstkreuz in May 2024, living in Skørping (Denmark), where the German ambassador handed it over in April 2024 (de.wikipedia). The 2024 entries carry no article link, so the move split her into two people."
+  },
+  {
+    "urls": ["https://www.bundespraesident.de/SharedDocs/Berichte/Bekanntgabe-Ordensverleihung/1704-Verleihungen.html",
+             "https://www.bundesanzeiger.de/pub/publication/zrxqZg0zHBVAKXpGrVJ/content/zrxqZg0zHBVAKXpGrVJ/BAnz AT 19.04.2017 B1.pdf"],
+    "name": "Stilla Klein",
+    "action": "fix",
+    "set": {"residence": "Berg"},
+    "reason": "\"Klein, Stilla, Agnes, Berg\" carries a second given or religious name (the WikiProjekt copy reads \"[[Agnes Klein]], Stilla, Berg\"); the residence is Berg, not \"Agnes, Berg\"."
+  },
+  {
+    "url": "https://de.wikipedia.org/wiki/Wikipedia%3AWikiProjekt_Bundesverdienstkreuz/2017/April",
+    "name": "Agnes Klein",
+    "action": "fix",
+    "set": {"residence": "Berg"},
+    "reason": "See \"Stilla Klein\": the WikiProjekt copy of the April 2017 list puts the other name into the residence (\"Stilla, Berg\")."
+  },
+  {
+    "url": "https://dubisthalle.de/vereinigung-der-opfer-des-stalinismus-hallenserin-waltraud-thiele-mit-dem-bundesverdienstkreuz-ausgezeichnet/",
+    "action": "undate",
+    "reason": "The page metadata says 2023-08-13, so \"am Dienstag\" was resolved to 2023-08-15; the article itself is dated 1 October 2024 and reports the Tag der Deutschen Einheit ceremony in Schloss Bellevue, matching the October 2024 list."
+  }
+]

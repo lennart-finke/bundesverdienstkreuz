@@ -1,0 +1,2284 @@
+{
+  "before": {
+    "people": 13026,
+    "awards": 13063,
+    "awards_per_year": {
+      "2015": 1224,
+      "2016": 1397,
+      "2017": 960,
+      "2018": 1212,
+      "2019": 1113,
+      "2020": 1071,
+      "2021": 1240,
+      "2022": 964,
+      "2023": 933,
+      "2024": 1071,
+      "2025": 1238,
+      "2026": 640
+    },
+    "dates_written_as_1_january": 334,
+    "malformed_dates": 1,
+    "dates_more_than_300_days_before_first_listing": 104,
+    "award_year_after_first_listing_year": 193,
+    "garbled_names_or_residences": 37,
+    "official_list_duplicate_pairs": 31,
+    "press_or_wiki_records_duplicating_a_list_entry_strict_scan": 57,
+    "parsed_official_entries": 40460
+  },
+  "after": {
+    "people": 12898,
+    "awards": 12930,
+    "awards_per_year": {
+      "2015": 1216,
+      "2016": 1399,
+      "2017": 951,
+      "2018": 1206,
+      "2019": 1101,
+      "2020": 1084,
+      "2021": 1232,
+      "2022": 942,
+      "2023": 928,
+      "2024": 1125,
+      "2025": 1128,
+      "2026": 618
+    },
+    "dates_written_as_1_january": 1,
+    "malformed_dates": 0,
+    "dates_more_than_300_days_before_first_listing": 2,
+    "award_year_after_first_listing_year": 0,
+    "garbled_names_or_residences": 0,
+    "official_list_duplicate_pairs": 0,
+    "press_or_wiki_records_duplicating_a_list_entry_strict_scan": 5,
+    "parsed_official_entries": 40467
+  },
+  "repair_pass": {
+    "questions": 4549,
+    "not_about_this_award": 114,
+    "cost_usd": 2.74,
+    "fields_filled": {
+      "occupation": 382,
+      "place": 18,
+      "date": 148,
+      "reason": 28,
+      "presented_by": 51
+    },
+    "quotes_replaced": 1910
+  },
+  "excluded_on_review": [
+    {
+      "name": "Evelyne Gebhardt",
+      "record": "press only, schwaebische.de, \"Großes Bundesverdienstkreuz\" 2017-03-14",
+      "kept": "list entry Verdienstkreuz 1. Klasse, June 2017, Künzelsau"
+    }
+  ],
+  "audit_flags": {
+    "garbled_name": {
+      "before": 8,
+      "after": 6
+    },
+    "garbled_residence": {
+      "before": 7,
+      "after": 0
+    },
+    "malformed_date": {
+      "before": 1,
+      "after": 0
+    },
+    "maybe_state_order": {
+      "before": 1,
+      "after": 0
+    },
+    "namesakes_merged": {
+      "before": 3,
+      "after": 6
+    },
+    "non_official_record_matches_official_entry": {
+      "before": 55,
+      "after": 13
+    },
+    "not_a_full_name": {
+      "before": 7,
+      "after": 7
+    },
+    "place_resolved_to_small_namesake": {
+      "before": 44,
+      "after": 21
+    },
+    "presenter_out_of_office": {
+      "before": 7,
+      "after": 4
+    },
+    "press_only_from_page_listing_state_honours": {
+      "before": 11,
+      "after": 4
+    },
+    "press_only_quote_not_in_source": {
+      "before": 16,
+      "after": 13
+    },
+    "qid_label_mismatch": {
+      "before": 4,
+      "after": 28
+    },
+    "qid_person_died_before_award": {
+      "before": 1,
+      "after": 0
+    },
+    "reason_is_placeholder": {
+      "before": 111,
+      "after": 0
+    },
+    "state_differs_from_presenting_premier": {
+      "before": 36,
+      "after": 32
+    },
+    "two_grades_within_a_year": {
+      "before": 2,
+      "after": 2
+    },
+    "year_only_date_as_jan_1": {
+      "before": 332,
+      "after": 0
+    }
+  },
+  "merged_records": [
+    {
+      "id": "b4280fa2b43e",
+      "name": "Ahmad Mansour-Schätzle",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "b4280fa2b43e",
+          "name": "Ahmad Mansour",
+          "residence": "Berlin"
+        },
+        {
+          "id": "c29638373e36",
+          "name": "Ahmad Mansour-Schätzle",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "29394bbbf785",
+      "name": "Alena Wagnerová-Köhler",
+      "residence": "Saarbrücken und Prag",
+      "from": [
+        {
+          "id": "29394bbbf785",
+          "name": "Alena Wagnerová",
+          "residence": "Saarbrücken und Prag"
+        },
+        {
+          "id": "b31b4c542d2b",
+          "name": "Alena Wagnerová-Köhler",
+          "residence": "Saarbrücken"
+        }
+      ]
+    },
+    {
+      "id": "e55b23a0ea8b",
+      "name": "Alexander Schröder-Frerkes",
+      "residence": "Meerbusch",
+      "from": [
+        {
+          "id": "6af9afb20efc",
+          "name": "Johannes Schröder-Frerkes",
+          "residence": "Meerbusch"
+        },
+        {
+          "id": "e55b23a0ea8b",
+          "name": "Alexander Schröder-Frerkes",
+          "residence": "Meerbusch"
+        }
+      ]
+    },
+    {
+      "id": "155801987545",
+      "name": "Anna Breunig",
+      "residence": "Giebelstadt",
+      "from": [
+        {
+          "id": "155801987545",
+          "name": "Anna Breunig",
+          "residence": "Giebelstadt"
+        },
+        {
+          "id": "ef3a9dbe58be",
+          "name": "Anna Breunig",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "d085f76d5f05",
+      "name": "Anna Johanna Sieverding",
+      "residence": "Tönisvorst",
+      "from": [
+        {
+          "id": "827505e0231c",
+          "name": "Änne Sieverding",
+          "residence": "Tönisvorst"
+        },
+        {
+          "id": "d085f76d5f05",
+          "name": "Anna Johanna Sieverding",
+          "residence": "Tönisvorst"
+        }
+      ]
+    },
+    {
+      "id": "1b4b521e3601",
+      "name": "Anne-José Paulsen",
+      "residence": "Kaarst",
+      "from": [
+        {
+          "id": "1b4b521e3601",
+          "name": "Anne-José Paulsen",
+          "residence": "Kaarst"
+        },
+        {
+          "id": "7dd6356f0a0f",
+          "name": "Anne-José Springorum",
+          "residence": "Dr. h.c., Kaarst"
+        }
+      ]
+    },
+    {
+      "id": "ad1bf4b35974",
+      "name": "Bernhard Leo Fritz Mutsaers",
+      "residence": "Osnabrück",
+      "from": [
+        {
+          "id": "2ba455dfe2eb",
+          "name": "Bert Mutsaers",
+          "residence": null
+        },
+        {
+          "id": "ad1bf4b35974",
+          "name": "Bernhard Leo Fritz Mutsaers",
+          "residence": "Osnabrück"
+        }
+      ]
+    },
+    {
+      "id": "65980cfa7d93",
+      "name": "Bernhard Rudolf Schmitz",
+      "residence": "Hennef",
+      "from": [
+        {
+          "id": "65980cfa7d93",
+          "name": "Bernhard Rudolf Schmitz",
+          "residence": "Hennef/Sieg"
+        },
+        {
+          "id": "ec2a1b9d5add",
+          "name": "Bernhard Schmitz",
+          "residence": "Hennef"
+        }
+      ]
+    },
+    {
+      "id": "38ab2fa6aa3e",
+      "name": "Bernhard Terwitte",
+      "residence": "Frankfurt am Main",
+      "from": [
+        {
+          "id": "38ab2fa6aa3e",
+          "name": "Paulus Terwitte",
+          "residence": "Frankfurt am Main"
+        },
+        {
+          "id": "f56d472ca927",
+          "name": "Bernhard Terwitte",
+          "residence": "Bruder Paulus, Frankfurt am Main"
+        }
+      ]
+    },
+    {
+      "id": "00e4a678c41f",
+      "name": "Bernhard Wilhelm Hugo Rudolf Bachof",
+      "residence": "Gera",
+      "from": [
+        {
+          "id": "00e4a678c41f",
+          "name": "Bernhard Wilhelm Hugo Rudolf Bachof",
+          "residence": "Gera"
+        },
+        {
+          "id": "1e1dbb5df24b",
+          "name": "Bernhard Bachof",
+          "residence": "Gera"
+        }
+      ]
+    },
+    {
+      "id": "61fcd5eb6d2b",
+      "name": "Brigitte Altenhein",
+      "residence": "Sprockhövel",
+      "from": [
+        {
+          "id": "0e9886d34710",
+          "name": "Britta Altenhein",
+          "residence": "Sprockhövel"
+        },
+        {
+          "id": "61fcd5eb6d2b",
+          "name": "Brigitte Altenhein",
+          "residence": "Sprockhövel"
+        }
+      ]
+    },
+    {
+      "id": "7bda07589b33",
+      "name": "Brunhilde Theresia Irber",
+      "residence": "Osterhofen",
+      "from": [
+        {
+          "id": "7bda07589b33",
+          "name": "Brunhilde Theresia Irber",
+          "residence": "Osterhofen"
+        },
+        {
+          "id": "ca57b545c90c",
+          "name": "Bruni Irber",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "f62e4b182054",
+      "name": "Burkard Freitag",
+      "residence": "Ochsenfurt",
+      "from": [
+        {
+          "id": "1af7ca1c1aa1",
+          "name": "Burkard Freitag",
+          "residence": "Ochsenfurt"
+        },
+        {
+          "id": "38af147eeb58",
+          "name": "Burkard Freitag",
+          "residence": "Hopferstadt"
+        }
+      ]
+    },
+    {
+      "id": "dd1672829d03",
+      "name": "Burkhard Landers",
+      "residence": "Wesel",
+      "from": [
+        {
+          "id": "dd1672829d03",
+          "name": "Burkhard Landers",
+          "residence": "Wesel"
+        },
+        {
+          "id": "fb17adc0d21e",
+          "name": "Burkhard Landers",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "66dcb17d486a",
+      "name": "Christel Margarete Köhle",
+      "residence": "Esslingen am Neckar",
+      "from": [
+        {
+          "id": "66dcb17d486a",
+          "name": "Christel Margarete Köhle",
+          "residence": "Esslingen am Neckar"
+        },
+        {
+          "id": "93f6e3966d4f",
+          "name": "Christel Köhle-Hezinger",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "2398d2be73b9",
+      "name": "Christian Müller",
+      "residence": "Bexbach",
+      "from": [
+        {
+          "id": "2398d2be73b9",
+          "name": "Christian Müller",
+          "residence": "Bexbach"
+        },
+        {
+          "id": "41efae79e8fe",
+          "name": "Christian Müller",
+          "residence": "Frankenholz"
+        }
+      ]
+    },
+    {
+      "id": "d54130c9251c",
+      "name": "Claudia Friederike Krause",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "d54130c9251c",
+          "name": "Claudia Friederike Krause",
+          "residence": "Berlin"
+        },
+        {
+          "id": "dbfe75f7c09b",
+          "name": "Claudine Krause",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "a04ee481d20c",
+      "name": "Claus Otto Leggewie",
+      "residence": "Gießen",
+      "from": [
+        {
+          "id": "a04ee481d20c",
+          "name": "Claus Otto Leggewie",
+          "residence": "Gießen"
+        },
+        {
+          "id": "de8538da7cf5",
+          "name": "Claus Leggewie",
+          "residence": "Mittelhessen"
+        }
+      ]
+    },
+    {
+      "id": "5563b38401e4",
+      "name": "Detlef Gück",
+      "residence": "Schaufling",
+      "from": [
+        {
+          "id": "5563b38401e4",
+          "name": "Detlef Gück",
+          "residence": "Schaufling"
+        },
+        {
+          "id": "e0f09238d3f7",
+          "name": "Detlev Gück",
+          "residence": "Schaufling"
+        }
+      ]
+    },
+    {
+      "id": "737f08e3f559",
+      "name": "Diedrich Johann Buschmann",
+      "residence": "Wiefelstede OT Bokel",
+      "from": [
+        {
+          "id": "737f08e3f559",
+          "name": "Diedrich Johann Buschmann",
+          "residence": "Wiefelstede OT Bokel"
+        },
+        {
+          "id": "b7519157ac2c",
+          "name": "Dieter Buschmann",
+          "residence": "Bokel"
+        }
+      ]
+    },
+    {
+      "id": "b36eb597c07c",
+      "name": "Dietrich Ernst Hermann Schulz",
+      "residence": "Gera",
+      "from": [
+        {
+          "id": "1deecd0a9417",
+          "name": "Dietrich Schulz",
+          "residence": "Gera"
+        },
+        {
+          "id": "b36eb597c07c",
+          "name": "Dietrich Ernst Hermann Schulz",
+          "residence": "Gera"
+        }
+      ]
+    },
+    {
+      "id": "e7bb531278ed",
+      "name": "Doris Elbing",
+      "residence": "Würzburg",
+      "from": [
+        {
+          "id": "5d4a46023f45",
+          "name": "Dorothea Elbing",
+          "residence": null
+        },
+        {
+          "id": "e7bb531278ed",
+          "name": "Doris Elbing",
+          "residence": "Würzburg"
+        }
+      ]
+    },
+    {
+      "id": "3b4f345b8282",
+      "name": "Dunya Hayali",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "3b4f345b8282",
+          "name": "Dunya Hayali",
+          "residence": "Berlin"
+        },
+        {
+          "id": "f315bed25a09",
+          "name": "Dunja Hayali",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "04b937a8af0b",
+      "name": "Eberhard Günther Willikens",
+      "residence": "Stuttgart",
+      "from": [
+        {
+          "id": "04b937a8af0b",
+          "name": "Ben Willikens",
+          "residence": null
+        },
+        {
+          "id": "4b0ed88b211b",
+          "name": "Eberhard Günther Willikens",
+          "residence": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "id": "9101031cb5c8",
+      "name": "Eckhard Frieder Eichner",
+      "residence": "Augsburg",
+      "from": [
+        {
+          "id": "9101031cb5c8",
+          "name": "Eckhard Frieder Eichner",
+          "residence": "Augsburg"
+        },
+        {
+          "id": "fb2dff4eec04",
+          "name": "Eckhart Eichner",
+          "residence": "Augsburg"
+        }
+      ]
+    },
+    {
+      "id": "91f713664512",
+      "name": "Egon Vaupel",
+      "residence": "Marburg",
+      "from": [
+        {
+          "id": "31a76d8438e8",
+          "name": "Egon Vaupel",
+          "residence": null
+        },
+        {
+          "id": "91f713664512",
+          "name": "Egon Vaupel",
+          "residence": "Marburg"
+        }
+      ]
+    },
+    {
+      "id": "79459773afce",
+      "name": "Eleonore Weisgerber-Bliese",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "79459773afce",
+          "name": "Eleonore Weisgerber-Bliese",
+          "residence": "Berlin"
+        },
+        {
+          "id": "9b720e1993cb",
+          "name": "Eleonore Weisgerber",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "14eb32612cbd",
+      "name": "Elezaveta Tenovna Khan",
+      "residence": "Köln",
+      "from": [
+        {
+          "id": "14eb32612cbd",
+          "name": "Elezaveta Tenovna Khan",
+          "residence": "Köln"
+        },
+        {
+          "id": "f3b715fca64c",
+          "name": "Elizaveta Khan",
+          "residence": "Köln (aufgewachsen in Niehl und Humboldt-Gremberg)"
+        }
+      ]
+    },
+    {
+      "id": "1a978160837b",
+      "name": "Elisabeth Kreul",
+      "residence": "Krefeld",
+      "from": [
+        {
+          "id": "1a978160837b",
+          "name": "Elisabeth Kreul",
+          "residence": "Krefeld"
+        },
+        {
+          "id": "46f62c3236b6",
+          "name": "Elli Kreul",
+          "residence": "Krefeld"
+        }
+      ]
+    },
+    {
+      "id": "dad5807def1b",
+      "name": "Else Schwenk",
+      "residence": "Alpirsbach",
+      "from": [
+        {
+          "id": "dad5807def1b",
+          "name": "Else Schwenk-Anger",
+          "residence": "Alpirsbach"
+        },
+        {
+          "id": "ee95fa7a5477",
+          "name": "Else Schwenk",
+          "residence": "Alpirsbach"
+        }
+      ]
+    },
+    {
+      "id": "24bb17197cad",
+      "name": "Ernst Wouter van der Knaap",
+      "residence": "CS Utrecht (Niederlande)",
+      "from": [
+        {
+          "id": "24bb17197cad",
+          "name": "Ernst Wouter van der Knaap",
+          "residence": "CS Utrecht (Niederlande)"
+        },
+        {
+          "id": "cbd5b4d5318f",
+          "name": "Ewout van der Knaap",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "5123683dd2f9",
+      "name": "Eva Schöck-Quinteros Yanez",
+      "residence": "Lilienthal",
+      "from": [
+        {
+          "id": "5123683dd2f9",
+          "name": "Eva Schöck-Quinteros Yanez",
+          "residence": "Lilienthal"
+        },
+        {
+          "id": "c0ac9a16ef15",
+          "name": "Eva Schöck-Quinteros",
+          "residence": "Yanez, Lilienthal"
+        }
+      ]
+    },
+    {
+      "id": "48276aafe024",
+      "name": "Franz-Theo Karl Eugen Gottwald",
+      "residence": "Berg",
+      "from": [
+        {
+          "id": "48276aafe024",
+          "name": "Franz-Theo Karl Eugen Gottwald",
+          "residence": "Berg"
+        },
+        {
+          "id": "fc3de395952b",
+          "name": "Franz-Theo Gottwald",
+          "residence": "Berg"
+        }
+      ]
+    },
+    {
+      "id": "5a46ead3d952",
+      "name": "Friedrich Wilhelm Tellert",
+      "residence": "Schweinfurt",
+      "from": [
+        {
+          "id": "5a46ead3d952",
+          "name": "Friedrich Wilhelm Tellert",
+          "residence": "Schweinfurt"
+        },
+        {
+          "id": "d1b45fd53e7b",
+          "name": "Friedel Tellert",
+          "residence": "Schweinfurt"
+        }
+      ]
+    },
+    {
+      "id": "134995c0ec4d",
+      "name": "Gabriele Breuckmann",
+      "residence": "Meppen",
+      "from": [
+        {
+          "id": "134995c0ec4d",
+          "name": "Gabriele Breuckmann",
+          "residence": "Meppen"
+        },
+        {
+          "id": "efd9a39c83fc",
+          "name": "Gaby Breuckmann",
+          "residence": "Meppen"
+        }
+      ]
+    },
+    {
+      "id": "4d16c673fdd1",
+      "name": "Gisela Anna Erler",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "4d16c673fdd1",
+          "name": "Gisela Erler",
+          "residence": "Berlin"
+        },
+        {
+          "id": "f521fef1c808",
+          "name": "Gisela Anna Erler",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "4c4cdf95c5b7",
+      "name": "Gunter Friedhelm Opitz",
+      "residence": "Solingen",
+      "from": [
+        {
+          "id": "4c4cdf95c5b7",
+          "name": "Gunter Friedhelm Opitz",
+          "residence": "Solingen"
+        },
+        {
+          "id": "cbc4144559da",
+          "name": "Gunter „Felix“ Opitz",
+          "residence": "Solingen"
+        }
+      ]
+    },
+    {
+      "id": "2ee701f56d6f",
+      "name": "Günter Hass",
+      "residence": "Detmold",
+      "from": [
+        {
+          "id": "2ee701f56d6f",
+          "name": "Günter Hass",
+          "residence": "Detmold"
+        },
+        {
+          "id": "e5d3737be99b",
+          "name": "Günter Hase",
+          "residence": "Detmold"
+        }
+      ]
+    },
+    {
+      "id": "3384e6a55829",
+      "name": "Günter Willy Manfred Vorsatz",
+      "residence": "Drognitz",
+      "from": [
+        {
+          "id": "3384e6a55829",
+          "name": "Günter Willy Manfred Vorsatz",
+          "residence": "Drognitz"
+        },
+        {
+          "id": "e15ab5cbbb97",
+          "name": "Günter Vorsatz",
+          "residence": "Drognitz"
+        }
+      ]
+    },
+    {
+      "id": "db99bb68cba5",
+      "name": "Günther Waldhelm Steffen",
+      "residence": "Heilbronn",
+      "from": [
+        {
+          "id": "cc851a5a4626",
+          "name": "Günter Steffen",
+          "residence": "Heilbronn"
+        },
+        {
+          "id": "db99bb68cba5",
+          "name": "Günther Waldhelm Steffen",
+          "residence": "Heilbronn"
+        }
+      ]
+    },
+    {
+      "id": "e8eb9981e7ca",
+      "name": "Hannelore von Quadt-Wykradt-Isny",
+      "residence": "Starnberg",
+      "from": [
+        {
+          "id": "bc96c1d92e72",
+          "name": "Hannelore von Quadt",
+          "residence": "Starnberg"
+        },
+        {
+          "id": "e8eb9981e7ca",
+          "name": "Hannelore von Quadt-Wykradt-Isny",
+          "residence": "Starnberg"
+        }
+      ]
+    },
+    {
+      "id": "baf4f565320b",
+      "name": "Hans Günter Jakob",
+      "residence": "Baunatal",
+      "from": [
+        {
+          "id": "922897bd2767",
+          "name": "Hans-Günter Jakob",
+          "residence": null
+        },
+        {
+          "id": "baf4f565320b",
+          "name": "Hans Günter Jakob",
+          "residence": "Baunatal"
+        }
+      ]
+    },
+    {
+      "id": "bb58d6e8fca5",
+      "name": "Hans-Egon Wolfgang Kirchhof",
+      "residence": "Spenge",
+      "from": [
+        {
+          "id": "4e9edd717502",
+          "name": "Hans-Egon Kirchhof",
+          "residence": "Spenge"
+        },
+        {
+          "id": "bb58d6e8fca5",
+          "name": "Hans-Egon Wolfgang Kirchhof",
+          "residence": "Spenge"
+        }
+      ]
+    },
+    {
+      "id": "27454bd10e2c",
+      "name": "Hans-Heinrich Demming",
+      "residence": "Münster",
+      "from": [
+        {
+          "id": "27454bd10e2c",
+          "name": "Hannes Demming",
+          "residence": null
+        },
+        {
+          "id": "da91c2f3960d",
+          "name": "Hans-Heinrich Demming",
+          "residence": "Münster"
+        }
+      ]
+    },
+    {
+      "id": "16a6960893f0",
+      "name": "Hans-Joachim Jahn",
+      "residence": "Wuppertal",
+      "from": [
+        {
+          "id": "16a6960893f0",
+          "name": "Hajo Jahn",
+          "residence": null
+        },
+        {
+          "id": "d9c177dd779d",
+          "name": "Hans-Joachim Jahn",
+          "residence": "Wuppertal"
+        }
+      ]
+    },
+    {
+      "id": "47d557670f1d",
+      "name": "Hans-Peter Friedrich",
+      "residence": "Hof",
+      "from": [
+        {
+          "id": "47d557670f1d",
+          "name": "Hans-Peter Friedrich",
+          "residence": "Hof"
+        },
+        {
+          "id": "f14edbacd557",
+          "name": "Hans-Peter Friedich",
+          "residence": "Hof"
+        }
+      ]
+    },
+    {
+      "id": "c968084c6301",
+      "name": "Heidemarie Elisabeth Sponsel",
+      "residence": "Rückersdorf",
+      "from": [
+        {
+          "id": "a8b671d5cf1d",
+          "name": "Heidi Sponsel",
+          "residence": "Rückersdorf"
+        },
+        {
+          "id": "c968084c6301",
+          "name": "Heidemarie Elisabeth Sponsel",
+          "residence": "Rückersdorf"
+        }
+      ]
+    },
+    {
+      "id": "9b537ff69427",
+      "name": "Heikedine Petra Körting-Beurmann",
+      "residence": "Altenkrempe OT Hasselburg",
+      "from": [
+        {
+          "id": "75c8effe0c81",
+          "name": "Heikedine Petra Körting-Beurmann",
+          "residence": "Altenkrempe OT Hasselburg"
+        },
+        {
+          "id": "9b537ff69427",
+          "name": "Heikedine Körting",
+          "residence": "Gut Hasselburg"
+        }
+      ]
+    },
+    {
+      "id": "9acf351f28bf",
+      "name": "Heinrich Bernhard Helling",
+      "residence": "Overath",
+      "from": [
+        {
+          "id": "9acf351f28bf",
+          "name": "Heinrich Bernhard Helling",
+          "residence": "Overath"
+        },
+        {
+          "id": "a2b6db1260ee",
+          "name": "Heinz Helling",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "1b523acb9655",
+      "name": "Heinrich Butz",
+      "residence": "Bellheim",
+      "from": [
+        {
+          "id": "1b523acb9655",
+          "name": "Heinrich Butz",
+          "residence": "Bellheim"
+        },
+        {
+          "id": "ff1d7a0b77f2",
+          "name": "Heiner Butz",
+          "residence": "Bellheim"
+        }
+      ]
+    },
+    {
+      "id": "b9a2b643e3ec",
+      "name": "Heinrich Peter Claas",
+      "residence": "Mainz",
+      "from": [
+        {
+          "id": "3181d5b6c635",
+          "name": "Heinz Peter Claas",
+          "residence": "Mainz (gebürtig aus Gonsenheimer)"
+        },
+        {
+          "id": "b9a2b643e3ec",
+          "name": "Heinrich Peter Claas",
+          "residence": "Mainz"
+        }
+      ]
+    },
+    {
+      "id": "907eab784fe8",
+      "name": "Heinrich Wemhöner",
+      "residence": "Herford",
+      "from": [
+        {
+          "id": "907eab784fe8",
+          "name": "Heiner Wemhöner",
+          "residence": null
+        },
+        {
+          "id": "aa88e7e724a6",
+          "name": "Heinrich Wemhöner",
+          "residence": "Herford"
+        }
+      ]
+    },
+    {
+      "id": "6ebd975bb6f7",
+      "name": "Heinz Kiebel",
+      "residence": "Borken",
+      "from": [
+        {
+          "id": "6ebd975bb6f7",
+          "name": "Heiner Kiebel",
+          "residence": "Borken"
+        },
+        {
+          "id": "6ec8cdb7b5b2",
+          "name": "Heinz Kiebel",
+          "residence": "Borken"
+        }
+      ]
+    },
+    {
+      "id": "037dc86bb858",
+      "name": "Heinz Otto Wilhelm Fritz Busse",
+      "residence": "Neustadt am Rübenberge",
+      "from": [
+        {
+          "id": "037dc86bb858",
+          "name": "Heinz Otto Wilhelm Fritz Busse",
+          "residence": "Neustadt am Rübenberge"
+        },
+        {
+          "id": "c845dbfa1891",
+          "name": "Heinz Busse",
+          "residence": "Neustadt am Rübenberge"
+        }
+      ]
+    },
+    {
+      "id": "0903c483b783",
+      "name": "Henrietta Anna Kretz",
+      "residence": "Antwerpen (Belgien)",
+      "from": [
+        {
+          "id": "0903c483b783",
+          "name": "Henrietta Anna Kretz",
+          "residence": "Antwerpen (Belgien)"
+        },
+        {
+          "id": "fea172deb509",
+          "name": "Henriette Kretz",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "99555b0cc41e",
+      "name": "Herbert Willi Wagner",
+      "residence": "Wadern",
+      "from": [
+        {
+          "id": "4b455aa80519",
+          "name": "Herbert Willi Wagner",
+          "residence": "Wadern"
+        },
+        {
+          "id": "99555b0cc41e",
+          "name": "Herbert Willli Wagner",
+          "residence": "Wadern"
+        }
+      ]
+    },
+    {
+      "id": "39784bf90787",
+      "name": "Joachim Reichel",
+      "residence": "Hamburg",
+      "from": [
+        {
+          "id": "39784bf90787",
+          "name": "Joachim (Künstlername: Achim Reichel) Reichel",
+          "residence": "Hamburg"
+        },
+        {
+          "id": "f377ef60b1f9",
+          "name": "Joachim Reichel",
+          "residence": "Hamburg"
+        }
+      ]
+    },
+    {
+      "id": "42e14c9dcd93",
+      "name": "Joachim Walter Naumann",
+      "residence": "Frechen",
+      "from": [
+        {
+          "id": "42e14c9dcd93",
+          "name": "Joachim Walter Naumann",
+          "residence": "Frechen"
+        },
+        {
+          "id": "cc5853838749",
+          "name": "Jochen Naumann",
+          "residence": "Frechen"
+        }
+      ]
+    },
+    {
+      "id": "c5a9d6a00de9",
+      "name": "Johanne Wiebke Pries",
+      "residence": "Kiel",
+      "from": [
+        {
+          "id": "291813d05252",
+          "name": "Hanne Pries",
+          "residence": "Kiel"
+        },
+        {
+          "id": "c5a9d6a00de9",
+          "name": "Johanne Wiebke Pries",
+          "residence": "Kiel"
+        }
+      ]
+    },
+    {
+      "id": "7676a0342c42",
+      "name": "Josef Leinen",
+      "residence": "Saarbrücken",
+      "from": [
+        {
+          "id": "7676a0342c42",
+          "name": "Josef Leinen",
+          "residence": "Saarbrücken"
+        },
+        {
+          "id": "ac4cc9b970bb",
+          "name": "Jo Leinen",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "536c300e9381",
+      "name": "Jozsef György Berger",
+      "residence": "Stuttgart",
+      "from": [
+        {
+          "id": "536c300e9381",
+          "name": "Joel Berger",
+          "residence": null
+        },
+        {
+          "id": "eb5181ac0b01",
+          "name": "Jozsef György Berger",
+          "residence": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "id": "2d4a74f7376f",
+      "name": "Jürgen (Samuel J.) Fleiner",
+      "residence": "Wiesenbach",
+      "from": [
+        {
+          "id": "2d4a74f7376f",
+          "name": "Samuel J. Fleiner",
+          "residence": "Wiesenbach"
+        },
+        {
+          "id": "d694a5f074d9",
+          "name": "Jürgen (Samuel J.) Fleiner",
+          "residence": "Wiesenbach"
+        }
+      ]
+    },
+    {
+      "id": "019a7fdd23a1",
+      "name": "Karl Heinrich Stadler",
+      "residence": "Karlsruhe",
+      "from": [
+        {
+          "id": "019a7fdd23a1",
+          "name": "Karl Heinrich Stadler",
+          "residence": "Karlsruhe"
+        },
+        {
+          "id": "af2a7665ebb0",
+          "name": "Karl Heinz Stadler",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "791dce371e22",
+      "name": "Klaus Alfred Curt Deininger",
+      "residence": "Weimar",
+      "from": [
+        {
+          "id": "791dce371e22",
+          "name": "Klaus Alfred Curt Deininger",
+          "residence": "Weimar"
+        },
+        {
+          "id": "92fa811cfd62",
+          "name": "Klaus Deininger",
+          "residence": "Weimar"
+        }
+      ]
+    },
+    {
+      "id": "52edd5b202e3",
+      "name": "Klaus-Jürgen Trumpf",
+      "residence": "Potsdam",
+      "from": [
+        {
+          "id": "52edd5b202e3",
+          "name": "Klaus-Jürgen Trumpf",
+          "residence": "Potsdam"
+        },
+        {
+          "id": "a9da11fde4cf",
+          "name": "Klaus Trumpf",
+          "residence": "Potsdam"
+        }
+      ]
+    },
+    {
+      "id": "cdea78291278",
+      "name": "Kolja Michael Lessing",
+      "residence": "Würzburg",
+      "from": [
+        {
+          "id": "7b5a47040caf",
+          "name": "Kolja Lessing",
+          "residence": null
+        },
+        {
+          "id": "cdea78291278",
+          "name": "Kolja Michael Lessing",
+          "residence": "Würzburg"
+        }
+      ]
+    },
+    {
+      "id": "bcb61d8d607f",
+      "name": "Leila Younes El-Amarie",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "bcb61d8d607f",
+          "name": "Leila Younes El-Amarie",
+          "residence": "Berlin"
+        },
+        {
+          "id": "e724f30cdb0a",
+          "name": "Leila Younes El-Amaire",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "2598ca01817c",
+      "name": "Liselotte Habersack",
+      "residence": "München",
+      "from": [
+        {
+          "id": "2598ca01817c",
+          "name": "Liselotte Habersack",
+          "residence": "München"
+        },
+        {
+          "id": "f13ecf20e232",
+          "name": "Lilo Habersack",
+          "residence": "München"
+        }
+      ]
+    },
+    {
+      "id": "0ae64262ce2e",
+      "name": "Lutz Reinhard Seiler",
+      "residence": "Michendorf",
+      "from": [
+        {
+          "id": "0ae64262ce2e",
+          "name": "Lutz Reinhard Seiler",
+          "residence": "Michendorf"
+        },
+        {
+          "id": "406434acae0b",
+          "name": "Lutz Seiler",
+          "residence": "Michendorf"
+        }
+      ]
+    },
+    {
+      "id": "c155530d0d66",
+      "name": "Margot Anni Friedländer",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "c155530d0d66",
+          "name": "Margot Anni Friedländer",
+          "residence": "Berlin"
+        },
+        {
+          "id": "fea332d461ac",
+          "name": "Margot Friedländer",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "0d0aa62da00e",
+      "name": "Maria Magdalena Fleischmann",
+      "residence": "Egling",
+      "from": [
+        {
+          "id": "077227d7128e",
+          "name": "Marlene Fleischmann",
+          "residence": "Egling"
+        },
+        {
+          "id": "0d0aa62da00e",
+          "name": "Maria Magdalena Fleischmann",
+          "residence": "Egling"
+        }
+      ]
+    },
+    {
+      "id": "913fd5f7acfc",
+      "name": "Maria Magdalena Merhar",
+      "residence": "Mönchengladbach",
+      "from": [
+        {
+          "id": "166f901493be",
+          "name": "Marlene Merhar",
+          "residence": "Mönchengladbach (Wickrath)"
+        },
+        {
+          "id": "913fd5f7acfc",
+          "name": "Maria Magdalena Merhar",
+          "residence": "Mönchengladbach"
+        }
+      ]
+    },
+    {
+      "id": "0125ebe6da45",
+      "name": "Maria Rosina von Boeselager",
+      "residence": "Springe",
+      "from": [
+        {
+          "id": "0125ebe6da45",
+          "name": "Maria Rosina von Boeselager",
+          "residence": "Springe"
+        },
+        {
+          "id": "2a9e46f843b0",
+          "name": "Marie-Rose Freifrau von Boeselager",
+          "residence": "Springe"
+        }
+      ]
+    },
+    {
+      "id": "c87e954d2360",
+      "name": "Marie-Louise Pachmann-Priller",
+      "residence": "Augsburg",
+      "from": [
+        {
+          "id": "6316c7413b1c",
+          "name": "Marie-Louise Pachmann",
+          "residence": "Augsburg"
+        },
+        {
+          "id": "c87e954d2360",
+          "name": "Marie-Louise Pachmann-Priller",
+          "residence": "Augsburg"
+        }
+      ]
+    },
+    {
+      "id": "1fcd3c3a3cf4",
+      "name": "Marie-Luise (Malu) Dreyer",
+      "residence": "Mainz",
+      "from": [
+        {
+          "id": "1fcd3c3a3cf4",
+          "name": "Marie-Luise (Malu) Dreyer",
+          "residence": "Mainz"
+        },
+        {
+          "id": "c29c5469a5dd",
+          "name": "Malu Dreyer",
+          "residence": "Rheinland-Pfalz"
+        }
+      ]
+    },
+    {
+      "id": "05852fbf3555",
+      "name": "Marija Hofmann-Sircelj",
+      "residence": "Kitzingen",
+      "from": [
+        {
+          "id": "05852fbf3555",
+          "name": "Marija Hofmann-Sircelj",
+          "residence": "Kitzingen"
+        },
+        {
+          "id": "74a91b17912c",
+          "name": "Maruška Hofmann-Šircelj",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "55de642409fc",
+      "name": "Mechtild von Korff",
+      "residence": "Harsewinkel",
+      "from": [
+        {
+          "id": "1d6073c6d9c6",
+          "name": "Mechtild Gräfin von Korff genannt Schmising Kerssenbrock",
+          "residence": "Harsewinkel"
+        },
+        {
+          "id": "55de642409fc",
+          "name": "Mechtild von Korff",
+          "residence": "Harsewinkel"
+        }
+      ]
+    },
+    {
+      "id": "07ff1a9782d1",
+      "name": "Meinhard Albert Otto Gehse",
+      "residence": "Dedelstorf",
+      "from": [
+        {
+          "id": "07ff1a9782d1",
+          "name": "Meinhard Albert Otto Gehse",
+          "residence": "Dedelstorf"
+        },
+        {
+          "id": "9f899a4051f1",
+          "name": "Meinhard Albert Otto Gehse",
+          "residence": "Hankensbüttel"
+        }
+      ]
+    },
+    {
+      "id": "7444e040cbcb",
+      "name": "Michael ten Hompel",
+      "residence": "Dortmund",
+      "from": [
+        {
+          "id": "7444e040cbcb",
+          "name": "Michael ten Hompel",
+          "residence": "Dortmund"
+        },
+        {
+          "id": "d31bb4c83d2b",
+          "name": "ten Hompel",
+          "residence": "Michael, Dortmund"
+        }
+      ]
+    },
+    {
+      "id": "7def09391fac",
+      "name": "Michail Nikolaewitsch Grigoriew",
+      "residence": "Jakutsk (Russland)",
+      "from": [
+        {
+          "id": "7def09391fac",
+          "name": "Michail Nikolaewitsch Grigoriew",
+          "residence": "Jakutsk (Russland)"
+        },
+        {
+          "id": "d467984895e2",
+          "name": "Mikhail Grigoriew",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "9459154da9a2",
+      "name": "Mo Asumang",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "786d315b5445",
+          "name": "Monika Asumang",
+          "residence": "Berlin"
+        },
+        {
+          "id": "9459154da9a2",
+          "name": "Mo Asumang",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "df044e14ea63",
+      "name": "Monika Elisabeth Küppers",
+      "residence": "Oberhausen",
+      "from": [
+        {
+          "id": "df044e14ea63",
+          "name": "Monika Elisabeth Küppers",
+          "residence": "Oberhausen"
+        },
+        {
+          "id": "e972c1669b39",
+          "name": "Mona Küppers",
+          "residence": "Oberhausen"
+        }
+      ]
+    },
+    {
+      "id": "88edb593416f",
+      "name": "Nikolaus Hofmann",
+      "residence": "Berlin",
+      "from": [
+        {
+          "id": "55a8fbfc8301",
+          "name": "Nico Hofmann",
+          "residence": null
+        },
+        {
+          "id": "88edb593416f",
+          "name": "Nikolaus Hofmann",
+          "residence": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "5857f1a7e315",
+      "name": "Norbert Aust-Bergmann",
+      "residence": "Molfsee",
+      "from": [
+        {
+          "id": "5857f1a7e315",
+          "name": "Norbert Aust-Bergmann",
+          "residence": "Molfsee"
+        },
+        {
+          "id": "7dd498608979",
+          "name": "Norbert Aust",
+          "residence": "Molfsee (bei Kiel)"
+        }
+      ]
+    },
+    {
+      "id": "4b2d906ec0dd",
+      "name": "Norbert Kloppenburg",
+      "residence": "Hamburg",
+      "from": [
+        {
+          "id": "4b2d906ec0dd",
+          "name": "Norbert Kloppenburg",
+          "residence": null
+        },
+        {
+          "id": "a81814f4aeff",
+          "name": "Norbert Kloppenburg",
+          "residence": "Hamburg"
+        }
+      ]
+    },
+    {
+      "id": "9f2a64ccbfc1",
+      "name": "Ralf Fücks",
+      "residence": "Bremen",
+      "from": [
+        {
+          "id": "9f2a64ccbfc1",
+          "name": "Ralf Fücks",
+          "residence": "Bremen"
+        },
+        {
+          "id": "d3e8697d07d2",
+          "name": "Ralph Fücks",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "0ce91a9f81f9",
+      "name": "Ralf Schreiber",
+      "residence": "Hattingen",
+      "from": [
+        {
+          "id": "0ce91a9f81f9",
+          "name": "Ralf Schreiber",
+          "residence": "Hattingen"
+        },
+        {
+          "id": "e928ac71e63e",
+          "name": "Ralf Schreiber",
+          "residence": "Sprockhövel"
+        }
+      ]
+    },
+    {
+      "id": "2d3ddefbb82e",
+      "name": "Regine Kämper-Brecht",
+      "residence": "Ochsenhausen",
+      "from": [
+        {
+          "id": "2d3ddefbb82e",
+          "name": "Regine Kämper",
+          "residence": null
+        },
+        {
+          "id": "ee2accd52cf0",
+          "name": "Regine Kämper-Brecht",
+          "residence": "Ochsenhausen"
+        }
+      ]
+    },
+    {
+      "id": "b579eef0b856",
+      "name": "Renate Jahn-Lutz",
+      "residence": "Waldenburg",
+      "from": [
+        {
+          "id": "0834b5c4de63",
+          "name": "Renate Lutz",
+          "residence": "Neuler"
+        },
+        {
+          "id": "e79d42cce05f",
+          "name": "Renate Jahn-Lutz",
+          "residence": "Waldenburg"
+        }
+      ]
+    },
+    {
+      "id": "cf67239bd7ec",
+      "name": "Robert Georg Simeon Lübenoff",
+      "residence": "München",
+      "from": [
+        {
+          "id": "18089b8073e7",
+          "name": "Robert Lübenoff",
+          "residence": "München"
+        },
+        {
+          "id": "cf67239bd7ec",
+          "name": "Robert Georg Simeon Lübenoff",
+          "residence": "München"
+        }
+      ]
+    },
+    {
+      "id": "851e8a671115",
+      "name": "Rolf Ernst Georg Trier",
+      "residence": "Hildburghausen",
+      "from": [
+        {
+          "id": "073f36711e96",
+          "name": "Rolf Trier",
+          "residence": "Hildburghausen"
+        },
+        {
+          "id": "851e8a671115",
+          "name": "Rolf Ernst Georg Trier",
+          "residence": "Hildburghausen"
+        }
+      ]
+    },
+    {
+      "id": "97a1d97020b6",
+      "name": "Rolf Fischer",
+      "residence": "Schwentinental",
+      "from": [
+        {
+          "id": "2ecde20c4d93",
+          "name": "Rolf Fischer",
+          "residence": "Schwentinental"
+        },
+        {
+          "id": "97a1d97020b6",
+          "name": "Karl-Rudolf Fischer",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "ce4ab510ddaa",
+      "name": "Ronald Kaiser",
+      "residence": "Münster",
+      "from": [
+        {
+          "id": "ce4ab510ddaa",
+          "name": "Ronald Kaiser",
+          "residence": "Münster"
+        },
+        {
+          "id": "e51412312e55",
+          "name": "Roland Kaiser",
+          "residence": "Münster"
+        }
+      ]
+    },
+    {
+      "id": "9f01918bed27",
+      "name": "Rossen Assenow Plewneliew",
+      "residence": null,
+      "from": [
+        {
+          "id": "9f01918bed27",
+          "name": "Rossen Assenow Plewneliew",
+          "residence": null
+        },
+        {
+          "id": "ae926ed9509e",
+          "name": "Rosen Plevneliev",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "286491233232",
+      "name": "Rudolf Haymann",
+      "residence": "Santiago de Chile (Chile)",
+      "from": [
+        {
+          "id": "286491233232",
+          "name": "Rudolf Haymann",
+          "residence": "Santiago de Chile (Chile)"
+        },
+        {
+          "id": "346300896e3b",
+          "name": "Rudi Haymann",
+          "residence": "Chile"
+        }
+      ]
+    },
+    {
+      "id": "3a8be771f406",
+      "name": "Rudolf Müller",
+      "residence": "Pluwig",
+      "from": [
+        {
+          "id": "3a8be771f406",
+          "name": "Rudolf Müller",
+          "residence": "Pluwig"
+        },
+        {
+          "id": "d2579fa1ba75",
+          "name": "Rüdiger Müller",
+          "residence": "Buseck"
+        }
+      ]
+    },
+    {
+      "id": "6342834762e8",
+      "name": "Rudolf Reitinger",
+      "residence": "Jocoaitique, Departamento de Morazän (El Salvador)",
+      "from": [
+        {
+          "id": "6342834762e8",
+          "name": "Rudolf Reitinger",
+          "residence": "Jocoaitique, Departamento de Morazän (El Salvador)"
+        },
+        {
+          "id": "fa9d3225be9f",
+          "name": "Rudi Reitinger",
+          "residence": "El Salvador (aufgewachsen in Veringenstadt)"
+        }
+      ]
+    },
+    {
+      "id": "629d24e88cc9",
+      "name": "Rudolf Rupp",
+      "residence": "Temeswar (ROU)",
+      "from": [
+        {
+          "id": "629d24e88cc9",
+          "name": "Rudolf Rupp",
+          "residence": "Temeswar (ROU)"
+        },
+        {
+          "id": "edf034604917",
+          "name": "Berno Rupp",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "7a2428839970",
+      "name": "Rudolf Schäfer",
+      "residence": "Bergkamen",
+      "from": [
+        {
+          "id": "7a2428839970",
+          "name": "Roland Schäfer",
+          "residence": null
+        },
+        {
+          "id": "c6f5ce807d6e",
+          "name": "Rudolf Schäfer",
+          "residence": "Bergkamen"
+        }
+      ]
+    },
+    {
+      "id": "aecb78e04323",
+      "name": "Siegfried Joachim Schwarz",
+      "residence": "Heidenheim an der Brenz",
+      "from": [
+        {
+          "id": "5734aea08345",
+          "name": "Siggi Schwarz",
+          "residence": "Heidenheim"
+        },
+        {
+          "id": "aecb78e04323",
+          "name": "Siegfried Joachim Schwarz",
+          "residence": "Heidenheim an der Brenz"
+        }
+      ]
+    },
+    {
+      "id": "197fa64d7846",
+      "name": "Silke Renk-Lange",
+      "residence": "Halle (Saale)",
+      "from": [
+        {
+          "id": "197fa64d7846",
+          "name": "Silke Renk",
+          "residence": null
+        },
+        {
+          "id": "862523a435b1",
+          "name": "Silke Renk-Lange",
+          "residence": "Halle (Saale)"
+        }
+      ]
+    },
+    {
+      "id": "72799700f330",
+      "name": "Silvia Kreibiehl",
+      "residence": "Dreieich",
+      "from": [
+        {
+          "id": "2b27ed09f387",
+          "name": "Silvie Kreibiehl",
+          "residence": "Dreieich/Hessen"
+        },
+        {
+          "id": "72799700f330",
+          "name": "Silvia Kreibiehl",
+          "residence": "Dreieich"
+        }
+      ]
+    },
+    {
+      "id": "d21b92d5555b",
+      "name": "Stephan Alexander Kufferath-Kaßner",
+      "residence": "Düren",
+      "from": [
+        {
+          "id": "232b2c1ef9be",
+          "name": "Stephan Kufferath",
+          "residence": "Düren"
+        },
+        {
+          "id": "d21b92d5555b",
+          "name": "Stephan Alexander Kufferath-Kaßner",
+          "residence": "Düren"
+        }
+      ]
+    },
+    {
+      "id": "413f36544d1b",
+      "name": "Thierry de Beaumont-Beynac",
+      "residence": "Paris (Frankreich)",
+      "from": [
+        {
+          "id": "413f36544d1b",
+          "name": "Comte de Beaumont-Beynac",
+          "residence": "Thierry, Paris (Frankreich)"
+        },
+        {
+          "id": "ae91f7f35c66",
+          "name": "Thierry Comte de Beaumont-Beynac",
+          "residence": "Paris (Frankreich)"
+        }
+      ]
+    },
+    {
+      "id": "09df0c5541b8",
+      "name": "Traute Lafrenz Page",
+      "residence": "South Carolina (USA)",
+      "from": [
+        {
+          "id": "09df0c5541b8",
+          "name": "Traute Lafrenz Page",
+          "residence": "South Carolina (USA)"
+        },
+        {
+          "id": "4a529792b159",
+          "name": "Traute Lafrenz",
+          "residence": "Page, South Carolina (USA)"
+        }
+      ]
+    },
+    {
+      "id": "27edcd55b0f4",
+      "name": "Ulrike Protzer-Knolle",
+      "residence": "München",
+      "from": [
+        {
+          "id": "27edcd55b0f4",
+          "name": "Ulrike Protzer",
+          "residence": null
+        },
+        {
+          "id": "a83dfab9429b",
+          "name": "Ulrike Protzer-Knolle",
+          "residence": "München"
+        }
+      ]
+    },
+    {
+      "id": "bd265e65efcf",
+      "name": "Ursula Bonas",
+      "residence": "Halle (Saale)",
+      "from": [
+        {
+          "id": "bd265e65efcf",
+          "name": "Ursula Bonas",
+          "residence": "Halle (Saale)"
+        },
+        {
+          "id": "fe320f8eb2dd",
+          "name": "Ulla Bonas",
+          "residence": null
+        }
+      ]
+    },
+    {
+      "id": "0b30bf820bc3",
+      "name": "Ursula Brammertz",
+      "residence": "Aachen",
+      "from": [
+        {
+          "id": "0b30bf820bc3",
+          "name": "Ursula Brammertz",
+          "residence": "Aachen"
+        },
+        {
+          "id": "6761f4b8e7d9",
+          "name": "Uschi Brammertz",
+          "residence": "Aachen"
+        }
+      ]
+    },
+    {
+      "id": "520b9a5aec56",
+      "name": "Ursula Feldhaus",
+      "residence": "Solingen",
+      "from": [
+        {
+          "id": "520b9a5aec56",
+          "name": "Ursula Feldhaus",
+          "residence": "Solingen"
+        },
+        {
+          "id": "a238e44a593b",
+          "name": "Ulla Feldhaus",
+          "residence": "Solingen"
+        }
+      ]
+    },
+    {
+      "id": "b067baa575a0",
+      "name": "Ursula Klapproth",
+      "residence": "Katlenburg-Lindau",
+      "from": [
+        {
+          "id": "9bec36f36b85",
+          "name": "Ulla Klapproth",
+          "residence": null
+        },
+        {
+          "id": "b067baa575a0",
+          "name": "Ursula Klapproth",
+          "residence": "Katlenburg-Lindau"
+        }
+      ]
+    },
+    {
+      "id": "fed115d16fce",
+      "name": "Ursula Stief",
+      "residence": "Weißenburg i. Bay.",
+      "from": [
+        {
+          "id": "fad70f6b3f92",
+          "name": "Ursel Stief",
+          "residence": "Weißenburg"
+        },
+        {
+          "id": "fed115d16fce",
+          "name": "Ursula Stief",
+          "residence": "Weißenburg i. Bay."
+        }
+      ]
+    },
+    {
+      "id": "690bf5db4e4b",
+      "name": "Ursula-Maria Lachauer",
+      "residence": "Lüneburg",
+      "from": [
+        {
+          "id": "690bf5db4e4b",
+          "name": "Ulla Lachauer",
+          "residence": null
+        },
+        {
+          "id": "90d9672ca790",
+          "name": "Ursula-Maria Lachauer",
+          "residence": "Lüneburg"
+        }
+      ]
+    },
+    {
+      "id": "42eb78df11db",
+      "name": "Vicky Leandros",
+      "residence": "Basthorst",
+      "from": [
+        {
+          "id": "42eb78df11db",
+          "name": "Vicky Leandros",
+          "residence": "Basthorst"
+        },
+        {
+          "id": "4e25e9e55d5d",
+          "name": "Basilike Freifrau von Ruffin",
+          "residence": "Basthorst"
+        }
+      ]
+    },
+    {
+      "id": "c28607251b42",
+      "name": "Vitantonio Contento",
+      "residence": "Koblenz",
+      "from": [
+        {
+          "id": "c28607251b42",
+          "name": "Vito Contento",
+          "residence": "Koblenz"
+        },
+        {
+          "id": "cfd652418999",
+          "name": "Vitantonio Contento",
+          "residence": "Koblenz"
+        }
+      ]
+    },
+    {
+      "id": "3ad98c715b22",
+      "name": "Walter Michael Lindner",
+      "residence": "Calw",
+      "from": [
+        {
+          "id": "3ad98c715b22",
+          "name": "Walter Michael Lindner",
+          "residence": "Calw"
+        },
+        {
+          "id": "ee966681464e",
+          "name": "Michael Lindner",
+          "residence": "Calw"
+        }
+      ]
+    },
+    {
+      "id": "e453b680b2f0",
+      "name": "Waltraud Irene Triffterer",
+      "residence": "Velbert",
+      "from": [
+        {
+          "id": "d52c600aba00",
+          "name": "Waldtraud Triffterer",
+          "residence": null
+        },
+        {
+          "id": "e453b680b2f0",
+          "name": "Waltraud Irene Triffterer",
+          "residence": "Velbert"
+        }
+      ]
+    },
+    {
+      "id": "bdc09d5d1774",
+      "name": "Waltraud Josepha Pfandlbauer",
+      "residence": "Altenstadt",
+      "from": [
+        {
+          "id": "0b21f3084254",
+          "name": "Waldtraud Pfandlbauer",
+          "residence": "Altenstadt"
+        },
+        {
+          "id": "bdc09d5d1774",
+          "name": "Waltraud Josepha Pfandlbauer",
+          "residence": "Altenstadt"
+        }
+      ]
+    },
+    {
+      "id": "341ec43c2c11",
+      "name": "Werner Alois Pees",
+      "residence": "Bamberg",
+      "from": [
+        {
+          "id": "341ec43c2c11",
+          "name": "Werner Alois Pees",
+          "residence": "Bamberg"
+        },
+        {
+          "id": "b9b20438a375",
+          "name": "Werner Pees",
+          "residence": "Bamberg"
+        }
+      ]
+    },
+    {
+      "id": "c5ffe9b7ce06",
+      "name": "Werner Bubenzer",
+      "residence": "Gummersbach",
+      "from": [
+        {
+          "id": "c5ffe9b7ce06",
+          "name": "Werner Bubenzer",
+          "residence": "Gummersbach"
+        },
+        {
+          "id": "ee0e11d8448a",
+          "name": "Werner Bubenzer",
+          "residence": "Gummbersbach"
+        }
+      ]
+    },
+    {
+      "id": "5be1d571a8c9",
+      "name": "Werner Joachim Denneberg",
+      "residence": "Königslutter",
+      "from": [
+        {
+          "id": "2be090f7b2f6",
+          "name": "Werner Denneberg",
+          "residence": "Königslutter"
+        },
+        {
+          "id": "5be1d571a8c9",
+          "name": "Werner Joachim Denneberg",
+          "residence": "Königslutter am Elm"
+        }
+      ]
+    },
+    {
+      "id": "23d3ab2465b4",
+      "name": "Willi Georg Herrmann",
+      "residence": "Mannheim",
+      "from": [
+        {
+          "id": "23d3ab2465b4",
+          "name": "Willi Georg Herrmann",
+          "residence": "Mannheim"
+        },
+        {
+          "id": "d2f464c0b9f7",
+          "name": "Will Herrmann",
+          "residence": null
+        }
+      ]
+    }
+  ],
+  "removed_records": [
+    {
+      "id": "1ba40530cd24",
+      "name": "Evelyne Gebhardt",
+      "urls": [
+        "https://www.schwaebische.de/regional/tuttlingen/tuttlingen/bundesverdienstkreuz-fuer-evelyn-gebhardt-496789"
+      ]
+    },
+    {
+      "id": "8be21a5e7257",
+      "name": "Vicky Leandros",
+      "urls": [
+        "https://www.fnp.de/boulevard/vicky-leandros-bundesverdienstkreuz-geehrt-10892480.html"
+      ]
+    },
+    {
+      "id": "b5908a56ed2f",
+      "name": "Miguel Franco Leichsenring",
+      "urls": [
+        "https://www.diebewertung.de/bundespraesidialamtbekanntgabe-von-verleihungen-des-verdienstordens-der-bundesrepublik-deutschland/"
+      ]
+    },
+    {
+      "id": "e6a440420699",
+      "name": "Ursula Holthaus",
+      "urls": [
+        "https://www.diebewertung.de/bekanntgabe-von-verleihungen-des-verdienstordens-der-bundesrepublik-deutschland/"
+      ]
+    },
+    {
+      "id": "dca026f2504c",
+      "name": "der Niederlande",
+      "urls": [
+        "https://www.sueddeutsche.de/politik/bundesverdienstkreuz-buergerorden-bundespraesident-1.5533033"
+      ]
+    },
+    {
+      "id": "26e5612e2357",
+      "name": "Markus Hein Wollner",
+      "urls": [
+        "https://www.diebewertung.de/bekanntgabe-von-verleihungen-des-verdienstordens-der-bundesrepublik-deutschland-2/"
+      ]
+    },
+    {
+      "id": "a9ec7d6d9839",
+      "name": "Hans-Otto Umlandt",
+      "urls": [
+        "https://www.schleswig-holstein.de/DE/fachinhalte/A/auszeichnungen/bundesverdienstorden/Archiv/Verdienstorden_Bund_Archiv2024"
+      ]
+    },
+    {
+      "id": "40fa4d1d5c03",
+      "name": "Freiherr von Schimmelmann",
+      "urls": [
+        "https://radio-oberland.de/news/20260-02-11-bundesverdienstkreuz"
+      ]
+    }
+  ],
+  "left_for_review": [
+    {
+      "name": "Aloysius Lögering",
+      "issue": "January 2017 lists disagree (BPR Verdienstkreuz am Bande, Bundesanzeiger/WikiProjekt Verdienstmedaille); March 2017 relists him with the Verdienstkreuz am Bande. Kept as two awards."
+    },
+    {
+      "name": "Wolfgang (Peter) Templin",
+      "issue": "One October 2016 list names \"Templin, Wolfgang\" (VK 1. Klasse) and \"Templin, Wolfgang Peter\" (VK am Bande); probably two people, merged into one record."
+    },
+    {
+      "name": "Julia Fischer / Urs Lehmann / Georg Friedrich Harloff / Heidi Rössing / Mascha Kauka",
+      "issue": "Press or Wikipedia records whose official counterpart (Julia Fischer, Gauting; Ursula Emma Lehmann; Hans-Georg Harloff; Helga Rößing; Margarete Elisabeth Kauka) is uncertain; kept separate."
+    },
+    {
+      "name": "Andreas Alfons Suermann",
+      "issue": "Two undated articles put the handover on 17 May 2024, two years before the May 2026 listing; the date was dropped by the 300-day rule."
+    }
+  ],
+  "notes": [
+    "Before = data/bvk.json and cache/audit.json as of 2026-10-22 01:01; after = this regeneration. The audit counts after the fix use freshly fetched Wikidata labels; analysis/audit.py had reused cached batches from an older QID set because a variable was overwritten.",
+    "Duplicate counts come from the scans described in the README audit-fix paragraph; the remaining 5 strict candidates are the uncertain ones listed under left_for_review.",
+    "The repair pass asked z-ai/glm-5.3 about pages already attached to records (repair_pass); new reasons were classified for the figures with the existing prompts."
+  ]
+}

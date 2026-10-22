@@ -1,0 +1,12 @@
+cache/
+.env
+.venv/
+__pycache__/
+.DS_Store
+.claude/
+*.tmp
+.ruff_cache/
+.pytest_cache/
+/index.php
+/translations.php
+/translations/

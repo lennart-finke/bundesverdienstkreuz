@@ -1,0 +1,2083 @@
+{
+  "before": {
+    "people": 12898,
+    "awards": 12930,
+    "unknown_grade_awards": 70,
+    "awards_per_year": {
+      "2015": 1216,
+      "2016": 1399,
+      "2017": 951,
+      "2018": 1206,
+      "2019": 1101,
+      "2020": 1084,
+      "2021": 1232,
+      "2022": 942,
+      "2023": 928,
+      "2024": 1125,
+      "2025": 1128,
+      "2026": 618
+    },
+    "people_with_two_grades_within_two_years": 2,
+    "foreign_residence_placed_in_germany": 7,
+    "malformed_source_dates": 155
+  },
+  "after": {
+    "people": 12865,
+    "awards": 12887,
+    "unknown_grade_awards": 50,
+    "awards_per_year": {
+      "2015": 1216,
+      "2016": 1392,
+      "2017": 948,
+      "2018": 1202,
+      "2019": 1096,
+      "2020": 1077,
+      "2021": 1231,
+      "2022": 941,
+      "2023": 925,
+      "2024": 1123,
+      "2025": 1120,
+      "2026": 616
+    },
+    "people_with_two_grades_within_two_years": 0,
+    "foreign_residence_placed_in_germany": 0,
+    "malformed_source_dates": 0
+  },
+  "removed_people": [
+    {
+      "id": "f82a7bd0385f",
+      "name": "Hans Berkessel",
+      "residence": "Ingelheim",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2016,
+          "date": "2016-02-04",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "8fab8e8d673c",
+        "name": "Johannes Berkessel",
+        "residence": "Ingelheim am Rhein"
+      }
+    },
+    {
+      "id": "cad416f5347b",
+      "name": "Klaus Th. Vetter",
+      "residence": "Siegen",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz 1. Klasse",
+          "year": 2016,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "da24a3c0fe1d",
+        "name": "Klaus Theodor Vetter",
+        "residence": "Wilnsdorf"
+      }
+    },
+    {
+      "id": "d76ca6add786",
+      "name": "Marianne Rumpf",
+      "residence": "Andernach",
+      "awards": [
+        {
+          "grade": "Verdienstmedaille",
+          "year": 2016,
+          "date": "2016-03-08",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "fab7709a6b0d",
+        "name": "Anna Maria Rumpf",
+        "residence": "Andernach"
+      }
+    },
+    {
+      "id": "2a4f932a3496",
+      "name": "Mariott Glocker",
+      "residence": "Bad Waldsee",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2016,
+          "date": "2016-11-18",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "c727d1fbb722",
+        "name": "Maria Glocker",
+        "residence": "Bad Waldsee"
+      }
+    },
+    {
+      "id": "ae6858c72e8b",
+      "name": "Thomas Junghansh",
+      "residence": null,
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2016,
+          "date": "2016-05-02",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "39e3cf2c52bf",
+        "name": "Thomas Junghanss",
+        "residence": "Heidelberg"
+      }
+    },
+    {
+      "id": "676eb3d83363",
+      "name": "Bernhard Ggdtoberens",
+      "residence": null,
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2018,
+          "date": "2018-02-13",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "f25b1b8d3d81",
+        "name": "Bernhard Gerdtoberens",
+        "residence": "Gütersloh"
+      }
+    },
+    {
+      "id": "d36787abf874",
+      "name": "Hans Heinrich Klein",
+      "residence": "Gresaubach",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "5cda0a372f3e",
+        "name": "Hans Heinrich Klein",
+        "residence": "Lebach"
+      }
+    },
+    {
+      "id": "0424ac660811",
+      "name": "Hans Reich",
+      "residence": "Kaufbeuren",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": "2018-06-12",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "402f12f474f1",
+        "name": "Johann Reich",
+        "residence": "Kaufbeuren"
+      }
+    },
+    {
+      "id": "fd2e2c72c695",
+      "name": "Klaus Adolf",
+      "residence": "Bonn",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "7a3c6c6b913a",
+        "name": "Johann Nikolaus Adolf",
+        "residence": "Bonn"
+      }
+    },
+    {
+      "id": "88ea3b0e5c71",
+      "name": "Lisa Blumentrath-Eschweiler",
+      "residence": "Alzey",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": "2018-07-05",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "c49992b005bb",
+        "name": "Elisabeth Blumentrath-Eschweiler",
+        "residence": "Alzey"
+      }
+    },
+    {
+      "id": "2f3a21738a69",
+      "name": "Reile Hildebrandt-Junge-Wentrup",
+      "residence": "Gladbeck",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": "2018-02-21",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "7a7f0c2b17c9",
+        "name": "Marie Luise Hildebrandt-Junge-Wentrup",
+        "residence": "Gladbeck"
+      }
+    },
+    {
+      "id": "5c75c7686df9",
+      "name": "Werner Mester",
+      "residence": "Halberbracht",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2018,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "f547535ac5c6",
+        "name": "Peter Werner Mester",
+        "residence": "Lennestadt"
+      }
+    },
+    {
+      "id": "ce549917c119",
+      "name": "Giesela Schlüsselburg",
+      "residence": "Bismark",
+      "awards": [
+        {
+          "grade": "Verdienstmedaille",
+          "year": 2019,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "8bc8955e589a",
+        "name": "Verena Gisela Schlüsselburg",
+        "residence": "Bismark (Altmark)"
+      }
+    },
+    {
+      "id": "ac0db7bc8134",
+      "name": "Hans Rabl",
+      "residence": "Friedberg",
+      "awards": [
+        {
+          "grade": "Verdienstmedaille",
+          "year": 2019,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": null
+    },
+    {
+      "id": "5f4e3148884c",
+      "name": "Urs Lehmann",
+      "residence": "Heidelberg",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2019,
+          "date": "2019-09-04",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "5675bd717889",
+        "name": "Ursula Emma Lehmann",
+        "residence": "Heidelberg"
+      }
+    },
+    {
+      "id": "65212f97825e",
+      "name": "DW Dreysse",
+      "residence": "Frankfurt",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2020,
+          "date": "2020-10-23",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "53e1ddf1e318",
+        "name": "Dietrich Wilhelm Dreysse",
+        "residence": "Frankfurt am Main"
+      }
+    },
+    {
+      "id": "84ea6ef001ea",
+      "name": "Christophora Eckl",
+      "residence": "Glonn",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2021,
+          "date": "2021-06-25",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "1f6e31141e24",
+        "name": "Brigitte Eckl",
+        "residence": "Glonn"
+      }
+    },
+    {
+      "id": "8b1db6f5271b",
+      "name": "Emmanuel Rotter",
+      "residence": "München/Bayern",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2022,
+          "date": "2022-12-05",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "8bf09ae47f4c",
+        "name": "Bernhard Rotter",
+        "residence": "München"
+      }
+    },
+    {
+      "id": "c9fa465352d4",
+      "name": "Unbekanntes Würzburger Ehepaar",
+      "residence": "Würzburg",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2022,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": null
+    },
+    {
+      "id": "c2abcc25633a",
+      "name": "Burkhard Struck",
+      "residence": "Bohlsbach",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2023,
+          "date": "2023-07-21",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "91ccd4f80783",
+        "name": "Burkhardt Struck",
+        "residence": "Offenburg"
+      }
+    },
+    {
+      "id": "5bc3e9164a7d",
+      "name": "Ehepaar Burkert-Mazur",
+      "residence": "Kronach",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2023,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": null
+    },
+    {
+      "id": "3550a649ed9b",
+      "name": "Klaus Kozuch",
+      "residence": "Cham",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2024,
+          "date": "2024-12-16",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "84f5907bc6fe",
+        "name": "Stanislaus Ludwig Kozuch",
+        "residence": "Cham"
+      }
+    },
+    {
+      "id": "4a7e54ad23bd",
+      "name": "Ruth Weiss",
+      "residence": "Skørping (Dänemark)",
+      "awards": [
+        {
+          "grade": "Großes Verdienstkreuz",
+          "year": 2024,
+          "date": null,
+          "announced": "2024-05-01"
+        }
+      ],
+      "merged_into": {
+        "id": "604755431e94",
+        "name": "Ruth Weiss",
+        "residence": "Lüdinghausen"
+      }
+    },
+    {
+      "id": "7a4c15afdf33",
+      "name": "Ehepaar Christoph",
+      "residence": null,
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2025,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": null
+    },
+    {
+      "id": "aa2a839b67ce",
+      "name": "Georg Friedrich Harloff",
+      "residence": "Gemeinde Rühn",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2025,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "944f02fcca28",
+        "name": "Hans-Georg Harloff",
+        "residence": "Rühn"
+      }
+    },
+    {
+      "id": "e5f5ab24072b",
+      "name": "Gundi Grabenmeier",
+      "residence": "Everswinkel",
+      "awards": [
+        {
+          "grade": "Verdienstmedaille",
+          "year": 2025,
+          "date": "2025-11-05",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "607f02d5fba3",
+        "name": "Hildegunde Helene Grabenmeier",
+        "residence": "Everswinkel"
+      }
+    },
+    {
+      "id": "b987fe4aaa49",
+      "name": "Hanns Friedrich",
+      "residence": "Bad Königshofen",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2025,
+          "date": "2025-02-07",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "cbfca9256f9f",
+        "name": "Johannes Adolf Friedrich",
+        "residence": "Bad Königshofen i.Grabfeld"
+      }
+    },
+    {
+      "id": "71afeed2526c",
+      "name": "Heidi Rössing",
+      "residence": "Niederaula",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2025,
+          "date": "2025-10-22",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "89888c8fa05e",
+        "name": "Helga Rößing",
+        "residence": "Niederaula"
+      }
+    },
+    {
+      "id": "8c7eb9820d9f",
+      "name": "Helmut Ruß",
+      "residence": "Iversheim",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2025,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "9550fb300e57",
+        "name": "Hans Helmut Ruß",
+        "residence": "Bad Münstereifel"
+      }
+    },
+    {
+      "id": "dc294c7cba4f",
+      "name": "Klaus Phillippscheck",
+      "residence": "Sindelfingen",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2025,
+          "date": "2025-12-13",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "9fffb1d92cc7",
+        "name": "Rainer Klaus Philippscheck",
+        "residence": "Sindelfingen"
+      }
+    },
+    {
+      "id": "0e596b2b4ec4",
+      "name": "Kronacher Heimatdichter",
+      "residence": "Kronach",
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2025,
+          "date": null,
+          "announced": null
+        }
+      ],
+      "merged_into": null
+    },
+    {
+      "id": "05972135b1d8",
+      "name": "Mascha Kauka",
+      "residence": null,
+      "awards": [
+        {
+          "grade": "unbekannt",
+          "year": 2025,
+          "date": "2025-01-16",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "0740c5561870",
+        "name": "Margarete Elisabeth Kauka",
+        "residence": "München"
+      }
+    },
+    {
+      "id": "83daab65ae4f",
+      "name": "Hans Eitel",
+      "residence": "Thüngen",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2026,
+          "date": "2026-05-16",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "3d7e3b4d1587",
+        "name": "Johann Emil Eitel",
+        "residence": "Thüngen"
+      }
+    },
+    {
+      "id": "4d655b4b0c1d",
+      "name": "Werner Scheel",
+      "residence": "Sarlhusen (Kreis Steinburg)",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2026,
+          "date": "2026-06-16",
+          "announced": null
+        }
+      ],
+      "merged_into": {
+        "id": "09a9d0fe719a",
+        "name": "Ernst Scheel",
+        "residence": "Sarlhusen"
+      }
+    }
+  ],
+  "added_people": [
+    {
+      "id": "f5f97977be7d",
+      "name": "Wolfgang Peter Templin",
+      "residence": "Berlin",
+      "awards": [
+        {
+          "grade": "Verdienstkreuz am Bande",
+          "year": 2016,
+          "date": null,
+          "announced": "2016-10-01"
+        }
+      ]
+    }
+  ],
+  "changed_people": [
+    {
+      "id": "20fa35ed74c3",
+      "name": "Andrea Breth",
+      "country": [
+        "Deutschland",
+        "Österreich"
+      ],
+      "state": [
+        "Bayern",
+        null
+      ]
+    },
+    {
+      "id": "95c39365256a",
+      "name": "Beate Klarsfeld",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "4182eefa3e03",
+      "name": "Bernd Schmidt",
+      "country": [
+        null,
+        "Peru"
+      ]
+    },
+    {
+      "id": "571d98073cc6",
+      "name": "Christel Zießler",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2015,
+            "date": null,
+            "announced": "2015-05-01"
+          },
+          {
+            "grade": "unbekannt",
+            "year": 2022,
+            "date": null,
+            "announced": null
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2015,
+            "date": "2015-04-15",
+            "announced": "2015-05-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "fd777fb71464",
+      "name": "Christiane Deussen",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "b766b3795be6",
+      "name": "Elisabeth Kieven",
+      "country": [
+        "Deutschland",
+        "Italien"
+      ],
+      "state": [
+        "Mecklenburg-Vorpommern",
+        null
+      ]
+    },
+    {
+      "id": "42e187679ce2",
+      "name": "Gerd Dressler",
+      "country": [
+        "Deutschland",
+        "Mexiko"
+      ],
+      "state": [
+        "Brandenburg",
+        null
+      ]
+    },
+    {
+      "id": "92a64eb57443",
+      "name": "Gerd Junker",
+      "born": [
+        "1956",
+        "1949"
+      ]
+    },
+    {
+      "id": "f7467cdc51f8",
+      "name": "Gesine Bettina Liesong",
+      "residence": [
+        "Dipl. med., Sangerhausen",
+        "Sangerhausen"
+      ]
+    },
+    {
+      "id": "653d7c7b416c",
+      "name": "Hans Herth",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "b0940bc35086",
+      "name": "Helga Schauerte-Maubouet",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "568505be945e",
+      "name": "Klaus Biesenbach",
+      "country": [
+        null,
+        "USA"
+      ]
+    },
+    {
+      "id": "3155feddffd7",
+      "name": "Liselotte Helma Woyke",
+      "country": [
+        null,
+        "Peru"
+      ]
+    },
+    {
+      "id": "052a3bdc47c1",
+      "name": "Michael Horst Schmidt",
+      "country": [
+        null,
+        "Rumänien"
+      ]
+    },
+    {
+      "id": "20dbc30b439e",
+      "name": "Monika Welzel de Barbe",
+      "country": [
+        null,
+        "Peru"
+      ]
+    },
+    {
+      "id": "74535a2d831a",
+      "name": "Richard Schröder",
+      "country": [
+        null,
+        "Deutschland"
+      ],
+      "state": [
+        null,
+        "Brandenburg"
+      ]
+    },
+    {
+      "id": "ea60eee29f28",
+      "name": "Serge Klarsfeld",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "bd54b959074f",
+      "name": "Silvia Klein",
+      "country": [
+        "Deutschland",
+        "Italien"
+      ],
+      "state": [
+        "Mecklenburg-Vorpommern",
+        null
+      ]
+    },
+    {
+      "id": "d6e17fda71d1",
+      "name": "Ursula Elisabeth Paish",
+      "country": [
+        null,
+        "Vereinigtes Königreich"
+      ]
+    },
+    {
+      "id": "53fa8a4da578",
+      "name": "Almut Opolka",
+      "born": [
+        "1972",
+        "1966"
+      ]
+    },
+    {
+      "id": "714b2b4b4a73",
+      "name": "Aloysius Lögering",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": null,
+            "announced": "2017-01-01"
+          },
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2016,
+            "date": null,
+            "announced": "2017-01-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": null,
+            "announced": "2017-01-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "ab3885e85f5a",
+      "name": "Frank von Römer",
+      "born": [
+        "1942",
+        "1939"
+      ]
+    },
+    {
+      "id": "ee6cfad08006",
+      "name": "Hans-Werner Uherek",
+      "born": [
+        "1955",
+        "1952"
+      ]
+    },
+    {
+      "id": "277453fa7dcd",
+      "name": "Joachim Böhm",
+      "born": [
+        "1967",
+        "1964"
+      ]
+    },
+    {
+      "id": "0802e10b8804",
+      "name": "Joachim Wendt",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": "2017-01-13",
+            "announced": "2017-02-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2017,
+            "date": "2017-01-13",
+            "announced": "2017-02-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "8fab8e8d673c",
+      "name": "Johannes Berkessel",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": null,
+            "announced": "2016-02-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": "2016-02-04",
+            "announced": "2016-02-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "f857cf48b8ab",
+      "name": "Leo Wieland",
+      "country": [
+        null,
+        "Portugal"
+      ]
+    },
+    {
+      "id": "2c605c7dafa8",
+      "name": "Luisa Mantovani-Löffler",
+      "born": [
+        "1961",
+        "1958"
+      ]
+    },
+    {
+      "id": "aac41f13dcc3",
+      "name": "Matthias Netwall",
+      "born": [
+        "1966",
+        "1963"
+      ]
+    },
+    {
+      "id": "e52e079c16ea",
+      "name": "Michael Brand",
+      "born": [
+        "1964",
+        "1961"
+      ]
+    },
+    {
+      "id": "a13f1c2e3443",
+      "name": "Peter Vincent Gorka",
+      "born": [
+        "1945",
+        "1942"
+      ]
+    },
+    {
+      "id": "1211ee603fad",
+      "name": "Petra Tröger",
+      "born": [
+        "1958",
+        "1955"
+      ]
+    },
+    {
+      "id": "03e0eaedbcd0",
+      "name": "Rolf-Dieter Krause",
+      "country": [
+        null,
+        "Belgien"
+      ]
+    },
+    {
+      "id": "d84b1731b1d3",
+      "name": "Stilla Klein",
+      "residence": [
+        "Agnes, Berg",
+        "Berg"
+      ]
+    },
+    {
+      "id": "2fef5e9c6ee7",
+      "name": "Sven Seifert",
+      "born": [
+        "1965",
+        "1962"
+      ]
+    },
+    {
+      "id": "48eab3cd04a6",
+      "name": "Tatjana Schewtschenko",
+      "state": [
+        "Bayern",
+        "Sachsen-Anhalt"
+      ]
+    },
+    {
+      "id": "dcea0292c892",
+      "name": [
+        "Wolfgang Peter Templin",
+        "Wolfgang Templin"
+      ],
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz 1. Klasse",
+            "year": 2016,
+            "date": "2016-10-04",
+            "announced": "2016-10-01"
+          },
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2016,
+            "date": null,
+            "announced": "2016-10-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz 1. Klasse",
+            "year": 2016,
+            "date": "2016-10-04",
+            "announced": "2016-10-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "f25b1b8d3d81",
+      "name": "Bernhard Gerdtoberens",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2017,
+            "date": null,
+            "announced": "2018-03-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": "2018-02-13",
+            "announced": "2018-03-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "bd90dcb87613",
+      "name": "Detlef Roßmann",
+      "born": [
+        "1952",
+        "1947"
+      ]
+    },
+    {
+      "id": "5cda0a372f3e",
+      "name": "Hans Heinrich Klein",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2017,
+            "date": null,
+            "announced": "2018-02-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2018,
+            "date": null,
+            "announced": "2018-02-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0757c805bf98",
+      "name": "Heinz Lange",
+      "born": [
+        "1945",
+        "1940"
+      ]
+    },
+    {
+      "id": "7a7f0c2b17c9",
+      "name": "Marie Luise Hildebrandt-Junge-Wentrup",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2017,
+            "date": null,
+            "announced": "2018-04-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": "2018-02-21",
+            "announced": "2018-04-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "34d7e561ed35",
+      "name": "Markus Müller",
+      "born": [
+        "1992",
+        null
+      ],
+      "born_source": [
+        "press-age",
+        null
+      ]
+    },
+    {
+      "id": "695d9419a773",
+      "name": "Ralf Niebergall",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2017,
+            "date": "2018-05-28",
+            "announced": "2018-06-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": "2018-05-28",
+            "announced": "2018-06-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "cf567b44e169",
+      "name": "Werner Ebinger",
+      "residence": [
+        "Dipl. Wiesenbach",
+        "Wiesenbach"
+      ]
+    },
+    {
+      "id": "8367f060fe82",
+      "name": "Düzen Tekkal",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": "2021-09-01",
+            "announced": "2021-10-01"
+          },
+          {
+            "grade": "unbekannt",
+            "year": 2018,
+            "date": "2018-09-30",
+            "announced": null
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": "2021-09-01",
+            "announced": "2021-10-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "fef6dcc3023f",
+      "name": "Ekkehard Palandt",
+      "born": [
+        "1988",
+        null
+      ],
+      "born_source": [
+        "press-age",
+        null
+      ]
+    },
+    {
+      "id": "c49992b005bb",
+      "name": "Elisabeth Blumentrath-Eschweiler",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": null,
+            "announced": "2018-07-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": "2018-07-05",
+            "announced": "2018-07-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "402f12f474f1",
+      "name": "Johann Reich",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": null,
+            "announced": "2018-08-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2018,
+            "date": "2018-06-12",
+            "announced": "2018-08-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "a8c24a743d11",
+      "name": "Anna Popoff",
+      "born": [
+        "1959",
+        "1956"
+      ]
+    },
+    {
+      "id": "1f6e31141e24",
+      "name": "Brigitte Eckl",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2019,
+            "date": null,
+            "announced": "2020-03-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2021-06-25",
+            "announced": "2020-03-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "36d66d99c7ff",
+      "name": "Elke Petra Eckoldt",
+      "country": [
+        null,
+        "Deutschland"
+      ],
+      "state": [
+        null,
+        "Thüringen"
+      ]
+    },
+    {
+      "id": "18cc7ce912e9",
+      "name": "Hans-Joachim Schwerin",
+      "born": [
+        null,
+        "1943"
+      ],
+      "born_source": [
+        null,
+        "press-age"
+      ]
+    },
+    {
+      "id": "5dbde34b4aa4",
+      "name": "Herbert Marion Pichler",
+      "gender": [
+        "w",
+        "m"
+      ]
+    },
+    {
+      "id": "3b7e095167f9",
+      "name": "Marko Feingold",
+      "country": [
+        "Deutschland",
+        "Österreich"
+      ],
+      "state": [
+        "Rheinland-Pfalz",
+        null
+      ]
+    },
+    {
+      "id": "828ee2c19167",
+      "name": "Rainer Eberhard Klemke",
+      "born": [
+        "1948",
+        "1949"
+      ],
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2019,
+            "date": "2020-08-28",
+            "announced": "2020-04-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2020-06-02",
+            "announced": "2020-04-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "5bff85160ddd",
+      "name": "Richard Wolfgang Wüst",
+      "born": [
+        "1958",
+        "1952"
+      ]
+    },
+    {
+      "id": "53e1ddf1e318",
+      "name": "Dietrich Wilhelm Dreysse",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": null,
+            "announced": "2020-08-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2020-10-23",
+            "announced": "2020-08-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "2ecfacc1aa8b",
+      "name": "Edith Eiersbrock",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2023-03-17",
+            "announced": "2023-05-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2023,
+            "date": "2023-03-17",
+            "announced": "2023-05-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "241e623181c9",
+      "name": "Horst Massmann",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2021-04-21",
+            "announced": "2021-03-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": "2021-04-21",
+            "announced": "2021-03-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "becb4a744fd5",
+      "name": "Karamba Diaby",
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2020,
+            "date": "2020-10-05",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "3882cf58c2ba",
+      "name": "Karl Augustin Balk",
+      "born": [
+        "1944",
+        "1938"
+      ]
+    },
+    {
+      "id": "00a4d326b1c2",
+      "name": "Karsten-Uwe Porezag",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2020,
+            "date": "2021-05-27",
+            "announced": "2021-03-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": "2021-05-27",
+            "announced": "2021-03-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "62840ae8009e",
+      "name": "Marina Weisband",
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2020,
+            "date": "2020-10-05",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "556061faa1c3",
+      "name": "Martin Dzingel",
+      "country": [
+        "Deutschland",
+        "Tschechien"
+      ],
+      "state": [
+        "Bayern",
+        null
+      ]
+    },
+    {
+      "id": "4bec554c55d5",
+      "name": "Nana Mouskouri",
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2020,
+            "date": "2020-10-05",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "3c976319b923",
+      "name": "Navid Kermani",
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2020,
+            "date": "2020-10-05",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstkreuz 1. Klasse",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz 1. Klasse",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "b4671b36d1c7",
+      "name": "Renate Gregor",
+      "born": [
+        "1946",
+        "1940"
+      ]
+    },
+    {
+      "id": "bc72d1ff7eb5",
+      "name": "Till Brönner",
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2020,
+            "date": "2020-10-05",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2026,
+            "date": "2026-10-03",
+            "announced": "2026-10-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "15d6f4828dae",
+      "name": "Walter Ernst Maisel",
+      "born": [
+        "1954",
+        "1948"
+      ]
+    },
+    {
+      "id": "a7d1bdbeabe2",
+      "name": "Amadou Yombo Diallo",
+      "born": [
+        "1959",
+        "1961"
+      ]
+    },
+    {
+      "id": "91ccd4f80783",
+      "name": "Burkhardt Struck",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": null,
+            "announced": "2022-04-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2022,
+            "date": "2023-07-21",
+            "announced": "2022-04-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "5a2f8b812222",
+      "name": "Christa Kay",
+      "born": [
+        "1936",
+        "1938"
+      ]
+    },
+    {
+      "id": "bfe01eed8a75",
+      "name": "Frank Blockhaus",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2021,
+            "date": "2022-05-23",
+            "announced": "2022-06-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2022,
+            "date": "2022-05-23",
+            "announced": "2022-06-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "21a6462c4c94",
+      "name": "Godula Kosack",
+      "born": [
+        "1942",
+        "1944"
+      ]
+    },
+    {
+      "id": "96ff3fbcfd68",
+      "name": "Heinz Lutz Köhler",
+      "born": [
+        "1940",
+        "1942"
+      ]
+    },
+    {
+      "id": "d4ce975996a2",
+      "name": "Hubertus Letzner",
+      "born": [
+        "1941",
+        "1943"
+      ]
+    },
+    {
+      "id": "b856e9af3363",
+      "name": "Ilja Alexandrowitsch Altman",
+      "country": [
+        null,
+        "Russland"
+      ]
+    },
+    {
+      "id": "282b89f63a90",
+      "name": "Ingrid Luise Poike",
+      "born": [
+        "1944",
+        "1946"
+      ]
+    },
+    {
+      "id": "fd002e16cab5",
+      "name": "Jérôme Duval-Hamel",
+      "country": [
+        null,
+        "Frankreich"
+      ]
+    },
+    {
+      "id": "e50f0e20be2b",
+      "name": "Lars Werthmann",
+      "born": [
+        "1983",
+        "1985"
+      ]
+    },
+    {
+      "id": "a265d4514e32",
+      "name": "Monika Susanne Müller",
+      "born": [
+        "1938",
+        "1940"
+      ]
+    },
+    {
+      "id": "bca8e61ef44c",
+      "name": "Sebastian Reißig",
+      "born": [
+        "1976",
+        "1978"
+      ]
+    },
+    {
+      "id": "df2ab66db688",
+      "name": "Stefan Harry Richter",
+      "born": [
+        "1948",
+        "1950"
+      ]
+    },
+    {
+      "id": "312fc2b9899f",
+      "name": "Sylvia Ute Urban",
+      "born": [
+        "1961",
+        "1963"
+      ]
+    },
+    {
+      "id": "2b041bf06be6",
+      "name": "Václav Malý",
+      "residence": [
+        "Monsignore, Prag",
+        "Prag"
+      ],
+      "country": [
+        "Deutschland",
+        "Tschechien"
+      ],
+      "state": [
+        "Bayern",
+        null
+      ]
+    },
+    {
+      "id": "8bf09ae47f4c",
+      "name": "Bernhard Rotter",
+      "residence": [
+        "Frater Prior Emmanuel OSB, München",
+        "München"
+      ],
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2022,
+            "date": null,
+            "announced": "2022-12-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2022,
+            "date": "2022-12-05",
+            "announced": "2022-12-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "db7a5ffc9e79",
+      "name": "Hans-Dieter Pfeiffer",
+      "born": [
+        null,
+        "1944"
+      ],
+      "born_source": [
+        null,
+        "press-age"
+      ]
+    },
+    {
+      "id": "930a93692b51",
+      "name": "Helmut August Greß",
+      "born": [
+        "1944",
+        "1945"
+      ]
+    },
+    {
+      "id": "dc4710686646",
+      "name": "Richard Ferret",
+      "born": [
+        "1952",
+        null
+      ],
+      "born_source": [
+        "press-age",
+        null
+      ]
+    },
+    {
+      "id": "54b883a218ce",
+      "name": "Walter Hubert Maaßen",
+      "born": [
+        null,
+        "1936"
+      ],
+      "born_source": [
+        null,
+        "press-age"
+      ]
+    },
+    {
+      "id": "3c8372a3a967",
+      "name": "Dolores Garcia Fernandez",
+      "residence": [
+        "Schwester, Gelsenkirchen",
+        "Gelsenkirchen"
+      ]
+    },
+    {
+      "id": "aa268c7ac229",
+      "name": "Erwin Rauhe",
+      "country": [
+        null,
+        "Italien"
+      ]
+    },
+    {
+      "id": "52376496f7ce",
+      "name": "Vanessa Holdysz",
+      "born": [
+        "1984",
+        "1986"
+      ],
+      "awards": [
+        [
+          {
+            "grade": "unbekannt",
+            "year": 2023,
+            "date": "2023-12-01",
+            "announced": null
+          },
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2025,
+            "date": "2025-12-01",
+            "announced": "2025-12-05"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2025,
+            "date": "2025-12-01",
+            "announced": "2025-12-05"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "880f195d9a6b",
+      "name": "Waltraud Thiele",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2023,
+            "date": "2023-08-15",
+            "announced": "2024-10-10"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2024,
+            "date": "2024-10-01",
+            "announced": "2024-10-10"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0740c5561870",
+      "name": "Margarete Elisabeth Kauka",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2024,
+            "date": null,
+            "announced": "2025-02-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2025,
+            "date": "2025-01-16",
+            "announced": "2025-02-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "604755431e94",
+      "name": "Ruth Weiss",
+      "awards": [
+        [
+          {
+            "grade": "Großes Verdienstkreuz",
+            "year": 2024,
+            "date": "2024-04-01",
+            "announced": null
+          }
+        ],
+        [
+          {
+            "grade": "Großes Verdienstkreuz",
+            "year": 2024,
+            "date": "2024-04-01",
+            "announced": "2024-05-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "84f5907bc6fe",
+      "name": "Stanislaus Ludwig Kozuch",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2024,
+            "date": null,
+            "announced": "2024-11-01"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2024,
+            "date": "2024-12-16",
+            "announced": "2024-11-01"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "9550fb300e57",
+      "name": "Hans Helmut Ruß",
+      "born": [
+        null,
+        "1943"
+      ],
+      "born_source": [
+        null,
+        "press-age"
+      ]
+    },
+    {
+      "id": "89888c8fa05e",
+      "name": "Helga Rößing",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2025,
+            "date": null,
+            "announced": "2025-09-05"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstkreuz am Bande",
+            "year": 2025,
+            "date": "2025-10-22",
+            "announced": "2025-09-05"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "607f02d5fba3",
+      "name": "Hildegunde Helene Grabenmeier",
+      "awards": [
+        [
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2025,
+            "date": null,
+            "announced": "2026-01-12"
+          }
+        ],
+        [
+          {
+            "grade": "Verdienstmedaille",
+            "year": 2025,
+            "date": "2025-11-05",
+            "announced": "2026-01-12"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "fa0647d6dc29",
+      "name": "Hans-Joachim Jäger",
+      "born": [
+        "1940",
+        "1947"
+      ]
+    }
+  ],
+  "notes": [
+    "Before: the committed data of fix-bvk-audit (d1cc5b1). After: python -m bvk merge, then python -m bvk repair yes (18 new questions for the person/page pairs new after merging; one occupation filled).",
+    "Merges follow reviewed aliases in data/name_aliases.json and corrections in data/source_corrections.json, the municipality comparison (a village and its municipality) and folding of unknown-grade press awards into the listed award.",
+    "Open for review: Heinz / Hans Helmut Ebert (Vögelsen), Hans / Johann (Engelbert) Grillmeier (Waldsassen, two Verdienstmedaille listings and a press Verdienstkreuz am Bande), Gerd / Gerd Heinrich Escher (Gelsenkirchen, Verdienstmedaille listed in April and November 2023)."
+  ]
+}
